@@ -1,0 +1,484 @@
+"New York--Newark, NY--NJ--CT","17,799,861 ","44,675 "
+"Los Angeles--Long Beach--Santa Ana, CA","11,789,487 ","25,207 "
+"Chicago, IL--IN","8,307,904 ","31,162 "
+"Philadelphia, PA--NJ--DE--MD","5,149,079 ","20,377 "
+"Miami, FL","4,919,036 ","15,569 "
+"Dallas--Fort Worth--Arlington, TX","4,145,659 ","22,223 "
+"Boston, MA--NH--RI","4,032,484 ","17,578 "
+"Washington, DC--VA--MD","3,933,920 ","12,620 "
+"Detroit, MI","3,903,377 ","15,342 "
+"Houston, TX","3,822,509 ","17,256 "
+"Atlanta, GA","3,499,840 ","25,046 "
+"San Francisco--Oakland, CA","2,995,769 ","7,688 "
+"Phoenix--Mesa, AZ","2,907,049 ","11,929 "
+"Seattle, WA","2,712,205 ","11,719 "
+"San Diego, CA","2,674,436 ","5,964 "
+"Minneapolis--St. Paul, MN--WI","2,650,890 ","13,389 "
+"San Juan, PR","2,216,616 ","7,714 "
+"St. Louis, MO--IL","2,077,662 ","11,892 "
+"Baltimore, MD","2,076,354 ","7,558 "
+"Tampa--St. Petersburg, FL","2,062,339 ","9,695 "
+"Denver--Aurora, CO","1,984,887 ","8,505 "
+"Cleveland, OH","1,786,647 ","7,389 "
+"Pittsburgh, PA","1,753,136 ","9,478 "
+"Portland, OR--WA","1,583,138 ","7,202 "
+"San Jose, CA","1,538,312 ","3,869 "
+"Riverside--San Bernardino, CA","1,506,816 ","5,286 "
+"Cincinnati, OH--KY--IN","1,503,262 ","7,106 "
+"Virginia Beach, VA","1,394,439 ","6,761 "
+"Sacramento, CA","1,393,498 ","5,245 "
+"Kansas City, MO--KS","1,361,744 ","9,836 "
+"San Antonio, TX","1,327,554 ","6,436 "
+"Las Vegas, NV","1,314,357 ","4,623 "
+"Milwaukee, WI","1,308,913 ","6,532 "
+"Indianapolis, IN","1,218,919 ","7,348 "
+"Providence, RI--MA","1,174,548 ","6,093 "
+"Orlando, FL","1,157,431 ","5,664 "
+"Columbus, OH","1,133,193 ","5,851 "
+"New Orleans, LA","1,009,283 ","3,350 "
+"Buffalo, NY","976,703 ","4,378 "
+"Memphis, TN--MS--AR","972,091 ","5,063 "
+"Austin, TX","901,920 ","5,236 "
+"Bridgeport--Stamford, CT--NY","888,890 ","3,961 "
+"Salt Lake City, UT","887,650 ","3,664 "
+"Jacksonville, FL","882,295 ","5,489 "
+"Louisville, KY--IN","863,582 ","4,708 "
+"Hartford, CT","851,535 ","4,131 "
+"Richmond, VA","818,836 ","5,052 "
+"Charlotte, NC--SC","758,927 ","4,695 "
+"Nashville-Davidson, TN","749,935 ","5,705 "
+"Oklahoma City, OK","747,003 ","5,254 "
+"Tucson, AZ","720,425 ","4,104 "
+"Honolulu, HI","718,182 ","1,138 "
+"Dayton, OH","703,444 ","3,988 "
+"Rochester, NY","694,396 ","3,236 "
+"El Paso, TX--NM","674,801 ","3,022 "
+"Birmingham, AL","663,615 ","4,808 "
+"Omaha, NE--IA","626,623 ","2,907 "
+"Albuquerque, NM","598,191 ","4,036 "
+"Allentown--Bethlehem, PA--NJ","576,408 ","3,256 "
+"Springfield, MA--CT","573,610 ","3,547 "
+"Akron, OH","570,215 ","3,461 "
+"Sarasota--Bradenton, FL","559,229 ","3,391 "
+"Albany, NY","558,947 ","3,072 "
+"Tulsa, OK","558,329 ","4,371 "
+"Fresno, CA","554,923 ","2,655 "
+"Concord, CA","552,624 ","1,654 "
+"Raleigh, NC","541,527 ","4,340 "
+"Grand Rapids, MI","539,080 ","2,941 "
+"Mission Viejo, CA","533,015 ","1,574 "
+"New Haven, CT","531,314 ","2,536 "
+"McAllen, TX","523,144 ","3,800 "
+"Toledo, OH--MI","503,008 ","2,685 "
+"Baton Rouge, LA","479,019 ","2,518 "
+"Colorado Springs, CO","466,122 ","2,603 "
+"Worcester, MA--CT","429,882 ","2,802 "
+"Charleston--North Charleston, SC","423,410 ","1,728 "
+"Wichita, KS","422,301 ","2,995 "
+"Columbia, SC","420,537 ","2,314 "
+"Knoxville, TN","419,830 ","3,508 "
+"Ogden--Layton, UT","417,933 ","2,497 "
+"Youngstown, OH--PA","417,437 ","2,659 "
+"Syracuse, NY","402,267 ","2,062 "
+"Bakersfield, CA","396,125 ","1,642 "
+"Palm Bay--Melbourne, FL","393,289 ","2,674 "
+"Scranton, PA","385,237 ","2,110 "
+"Des Moines, IA","370,505 ","2,558 "
+"Flint, MI","365,096 ","2,081 "
+"Harrisburg, PA","362,782 ","2,210 "
+"Little Rock, AR","360,331 ","3,295 "
+"Poughkeepsie--Newburgh, NY","351,982 ","3,253 "
+"Chattanooga, TN--GA","343,509 ","2,915 "
+"Oxnard, CA","337,591 ","1,840 "
+"Augusta-Richmond County, GA--SC","335,630 ","2,864 "
+"Spokane, WA--ID","334,858 ","2,066 "
+"Cape Coral, FL","329,757 ","2,775 "
+"Madison, WI","329,533 ","1,921 "
+"Pensacola, FL--AL","323,783 ","2,867 "
+"Lancaster, PA","323,554 ","1,711 "
+"Mobile, AL","317,605 ","2,223 "
+"Stockton, CA","313,392 ","1,159 "
+"Modesto, CA","310,945 ","1,153 "
+"Reno, NV","303,689 ","1,208 "
+"Provo--Orem, UT","303,680 ","2,142 "
+"Greenville, SC","302,194 ","2,156 "
+"Lansing, MI","300,032 ","1,539 "
+"Denton--Lewisville, TX","299,823 ","1,987 "
+"Winston-Salem, NC","299,290 ","2,269 "
+"Aguadilla--Isabela--San Sebastian, PR","299,086 ","1,695 "
+"Corpus Christi, TX","293,925 ","1,576 "
+"Jackson, MS","292,637 ","3,156 "
+"Durham, NC","287,796 ","1,673 "
+"Fort Wayne, IN","287,759 ","1,648 "
+"Santa Rosa, CA","285,408 ",897 
+"Ann Arbor, MI","283,904 ","1,300 "
+"South Bend, IN--MI","276,498 ","1,740 "
+"Fayetteville, NC","276,368 ","1,676 "
+"Shreveport, LA","275,213 ","1,882 "
+"Boise City, ID","272,625 ","1,589 "
+"Port St. Lucie, FL","270,774 ","1,980 "
+"Davenport, IA--IL","270,626 ","1,780 "
+"Rockford, IL","270,414 ","1,881 "
+"Trenton, NJ","268,472 ","1,179 "
+"Greensboro, NC","267,884 ","1,787 "
+"Canton, OH","266,595 ","1,959 "
+"Lancaster--Palmdale, CA","263,532 ","1,297 "
+"Daytona Beach--Port Orange, FL","255,353 ","1,902 "
+"Indio--Cathedral City--Palm Springs, CA","254,856 ","1,225 "
+"Lexington-Fayette, KY","250,994 ","1,006 "
+"Peoria, IL","247,172 ","1,479 "
+"Barnstable Town, MA","243,667 ","2,973 "
+"Columbus, GA--AL","242,324 ","2,385 "
+"Reading, PA","240,264 ","1,223 "
+"San Rafael--Novato, CA","232,836 ", -
+"Temecula--Murrieta, CA","229,810 ",805 
+"Atlantic City, NJ","227,180 ","1,636 "
+"Round Lake Beach--McHenry--Grayslake, IL--WI","226,848 ",297 
+"Lincoln, NE","226,582 ","1,363 "
+"Anchorage, AK","225,744 ",910 
+"Eugene, OR","224,049 ","1,072 "
+"Asheville, NC","221,570 ","2,228 "
+"Bonita Springs--Naples, FL","221,251 ","1,380 "
+"Antioch, CA","217,591 ",764 
+"Springfield, MO","215,004 ","1,499 "
+"Huntsville, AL","213,253 ","1,682 "
+"Evansville, IN--KY","211,989 ","1,281 "
+"Thousand Oaks, CA","210,990 ",696 
+"Savannah, GA","208,886 ","1,842 "
+"Salem, OR","207,229 ",898 
+"Fort Collins, CO","206,633 ","1,319 "
+"Gulfport--Biloxi, MS","205,754 ","1,907 "
+"Tallahassee, FL","204,260 ","1,190 "
+"Lubbock, TX","202,225 ","1,510 "
+"Victorville--Hesperia--Apple Valley, CA","200,436 ","1,342 "
+"Lakeland, FL","199,487 ","1,699 "
+"Roanoke, VA","197,442 ","1,183 "
+"Nashua, NH--MA","197,155 ","1,470 "
+"Montgomery, AL","196,892 ","1,730 "
+"Santa Barbara, CA","196,263 ",735 
+"Ponce, PR","195,037 ",579 
+"Erie, PA","194,804 ",925 
+"Lorain--Elyria, OH","193,586 ",884 
+"York, PA","192,903 ","1,217 "
+"Waterbury, CT","189,026 ",822 
+"Portland, ME","188,080 ","1,077 "
+"Kalamazoo, MI","187,961 ","1,207 "
+"Hickory, NC","187,808 ","1,976 "
+"Appleton, WI","187,683 ","1,385 "
+"Green Bay, WI","187,316 ","1,313 "
+"Kissimmee, FL","186,667 ","1,259 "
+"Charleston, WV","182,991 ","1,257 "
+"Amarillo, TX","179,312 ","1,329 "
+"Salinas, CA","179,173 ",624 
+"Bremerton, WA","178,369 ","1,097 "
+"Lafayette, LA","178,079 ","1,134 "
+"Huntington, WV--KY--OH","177,550 ","1,372 "
+"Laredo, TX","175,586 ",884 
+"Aberdeen--Havre de Grace--Bel Air, MD","174,598 ","1,039 "
+"Norwich--New London, CT","173,160 ","1,458 "
+"Fayetteville--Springdale, AR","172,585 ","2,663 "
+"Santa Clarita, CA","170,481 ",310 
+"Killeen, TX","167,976 ","1,156 "
+"Brownsville, TX","165,776 ",918 
+"Wilmington, NC","161,149 ","1,095 "
+"Gainesville, FL","159,508 ","1,054 "
+"Vallejo, CA","158,967 ",489 
+"Binghamton, NY--PA","158,884 ","1,091 "
+"Santa Cruz, CA","157,348 ",470 
+"Cedar Rapids, IA","155,334 ","1,271 "
+"Muskegon, MI","154,729 ","1,084 "
+"Danbury, CT--NY","154,455 ",836 
+"Winter Haven, FL","153,924 ","1,404 "
+"Kennewick--Richland, WA","153,851 ","1,295 "
+"Springfield, IL","153,516 ","1,119 "
+"Waco, TX","153,198 ","1,361 "
+"Fort Walton Beach, FL","152,741 ","1,494 "
+"Deltona, FL","147,713 ","1,067 "
+"New Bedford, MA","146,730 ",829 
+"Arecibo, PR","145,643 ",618 
+"Spartanburg, SC","145,058 ","1,182 "
+"Olympia--Lacey, WA","143,826 ",841 
+"Manchester, NH","143,549 ",864 
+"Fargo, ND--MN","142,477 ",845 
+"Topeka, KS","142,411 ","1,220 "
+"Gastonia, NC","141,407 ",420 
+"Saginaw, MI","140,985 ",789 
+"Beaumont, TX","139,304 ","1,802 "
+"Murfreesboro, TN","135,855 ",64 
+"Macon, GA","135,170 ","1,245 "
+"Lake Charles, LA","132,977 ",978 
+"High Point, NC","132,844 ","1,325 "
+"College Station--Bryan, TX","132,500 ",779 
+"Panama City, FL","132,419 ","1,339 "
+"Elkhart, IN--MI","131,226 ","1,045 "
+"Racine, WI","129,545 ",614 
+"Medford, OR","128,780 ",819 
+"Houma, LA","125,929 ",720 
+"Lafayette, IN","125,738 ",637 
+"Seaside--Monterey--Marina, CA","125,503 ",657 
+"Sioux Falls, SD","124,269 ","1,123 "
+"Champaign, IL","123,938 ",651 
+"Pueblo, CO","123,351 ","1,144 "
+"Myrtle Beach, SC","122,984 ",759 
+"North Port--Punta Gorda, FL","122,421 ","2,071 "
+"Clarksville, TN--KY","121,775 ",851 
+"Vero Beach--Sebastian, FL","120,962 ","1,062 "
+"Hagerstown, MD--WV--PA","120,326 ",781 
+"Santa Maria, CA","120,297 ",375 
+"Visalia, CA","120,044 ",545 
+"Mayaguez, PR","119,350 ",458 
+"Frederick, MD","119,144 ",679 
+"Duluth, MN--WI","118,265 ","1,017 "
+"Kailua (Honolulu County)--Kaneohe, HI","117,730 ",276 
+"Hemet, CA","117,200 ",385 
+"Tuscaloosa, AL","116,888 ",837 
+"Concord, NC","115,057 ","1,044 "
+"Port Arthur, TX","114,656 ", -
+"Marysville, WA","114,372 ",765 
+"Monroe, LA","113,818 ",832 
+"Utica, NY","113,409 ","1,194 "
+"Leominster--Fitchburg, MA","112,943 ",930 
+"San German--Cabo Rojo--Sabana Grande, PR","112,939 ",571 
+"Yakima, WA","112,816 ",733 
+"Fairfield, CA","112,446 ",359 
+"Bloomington--Normal, IL","112,415 ",741 
+"Simi Valley, CA","112,345 ",324 
+"Boulder, CO","112,299 ",424 
+"Odessa, TX","111,395 ","1,083 "
+"Kenosha, WI","110,942 ",576 
+"Harlingen, TX","110,770 ",924 
+"Merced, CA","110,483 ",527 
+"Waterloo, IA","108,298 ",853 
+"Yauco, PR","108,024 ",446 
+"Abilene, TX","107,041 ",850 
+"Ocala, FL","106,542 ","1,390 "
+"Athens-Clarke County, GA","106,482 ","1,010 "
+"Fort Smith, AR--OK","106,470 ","1,393 "
+"South Lyon--Howell--Brighton, MI","106,139 ",794 
+"Sioux City, IA--NE--SD","106,119 ",777 
+"Burlington, VT","105,365 ",716 
+"Redding, CA","105,267 ",658 
+"Las Cruces, NM","104,186 ","2,073 "
+"Johnson City, TN","102,456 ","1,019 "
+"Brooksville, FL","102,193 ","1,267 "
+"Tyler, TX","101,494 ",824 
+"Billings, MT","100,317 ",747 
+"Wichita Falls, TX","99,396 ",679 
+"Midland, TX","99,221 ",826 
+"Columbia, MO","98,779 ",686 
+"Lynchburg, VA","98,714 ",755 
+"Yuba City, CA","97,645 ",582 
+"Leesburg--Eustis, FL","97,497 ",952 
+"Fredericksburg, VA","97,102 ",824 
+"Anderson, IN","97,038 ",817 
+"Decatur, IL","96,454 ",747 
+"Texas City, TX","96,417 ","1,008 "
+"Nampa, ID","95,909 ",806 
+"Kingsport, TN--VA","95,766 ","1,117 "
+"Jacksonville, NC","95,514 ",375 
+"Albany, GA","95,450 ",906 
+"Yuma, AZ--CA","94,950 ",497 
+"Middletown, OH","94,355 ",530 
+"Burlington, NC","94,248 ",750 
+"Greeley, CO","93,879 ",599 
+"Bloomington, IN","92,456 ",492 
+"Grand Junction, CO","92,362 ",714 
+"Holland, MI","91,795 ",560 
+"Eau Claire, WI","91,393 ",851 
+"St. Cloud, MN","91,305 ",721 
+"Rochester, MN","91,271 ",625 
+"Warner Robins, GA","90,838 ","1,097 "
+"Muncie, IN","90,673 ",618 
+"Vacaville, CA","90,264 ",343 
+"La Crosse, WI--MN","89,966 ",613 
+"Springfield, OH","89,684 ",538 
+"Lawton, OK","89,556 ",507 
+"The Woodlands, TX","89,445 ",420 
+"Chico, CA","89,221 ",303 
+"Vineland, NJ","88,724 ",660 
+"Gainesville, GA","88,680 ",554 
+"Jackson, MI","88,050 ",597 
+"San Angelo, TX","87,969 ",693 
+"Wheeling, WV--OH","87,613 ",698 
+"Port Huron, MI","86,486 ",549 
+"Norman, OK","86,478 ", -
+"Parkersburg, WV--OH","85,605 ",506 
+"Iowa City, IA","85,247 ",481 
+"Alton, IL","84,655 ", -
+"Gilroy--Morgan Hill, CA","84,620 ",458 
+"Bellingham, WA","84,324 ",579 
+"Greenville, NC","84,059 ",588 
+"Lodi, CA","83,735 ",289 
+"Altoona, PA","82,520 ",500 
+"Charlottesville, VA","81,449 ",331 
+"Dover--Rochester, NH--ME","80,456 ",492 
+"Santa Fe, NM","80,337 ","1,558 "
+"Slidell, LA","79,926 ",613 
+"Napa, CA","79,867 ",278 
+"Mansfield, OH","79,698 ",596 
+"Lawrence, KS","79,647 ",503 
+"Terre Haute, IN","79,376 ",814 
+"Battle Creek, MI","79,135 ",625 
+"Fajardo, PR","78,595 ",312 
+"Alexandria, LA","78,504 ",671 
+"Longview, TX","78,070 ",666 
+"Mauldin--Simpsonville, SC","77,831 ",338 
+"Guayama, PR","77,755 ",362 
+"St. Joseph, MO--KS","77,231 ",596 
+"Logan, UT","76,187 ",503 
+"Johnstown, PA","76,113 ",510 
+"Anniston, AL","75,840 ","1,244 "
+"Livermore, CA","75,202 ",545 
+"Bismarck, ND","74,991 ",529 
+"Coeur d'Alene, ID","74,800 ",555 
+"St. Charles, MD","74,765 ", -
+"Lima, OH","74,071 ",525 
+"Bay City, MI","74,048 ",468 
+"Weirton--Steubenville, WV--OH--PA","73,710 ",576 
+"Pottstown, PA","73,597 ",520 
+"Lake Jackson--Angleton, TX","73,416 ",582 
+"Longmont, CO","72,929 ",364 
+"Texarkana, TX--Texarkana, AR","72,288 ",879 
+"Joplin, MO","72,089 ",697 
+"Temple, TX","71,937 ",738 
+"State College, PA","71,301 ",312 
+"Florence, AL","71,299 ",795 
+"Oshkosh, WI","71,070 ",390 
+"Anderson, SC","70,436 ",773 
+"Rock Hill, SC","70,007 ",453 
+"Newark, OH","70,001 ",444 
+"Hightstown, NJ","69,977 ", -
+"Turlock, CA","69,507 ",161 
+"Missoula, MT","69,491 ",558 
+"Florida--Barceloneta--Bajadero, PR","68,811 ",175 
+"Sheboygan, WI","68,600 ",416 
+"West Bend, WI","68,444 ",523 
+"Wausau, WI","68,221 ",719 
+"Cheyenne, WY","68,202 ",742 
+"Avondale, AZ","67,875 ","2,812 "
+"Owensboro, KY","67,665 ",422 
+"Florence, SC","67,314 ",482 
+"Elmira, NY","67,159 ",450 
+"Idaho Falls, ID","66,973 ",394 
+"Rapid City, SD","66,780 ",736 
+"Watsonville, CA","66,500 ",178 
+"Michigan City, IN--MI","66,199 ",498 
+"Janesville, WI","66,034 ",504 
+"Davis, CA","66,022 ",183 
+Conway,"65,277 ",640 
+"Dubuque, IA--IL","65,251 ",400 
+"Jackson, TN","65,086 ",526 
+"Kankakee, IL","65,073 ",447 
+"Dover, DE","65,044 ",457 
+"Westminster, MD","65,034 ",470 
+"Radcliff--Elizabethtown, KY","64,504 ",541 
+"Great Falls, MT","64,387 ",440 
+"Sumter, SC","64,320 ",488 
+"Twin River-Hightstown, NJ","64,037 ",297 
+"Kokomo, IN","63,739 ",439 
+"Lebanon, PA","63,681 ",368 
+"Mandeville--Covington, LA","62,866 ",459 
+"Camarillo, CA","62,798 ",238 
+"St. George, UT","62,630 ",603 
+"Pocatello, ID","62,498 ",371 
+"Prescott, AZ","61,909 ",898 
+"Benton Harbor--St. Joseph, MI","61,745 ",479 
+"Gadsden, AL","61,709 ","1,067 "
+"Rocky Mount, NC","61,657 ",451 
+"Victoria, TX","61,529 ",483 
+"Hattiesburg, MS","61,465 ",760 
+"Dothan, AL","60,792 ",790 
+"Longview, WA--OR","60,443 ",350 
+"Lafayette--Louisville, CO","60,387 ",369 
+"Porterville, CA","60,261 ",225 
+"Auburn, AL","60,137 ",788 
+"Petaluma, CA","59,958 ",134 
+"Salisbury, MD--DE","59,426 ",540 
+"Tracy, CA","59,020 ",109 
+"Bangor, ME","58,983 ",410 
+"Williamsport, PA","58,693 ",452 
+"Pine Bluff, AR","58,584 ",752 
+"Bristol, TN--Bristol, VA","58,472 ",677 
+"Uniontown--Connellsville, PA","58,442 ",439 
+"Bowling Green, KY","58,314 ",448 
+"Rome, GA","58,287 ",671 
+"Carson City, NV","58,263 ",305 
+"Corvallis, OR","58,229 ",316 
+"Cleveland, TN","58,192 ",521 
+"Madera, CA","58,027 ",151 
+"Goldsboro, NC","57,915 ",361 
+"Casper, WY","57,719 ",507 
+"Dalton, GA","57,666 ",850 
+"Valdosta, GA","57,647 ",650 
+"Glens Falls, NY","57,627 ",485 
+"Bend, OR","57,525 ",446 
+"Blacksburg, VA","57,236 ",287 
+"Flagstaff, AZ","57,050 ",323 
+"Grand Forks, ND--MN","56,573 ",353 
+"Monessen, PA","56,508 ",629 
+"Beloit, WI--IL","56,462 ",450 
+"Sherman, TX","56,168 ",578 
+"Morgantown, WV","55,997 ",313 
+"DeKalb, IL","55,805 ",348 
+"Lompoc, CA","55,667 ",149 
+"Wenatchee, WA","55,425 ",395 
+"Lee's Summit, MO","55,285 ", -
+"Juana Diaz, PR","54,835 ",226 
+"Galveston, TX","54,770 ",893 
+"Atascadero--El Paso de Robles (Paso Robles), CA","54,762 ",273 
+"McKinney, TX","54,525 ",820 
+"Morristown, TN","54,368 ",513 
+"Pascagoula, MS","54,190 ",473 
+"Zephyrhills, FL","53,979 ",364 
+"Hanford, CA","53,967 ",690 
+"Jefferson City, MO","53,714 ",448 
+"Winchester, VA","53,559 ",308 
+"Ithaca, NY","53,528 ",291 
+"St. Augustine, FL","53,519 ",460 
+"San Luis Obispo, CA","53,498 ",343 
+"Kingston, NY","53,458 ",726 
+"Farmington, NM","53,294 ","3,636 "
+"Danville, IL","53,223 ",425 
+"Monroe, MI","53,153 ",311 
+"El Centro, CA","52,954 ",169 
+"Titusville, FL","52,922 ",381 
+"Pittsfield, MA","52,772 ",409 
+"Harrisonburg, VA","52,647 ",260 
+"Wildwood--North Wildwood--Cape May, NJ","52,550 ", -
+"Decatur, AL","52,315 ",660 
+"Fairbanks, AK","51,926 ",499 
+"Cumberland, MD--WV--PA","51,899 ",419 
+"Jonesboro, AR","51,804 ",845 
+"Hot Springs, AR","51,763 ",540 
+"Hazleton, PA","51,746 ",351 
+"Brunswick, GA","51,653 ",562 
+"Villas, NJ","51,291 ",452 
+"Manteca, CA","51,176 ",116 
+"Mount Vernon, WA","51,174 ",326 
+"Saratoga Springs, NY","51,172 ",382 
+"Portsmouth, NH--ME","50,912 ",696 
+"Danville, VA","50,902 ",425 
+"Ames, IA","50,726 ",261 
+"Lady Lake, FL","50,721 ",654 
+"Sandusky, OH","50,693 ", -
+"Lewiston, ME","50,567 ",526 
+"Hinesville, GA","50,360 ",352 
+"Lewiston, ID--WA","50,317 ",361 
+"Columbus, IN","50,227 ",430 
+"Middletown, NY","50,071 ",538 
+"Fond du Lac, WI","50,058 ",388 
+"Cape Girardeau, MO--IL", -,427 
+"Carbondale, IL", -,467 
+"Cartersville, GA", -,576 
+"Casa Grande, AZ", -,387 
+"Conroe--The Woodlands, TX", -,128 
+"El Paso de Robles (Paso Robles)--Atascadero, CA", -,36 
+"Hammond, LA", -,157 
+"Hanford, CA", -,22 
+"Lake Havasu City, AZ", -,495 
+"Lexington Park--California--Chesapeake Ranch Estates, MD", -,290 
+"Manhattan, KS", -,381 
+"Mankato, MN", -,364 
+"Sierra Vista, AZ", -,569 
+"Waldorf, MD", -,510 
+"Walla Walla, WA--OR", -,253 

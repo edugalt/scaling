@@ -1,0 +1,9 @@
+The data is from here:
+http://ec.europa.eu/eurostat/web/cities/data/database
+
+It includes data on european metropolitan areas regarding:
+- population
+- culture (e.g. number of theaters)
+- 'all companies' (is this the number of companies?)
+
+The tables `EUROSTAT_*` were constructed by merging the different tables.

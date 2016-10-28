@@ -1,0 +1,219 @@
+city	population	patents
+Tokyo	34482742	8726.97
+Mexico City	18759024	32.95
+Osaka	17211139	4451.12
+Los Angeles	16742427	1957.68
+New York	16453331	2001.66
+Paris	11529670	2467.55
+Chicago	9231469	1582.07
+San Francisco	6778659	5138.16
+Nagoya	6364462	1050.03
+Madrid	6259099	388.54
+Miami	5448094	348.31
+Houston	5363803	1590.06
+Washington	5098743	706.36
+Berlin	4363940	768.75
+Atlanta	4202262	532.4
+Guadalajara	4199699	20.48
+Milan	4014266	464.74
+Philadelphia	4004502	714.24
+Dallas	3966038	553.69
+Rome	3941844	206.36
+Monterrey	3915469	28.93
+Detroit	3897193	581.52
+Phoenix	3654911	377.98
+Boston	3616814	2207.5
+Barcelona	3594393	333.21
+Naples	3544063	61.81
+Minneapolis	3212176	1672.45
+San Diego	3036850	2689.27
+Hamburg	2973464	524.37
+Munich	2786626	1377.94
+Lisbon	2758968	37.82
+Vienna	2630118	346.69
+Seattle	2581101	1125.68
+Saint Louis (US)	2536904	355.52
+Frankfurt	2510347	725.65
+Fukuoka	2489357	344.88
+Brussels	2436174	300.99
+Denver	2418085	315.66
+Amsterdam	2317340	272.6
+Sapporo	2173198	323.79
+Portland	2162610	432.57
+Cincinnati	2065761	510.69
+Puebla	2040938	7.18
+Copenhagen	1972725	733.48
+Stuttgart	1949365	1223.86
+Baltimore	1939607	256.39
+Stockholm	1938753	1101.63
+San Antonio	1926315	95.29
+Sacramento/Roseville	1896335	140.83
+Cologne	1892004	385.77
+Kansas City	1875496	115.66
+Lyon	1863301	522.86
+Las Vegas	1860912	79.91
+Fort Worth	1839723	156.9
+Toluca	1830930	4.73
+Orlando	1747437	131.47
+Turin	1734766	185.69
+Marseille	1697613	207.5
+Columbus	1661412	190.82
+Austin	1608564	431.72
+Indianapolis	1607756	280.45
+Sendai	1566495	227.2
+Milwaukee	1544538	188.14
+León  	1532311	4.36
+Cleveland	1531657	311.96
+Valencia	1525303	84.92
+Rotterdam	1473917	157.8
+Tijuana	1454563	2.49
+Helsinki	1435086	499.62
+Düsseldorf	1428489	430.78
+Hiroshima	1395689	201.06
+Seville	1384844	40.0
+Clearwater/Saint Petersburg	1355292	85.78
+Lille	1342383	86.05
+Porto	1294369	28.32
+Juárez	1291263	2.01
+Mérida	1268175	2.13
+Memphis	1253006	131.57
+Mannheim	1246471	657.7
+Pittsburgh	1234856	230.52
+Hanover	1225512	246.57
+Charlotte	1219694	123.93
+Louisville	1201653	83.96
+Torreón	1200260	1.07
+Nashville	1198031	74.3
+Oslo	1189595	236.5
+Tampa	1179272	77.04
+Kitakyushu	1178467	182.29
+Toulouse	1175096	328.79
+New Orleans	1167692	46.56
+Nuremberg	1165861	342.8
+Buffalo	1142342	137.97
+San Luis Potosí	1138054	1.79
+Oklahoma city	1134503	49.82
+Naha	1132545	145.59
+Jacksonville	1122012	52.55
+Bordeaux	1096729	97.34
+Salt Lake City	1092119	266.4
+Norfolk-Portsmouth-Chesapeake-Virginia beach	1070351	20.25
+Raleigh	1054223	409.15
+Querétaro	1051248	4.56
+Fresno	1047811	21.45
+Niigata	1043537	133.93
+Antwerp	1040008	112.67
+Bremen	1024841	90.5
+Bilbao	989856	38.55
+Hamamatsu	988553	215.09
+Maebashi	983987	146.86
+Kumamoto	966481	120.61
+Tucson	951298	161.71
+Palermo	934310	11.55
+Tulsa	931604	62.91
+Aguascalientes	903451	1.8
+Birmingham (US)	898585	61.77
+Mexicali	888359	1.79
+Okayama	875734	111.06
+Gothenburg	866669	373.83
+The Hague	856025	143.75
+Albuquerque	852670	62.04
+Nantes	851118	56.7
+Omaha	844399	29.05
+Cuernavaca	842719	2.88
+Providence	842024	75.43
+Leipzig	841674	61.97
+Centro	835752	2.74
+Nice	835633	172.28
+Culiacán	833605	0.74
+Dortmund	832638	96.76
+Dresden	832097	192.44
+Albany	829004	165.72
+Duisburg	819201	89.64
+Morelia	810600	1.05
+Málaga	805318	14.24
+Zaragoza	802680	61.82
+Utsunomiya	795825	157.43
+Chihuahua	795318	1.04
+El Paso	778279	12.13
+Acapulco de Juárez	771643	0.68
+Essen	765005	90.87
+Veracruz	753428	2.67
+Strasbourg	750126	105.23
+Hermosillo	744872	5.33
+Bonn	743893	154.33
+Anjo	739873	119.27
+Kanazawa	738279	111.87
+Bologna	736403	114.34
+Tampico	735995	1.85
+Shizuoka	731561	107.04
+Mcallen	728502	8.15
+Genova	720659	45.46
+Liege	719881	37.2
+Florence	718528	57.91
+Himeji	713873	126.8
+Kagoshima	701848	92.82
+Xalapa	701667	0.63
+Utrecht	698897	112.59
+Dayton	698590	58.43
+Tuxtla Gutiérrez	697947	0.82
+Oaxaca de Juárez	696208	0.62
+Rouen	691978	47.08
+Saltillo	691461	3.62
+Eindhoven	683518	1564.87
+Karlsruhe	682950	207.83
+Reynosa	678999	1.95
+Bochum	658177	73.48
+Rennes	652633	152.81
+Little Rock	652415	22.05
+Las Palmas	647252	4.29
+Malmö	647057	443.8
+Matsuyama	642774	93.53
+Grenoble	642731	358.42
+Charleston	639308	39.51
+Baton Rouge	631545	46.76
+Columbia	623161	25.27
+Colorado Springs	622377	48.83
+Catania	620503	14.46
+Montpellier	618454	78.3
+Toyohashi	607494	103.83
+Benito Juárez	601960	1.53
+Linz	601505	122.42
+Saarbrücken	598133	71.76
+Grand Rapids	596855	51.15
+Graz	596616	155.94
+Augsburg	594054	124.62
+Mito	587575	114.78
+Des Moines	583305	66.43
+Aachen	581472	218.6
+Wichita	577946	33.31
+Celaya	577685	0.71
+Kurashiki	575995	86.0
+Bari	575049	20.15
+Ghent	568747	91.48
+Harrisburg	565403	37.91
+Yokkaichi	564710	103.88
+Tokushima	563890	82.89
+Durango	561607	2.5
+Fukuyama	559460	85.03
+Oita	546534	69.95
+Toyama	543461	101.63
+Nagano	542747	75.96
+Akron	542004	113.27
+Toulon	541211	23.15
+Venice	540352	26.22
+Münster	537922	80.81
+Wakayama	531694	85.75
+Madison	531023	162.49
+Tallinn	530889	21.97
+Numazu	530836	113.28
+Takamatsu	526596	78.82
+Freiburg im Breisgau	523171	145.05
+Nagasaki	520603	71.61
+Saint-Étienne	518589	56.44
+Kofu	515136	86.12
+Irapuato	509017	2.83
+Pachuca de Soto	507805	1.45
+Richmond	500350	18.58
+Kochi	496137	62.55
+Toledo (US)	444432	58.27

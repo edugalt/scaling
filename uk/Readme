@@ -1,0 +1,42 @@
+This data was kindly provided by Elsa Arcaute and corresponds to the data used in Ref.:
+
+    Elsa Arcaute, Erez Hatna, Peter Ferguson, Hyejin Youn, Anders Johansson, and Michael Batty.
+    Constructing cities , deconstructing scaling laws. Journal of The Royal Society Interface, (i):3--6, 2015.
+
+This particular dataset corresponds to clusters with more than 50.000 people, as used in Fig. 5b.
+Please refer to reference above for details about the data and clustering method.
+
+Translation of entries:
+
+d_Work    	Distance to work (km)
+AgricultHF	Employment in agriculture, hunting and forestry  
+Manufact  	Employment in manufacturing  
+Construct 	Employment in construction  
+HotelRest 	Employment in hotels and restaurants  
+FinanceInt	Employment in financial intermediation  
+RealEstate	Employment in real estate, business activities  
+Admin     	Employment: public admin & defence, social security  
+Education 	Employment in education  
+Income    	Total income (weekly)   
+NetIncome 	Net income (weekly)   
+NIncBH    	Net income (weekly) (before housing costs)   
+NIncAH    	Net income (weekly) (after housing costs) 
+Households	Total number of households  
+CarsVans  	Total number of cars and vans  
+Dwellings 	All household spaces  
+OccuDwell 	Occupied household spaces  
+UnDwell   	Unoccupied household spaces  
+UnSecDwell	Unoccupied household spaces: Second residence  
+Employed  	All people aged 16-74 in employment   
+Managers  	Employment as managers and senior officials 
+Profess   	Employment in professional occupations   
+technical 	Employment in associate prof and technical occ.  
+Admin2    	Employment in admin and secretarial occ.  
+SkillTrd  	Employment in skilled trades occupations  
+Service   	Employment in personal service occupations   
+Sales     	Employment in sales and customer service occ.  
+plant     	Employment: process; plant & machine operatives  
+Basic     	Employment in elementary occupations  
+Coach     	Coach stations
+Train     	Train stations
+Patents   	Patents 2000-2011

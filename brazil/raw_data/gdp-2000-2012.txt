@@ -1,0 +1,4 @@
+data collected from:
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?ibge/cnv/pibmunbr.def
+
+Source: IBGE, em parceria com os Órgãos Estaduais de Estatística, Secretarias Estaduais de Governo e Superintendência da Zona Franca de Manaus - SUFRAMA.

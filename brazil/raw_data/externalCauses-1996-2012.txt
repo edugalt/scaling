@@ -1,0 +1,5 @@
+Data obtained from: tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/ext10br.def
+
+It corresponds to deaths by external causes in Municipalities of Brazil in the year 2010
+
+The original source is MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM

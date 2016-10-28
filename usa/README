@@ -1,0 +1,21 @@
+1) GDP data
+
+Data retrieved from
+http://www.bea.gov/iTable/index_regional.cfm
+
+This is the gdp for metropolitan (and also micropolitan) areas in the US from 2001-2013 (yearly)
+
+2) Population data
+
+Data retrieved from
+https://www.census.gov/popest/data/metro/totals/2014/
+
+It is the (estimated) population for metropolitan areas in the US (also for 2013).
+The metro-areas seem to correspond to the ones in the gdp-data.
+
+3) Miles data
+
+Data retrived from table "hm71.xls" from:
+http://www.fhwa.dot.gov/policyinformation/statistics/2013/
+
+table "metropolitan-miles.csv" from copy paste of the table above
