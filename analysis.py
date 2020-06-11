@@ -185,7 +185,7 @@ class LikelihoodAnalysis(Analysis):
             # merge the 3 statistics and compute its probability
             k3 = s*s + k*k + sr*sr
 
-            return {'p_value': scipy.stats.chisqprob(k3, 3)}
+            return {'p_value': scipy.stats.distributions.chi2.sf(k3, 3)}
 
     @cache('_results/mle_{1}.json')
     def _mle_calculation(self, cache_file):
