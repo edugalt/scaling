@@ -9,7 +9,7 @@ Washington-Arlington-Alexandria,_DC-VA-MD-WV	5967176	463925.0
 Miami-Fort_Lauderdale-West_Palm_Beach,_FL	5863458	281076.0
 Atlanta-Sandy_Springs-Roswell,_GA	5525432	307233.0
 Boston-Cambridge-Newton,_MA-NH	4698049	370769.0
-San_Francisco-Oakland-Hayward,_CA	4529654	388272.0
+San_FranciscoOaklandHayward,_CA	4529654	388272.0
 Phoenix-Mesa-Scottsdale,_AZ	4404129	209523.0
 Riverside-San_Bernardino-Ontario,_CA	4390262	126761.0
 Detroit-Warren-Dearborn,_MI	4295394	224726.0
@@ -25,7 +25,7 @@ Charlotte-Concord-Gastonia,_NC-SC	2337339	139022.0
 Portland-Vancouver-Hillsboro,_OR-WA	2314747	163692.0
 San_Antonio-New_Braunfels,_TX	2282201	96030.0
 Orlando-Kissimmee-Sanford,_FL	2271083	110443.0
-Sacramento--Roseville--Arden-Arcade,_CA	2217515	108165.0
+SacramentoRosevilleArden-Arcade,_CA	2217515	108165.0
 Cincinnati,_OH-KY-IN	2138536	119090.0
 Cleveland-Elyria,_OH	2065328	122878.0
 Kansas_City,_MO-KS	2055351	117321.0
@@ -34,7 +34,7 @@ Columbus,_OH	1969032	114253.0
 Indianapolis-Carmel-Anderson,_IN	1953146	126472.0
 San_Jose-Sunnyvale-Santa_Clara,_CA	1928701	196829.0
 Austin-Round_Rock,_TX	1885803	103892.0
-Nashville-Davidson--Murfreesboro--Franklin,_TN	1758577	100841.0
+Nashville-DavidsonMurfreesboroFranklin,_TN	1758577	100841.0
 Virginia_Beach-Norfolk-Newport_News,_VA-NC	1707385	88572.0
 Providence-Warwick,_RI-MA	1605521	73334.0
 Milwaukee-Waukesha-West_Allis,_WI	1570167	94374.0
@@ -93,7 +93,7 @@ Des_Moines-West_Des_Moines,_IA	600086	42654.0
 Augusta-Richmond_County,_GA-SC	580230	20833.0
 Jackson,_MS	577219	28211.0
 Provo-Orem,_UT	562253	19102.0
-Scranton--Wilkes-Barre--Hazleton,_PA	561838	21175.0
+ScrantonWilkes-BarreHazleton,_PA	561838	21175.0
 Harrisburg-Carlisle,_PA	557906	31784.0
 Youngstown-Warren-Boardman,_OH-PA	556129	18885.0
 Palm_Bay-Melbourne-Titusville,_FL	551440	18258.0

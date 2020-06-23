@@ -8,3 +8,4 @@ Sources:
     1981-1990, 1992-1999, 2001-2006: IBGE - Estimativas preliminares para os anos intercensitários dos totais populacionais, estratificadas por idade e sexo pelo MS/SGEP/Datasus.
     2007-2009: IBGE - Estimativas elaboradas no âmbito do Projeto UNFPA/IBGE (BRA/4/P31A) - População e Desenvolvimento. Coordenação de População e Indicadores Sociais.
     2011-2012: IBGE - Estimativas populacionais enviadas para o TCU, estratificadas por idade e sexo pelo MS/SGEP/Datasus.
+
