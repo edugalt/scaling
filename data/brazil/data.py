@@ -66,6 +66,51 @@ def get_population(year):
 
     return result
 
+def filtername(name):
+    a=name.lower()
+    a=a.replace("ó","o")
+    a=a.replace("ô","o")
+    a=a.replace("ç","c")
+    a=a.replace("á","a")
+    a=a.replace("í","i")
+    a=a.replace("ê","e")
+    a=a.replace("ã","a")
+    a=a.replace("ú","u")
+    a=a.replace("â","a")
+    a=a.replace("é","e")
+    a=a.replace("â","a")
+    a=a.replace("õ","o")
+    a=a.replace("","")
+    a=a.replace("","")
+    return a
+
+def get_location():
+    pop=get_population(2010)
+    #Read file with locations
+    with open(os.path.dirname(__file__) +'/raw_data/spatial.csv','r', encoding='utf-8') as f:
+        data = f.readlines()
+    result={}
+    for row in data[1:]:
+        columns=row.split(",")
+        city_name = columns[4].lower()
+        city_location=[float(columns[1]),float(columns[2])]
+        result[city_name]=city_location
+
+        # Extract city name and index from file with population and attribute new name and index (to be standard with other data)
+    location={}
+    y=0;n=0;
+    for i in pop.keys():
+        cityname=pop[i]['name']
+        cityname=filtername(cityname)
+        if cityname in result.keys():
+            y=y+1
+            location[i]={'name':pop[i]['name'],'location':result[cityname]}
+        else:
+        #if(pop[i]['population'])>20000:
+        #    print("N\t"+cityname+str(pop[i]['population']))
+            n=n+1
+    return location
+#print("y=",str(y),"\t n=",str(n))
 
 def get_gdp(year):
     assert(2000 <= year <= 2012)
@@ -158,6 +203,23 @@ def get_externalCauses(year):
     return result
 
 
+@cache(os.path.dirname(__file__)+'/json/data-extlocation.json')
+def raw_extloc_data(year,flush=False):
+    population = get_population(year)
+    ext = get_externalCauses(year)
+    location = get_location()
+    # add gdp and location to the population dictionary
+    common = set(population.keys()).intersection(set(ext.keys())).intersection(set(location.keys()))
+
+    result = {}
+    for city in common:
+        result[city] = population[city]
+        result[city]['ext'] = ext[city]['externalCauses']
+        result[city]['location'] = location[city]['location']
+
+    return result
+
+
 @cache(os.path.dirname(__file__) + '/json/data-GDP{0}.json')
 def raw_gdp_data(year, flush=False):
     population = get_population(year)
@@ -171,6 +233,25 @@ def raw_gdp_data(year, flush=False):
         result[city]['gdp'] = gdp[city]['gdp']
 
     return result
+
+@cache(os.path.dirname(__file__)+'/json/data-gdplocation.json')
+def raw_gdploc_data(year,flush=False):
+    population = get_population(year)
+    gdp = get_gdp(year)
+    location = get_location()
+    # add gdp and location to the population dictionary
+    common = set(population.keys()).intersection(set(gdp.keys())).intersection(set(location.keys()))
+
+    result = {}
+    for city in common:
+        result[city] = population[city]
+        result[city]['gdp'] = gdp[city]['gdp']
+        result[city]['location'] = location[city]['location']
+
+    return result
+
+
+    
 
 @cache(os.path.dirname(__file__) + '/json/data-aids{0}.json')
 def raw_aids_data(year, flush=False):
@@ -199,6 +280,22 @@ def raw_externalCauses_data(year, flush=False):
     return result
 
 
+#@cache(os.path.dirname(__file__)+'/json/data-aidslocation.json')
+def raw_aidsloc_data(year,flush=False):
+    population = get_population(year)
+    aids = get_aids(year)
+    location = get_location()
+    # add aids and location to the population dictionary
+    common = set(population.keys()).intersection(set(aids.keys())).intersection(set(location.keys()))
+    result = {}
+    for city in common:
+        result[city] = population[city]
+        result[city]['aids'] = aids[city]['aids']
+        result[city]['location'] = location[city]['location']
+
+    return result
+
+
 @cache(os.path.dirname(__file__) + '/json/data-growth{0}.json')
 def raw_growth_data(year, flush=False):
     population = get_population(year)
@@ -213,3 +310,4 @@ def raw_growth_data(year, flush=False):
             old_population[city]['population']
 
     return result
+
