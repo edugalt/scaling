@@ -2,16 +2,11 @@
 
 This repository contains both data and code from the papers:
 
-Spatial Interctions in urban scaling laws, by Eduardo G. Altmann.
+Spatial Interctions in urban scaling laws, by Eduardo G. Altmann, [arXiv:2006.14140](https://arxiv.org/abs/2006.14140).
 
-[Is this scaling non-linear?](rsos.royalsocietypublishing.org/content/3/7/150649) by
-Jorge C. Leitão, José M. Miotto, Martin Gerlach, and Eduardo G. Altmann,
-DOI: 10.1098/rsos.150649.
-
-The current version is an improved version of the one written mostly by JCL and provided together
-with the publication in:
-https://doi.org/10.5281/zenodo.49367
-
+Is this scaling non-linear? by
+Jorge C. Leitão, José M. Miotto, Martin Gerlach, and Eduardo G. Altmann, [
+Royal Society Open Science 3, 150649 (2016)](rsos.royalsocietypublishing.org/content/3/7/150649)
 
 ## Installation
 
