@@ -6,7 +6,7 @@ Spatial Interctions in urban scaling laws, by Eduardo G. Altmann, [arXiv:2006.14
 
 Is this scaling non-linear? by
 Jorge C. Leitão, José M. Miotto, Martin Gerlach, and Eduardo G. Altmann, [
-Royal Society Open Science 3, 150649 (2016)](rsos.royalsocietypublishing.org/content/3/7/150649)
+Royal Society Open Science 3, 150649 (2016)](http://rsos.royalsocietypublishing.org/content/3/7/150649)
 
 ## Installation
 
