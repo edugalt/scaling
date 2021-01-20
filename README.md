@@ -2,7 +2,7 @@
 
 This repository contains both data and code from the papers:
 
-Spatial Interctions in urban scaling laws, by Eduardo G. Altmann, [PLOS ONE 15, e0243390](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243390]).
+Spatial Interctions in urban scaling laws, by Eduardo G. Altmann, [PLOS ONE 15, e0243390 (2020)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243390]).
 
 Is this scaling non-linear? by
 Jorge C. Leitão, José M. Miotto, Martin Gerlach, and Eduardo G. Altmann, [
