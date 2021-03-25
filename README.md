@@ -8,11 +8,6 @@ Is this scaling non-linear? by
 Jorge C. Leitão, José M. Miotto, Martin Gerlach, and Eduardo G. Altmann, [
 Royal Society Open Science 3, 150649 (2016)](http://rsos.royalsocietypublishing.org/content/3/7/150649)
 
-## Installation
-
-Copy the files to a directory and install the dependencies (numpy, scipy, matplotlib) running 
-
-    pip install -r requirements.txt
 
 ## Notebook and Examples
 
@@ -33,6 +28,11 @@ For example, to get the population-gdp of brazilian cities from 2010 use:
     import brazil
     x, y = brazil.gdp(2010)
 
+## Installation
+
+Copy the files to a directory and install the dependencies (numpy, scipy, matplotlib), e.g. running 
+
+    pip install -r requirements.txt
 
 ## Further information on the 2020 paper (Spatial models):
 
