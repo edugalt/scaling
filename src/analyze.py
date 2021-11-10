@@ -5,14 +5,19 @@ from analysis import DATABASES, MODELS
 # read from env.
 required_successes = int(os.getenv('REQUIRED_SUCCESSES', 8))
 
-database = os.getenv('DATASET', 'new_dataset')
+database = os.getenv('DATASET', 'new_dataset') ###
 model = os.getenv('MODEL')
 
 if database == 'new_dataset':
     print('NOTE: dataset should be added to `new_dataset/generic_dataset.txt`.')
     print('NOTE: If you change the dataset after running the analysis, you must remove the '
           'corresponding results `_results/*new_dataset*` or the returned values are of the old dataset.')
-
+'''    
+if database == 'covid19':
+    print('NOTE: dataset should be added to `covid19/covid19.txt`.')
+    print('NOTE: If you change the dataset after running the analysis, you must remove the '
+          'corresponding results `_results/*new_dataset*` or the returned values are of the old dataset.') 
+'''
 # Number of samples for bootstrap (default: 0 do not compute errors)
 samples = int(os.getenv('ERROR_SAMPLES', 0))
 if samples == 0:

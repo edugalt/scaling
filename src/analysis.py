@@ -27,7 +27,7 @@ import scipy.stats
 import scipy.stats.mstats
 
 from brazil.data import cache
-import brazil, eurostat, usa, oecd, uk, new_dataset, new_dataset2
+import brazil, eurostat, usa, oecd, uk, new_dataset, new_dataset2, covid19
 from best_parameters import mls_best_fit, minimize_with_errors, \
     NormalModel, LogNormalModel, PopulationModel
 from pvalue_population import pvalue_pop
@@ -79,8 +79,11 @@ DATABASES = {'brazil_aids_2010': lambda: remove_zero_y(*sort_data(*brazil.aids(2
              'uk_train': lambda: remove_zero_y(*sort_data(*uk.row('Train'))),
              'new_dataset': lambda: remove_zero_y(*sort_data(*new_dataset.index())),
              'new_dataset2': lambda: remove_zero_y(*sort_data(*new_dataset2.index())),
+             'covid19_USA': lambda: remove_zero_y(*sort_data(*covid19.covid19_USA())),
+             'covid19_NSW': lambda: remove_zero_y(*sort_data(*covid19.covid19_NSW())),
+             'covid19_chile': lambda: remove_zero_y(*sort_data(*covid19.covid19_chile())),
+             'covid19_brazil': lambda: remove_zero_y(*sort_data(*covid19.covid19_brazil())),
              }
-
 
 class Analysis(object):
     """
