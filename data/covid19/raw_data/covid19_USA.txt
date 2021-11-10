@@ -1,0 +1,3132 @@
+#county,population,cases
+Abbeville-South Carolina,24404,3741
+Acadia-Louisiana,61918,10359
+Accomack-Virginia,32238,3944
+Ada-Idaho,494399,76211
+Adair-Iowa,7059,1038
+Adair-Kentucky,19555,3346
+Adair-Missouri,25399,3567
+Adair-Oklahoma,21955,4818
+Adams-Colorado,519883,74013
+Adams-Idaho,4447,485
+Adams-Illinois,64783,13041
+Adams-Indiana,35839,4772
+Adams-Iowa,3588,498
+Adams-Mississippi,30275,4567
+Adams-Nebraska,31321,3825
+Adams-North Dakota,2188,359
+Adams-Ohio,27531,4050
+Adams-Pennsylvania,102742,12601
+Adams-Washington,20027,3131
+Adams-Wisconsin,20498,2672
+Addison-Vermont,36851,1403
+Aiken-South Carolina,172895,26496
+Aitkin-Minnesota,15848,1758
+Alachua-Florida,271218,38858
+Alamance-North Carolina,171346,25792
+Alameda-California,1662323,119671
+Alamosa-Colorado,16180,2293
+Albany-New York,303654,30119
+Albany-Wyoming,38950,6035
+Albemarle-Virginia,110652,7788
+Alcona-Michigan,10505,1026
+Alcorn-Mississippi,36889,5623
+Aleutians East Borough-Alaska,3401,431
+Aleutians West Census Area-Alaska,5680,917
+Alexander-Illinois,5497,710
+Alexander-North Carolina,37441,6312
+Alexandria city-Virginia,158726,13971
+Alfalfa-Oklahoma,5718,1290
+Alger-Michigan,9015,972
+Allamakee-Iowa,13642,1929
+Allegan-Michigan,118927,14011
+Allegany-Maryland,70057,9409
+Allegany-New York,45587,4436
+Alleghany-North Carolina,11194,1586
+Alleghany-Virginia,14701,2037
+Allegheny-Pennsylvania,1211358,126023
+Allen-Indiana,382187,56825
+Allen-Kansas,12399,1831
+Allen-Kentucky,21303,3706
+Allen-Louisiana,25440,4667
+Allen-Ohio,101980,15490
+Allendale-South Carolina,8331,1340
+Alpena-Michigan,28238,2927
+Alpine-California,1119,102
+Amador-California,40083,5359
+Amelia-Virginia,13014,1363
+Amherst-Virginia,31667,4235
+Amite-Mississippi,12205,2033
+Anchorage-Alaska,287095,51848
+Anderson-Kansas,7949,1087
+Anderson-Kentucky,22833,3214
+Anderson-South Carolina,204353,35718
+Anderson-Tennessee,77558,12684
+Anderson-Texas,57805,7905
+Andrew-Missouri,17586,2711
+Andrews-Texas,18879,2751
+Androscoggin-Maine,108547,10190
+Angelina-Texas,86796,13560
+Anne Arundel-Maryland,582777,51746
+Anoka-Minnesota,359921,52591
+Anson-North Carolina,24097,3765
+Antelope-Nebraska,6264,675
+Antrim-Michigan,23449,2229
+Apache-Arizona,71875,13353
+Appanoose-Iowa,12430,1762
+Appling-Georgia,18325,3435
+Appomattox-Virginia,16043,2316
+Aransas-Texas,23814,2580
+Arapahoe-Colorado,657452,77970
+Archer-Texas,8730,1205
+Archuleta-Colorado,14196,1418
+Arenac-Michigan,14953,1633
+Arlington-Virginia,240119,18195
+Armstrong-Pennsylvania,64162,8267
+Armstrong-Texas,1869,273
+Aroostook-Maine,66804,3577
+Arthur-Nebraska,466,24
+Ascension-Louisiana,128665,21616
+Ashe-North Carolina,27166,3357
+Ashland-Ohio,53362,6683
+Ashland-Wisconsin,15415,1770
+Ashley-Arkansas,19339,3142
+Ashtabula-Ohio,96513,9266
+Asotin-Washington,22820,2661
+Assumption-Louisiana,21621,3610
+Atascosa-Texas,51724,8458
+Atchison-Kansas,16015,2323
+Atchison-Missouri,5096,649
+Athens-Ohio,65481,7591
+Atkinson-Georgia,8393,1561
+Atlantic-New Jersey,262945,38666
+Atoka-Oklahoma,13912,2698
+Attala-Mississippi,18004,3299
+Audrain-Missouri,24835,3673
+Audubon-Iowa,5481,645
+Auglaize-Ohio,45680,6578
+Augusta-Virginia,76544,9981
+Aurora-South Dakota,2730,537
+Austin-Texas,29972,3413
+Autauga-Alabama,56145,9865
+Avery-North Carolina,17571,2673
+Avoyelles-Louisiana,39966,7020
+Baca-Colorado,3555,413
+Bacon-Georgia,11036,2479
+Bailey-Texas,6697,994
+Baker-Florida,29566,5948
+Baker-Georgia,2971,367
+Baker-Oregon,16284,1963
+Baldwin-Alabama,229287,36965
+Baldwin-Georgia,45099,6602
+Ballard-Kentucky,7769,649
+Baltimore-Maryland,826017,75213
+Baltimore city-Maryland,586131,60484
+Bamberg-South Carolina,13906,2116
+Bandera-Texas,23861,2258
+Banks-Georgia,19352,2718
+Banner-Nebraska,786,52
+Bannock-Idaho,88795,12636
+Baraga-Michigan,8164,1226
+Barber-Kansas,4358,480
+Barbour-Alabama,24589,3550
+Barbour-West Virginia,16444,2547
+Barnes-North Dakota,10402,1742
+Barnstable-Massachusetts,213164,17242
+Barnwell-South Carolina,20805,3844
+Barren-Kentucky,44300,7775
+Barron-Wisconsin,45090,8097
+Barrow-Georgia,85588,14477
+Barry-Michigan,62061,7417
+Barry-Missouri,35818,4226
+Bartholomew-Indiana,84447,11395
+Barton-Kansas,25658,3742
+Barton-Missouri,11592,1768
+Bartow-Georgia,109426,20292
+Bastrop-Texas,91601,14150
+Bates-Missouri,16242,2255
+Bath-Kentucky,12481,1535
+Bath-Virginia,4119,445
+Baxter-Arkansas,42242,5750
+Bay-Florida,171322,31453
+Bay-Michigan,102387,14015
+Bayfield-Wisconsin,15242,1577
+Baylor-Texas,3518,538
+Beadle-South Dakota,18513,3203
+Bear Lake-Idaho,6143,635
+Beaufort-North Carolina,47073,6900
+Beaufort-South Carolina,195656,26863
+Beauregard-Louisiana,37881,6010
+Beaver-Oklahoma,5207,550
+Beaver-Pennsylvania,162575,20842
+Beaver-Utah,6761,1010
+Beaverhead-Montana,9483,1381
+Becker-Minnesota,34456,5128
+Beckham-Oklahoma,21468,3382
+Bedford-Pennsylvania,47817,6398
+Bedford-Tennessee,50179,8969
+Bedford-Virginia,79811,9603
+Bee-Texas,32513,5268
+Belknap-New Hampshire,61551,5803
+Bell-Kentucky,25482,5708
+Bell-Texas,369927,38359
+Belmont-Ohio,65932,8966
+Beltrami-Minnesota,47442,6219
+Ben Hill-Georgia,16614,3199
+Benewah-Idaho,9430,1101
+Bennett-South Dakota,3399,452
+Bennington-Vermont,35338,2871
+Benson-North Dakota,6762,1255
+Bent-Colorado,5356,1656
+Benton-Arkansas,288774,41414
+Benton-Indiana,8741,1500
+Benton-Iowa,25414,3524
+Benton-Minnesota,40958,7299
+Benton-Mississippi,8351,1470
+Benton-Missouri,19627,2582
+Benton-Oregon,93239,5245
+Benton-Tennessee,16131,2731
+Benton-Washington,206426,30401
+Benzie-Michigan,17852,1583
+Bergen-New Jersey,930394,118198
+Berkeley-South Carolina,235987,30643
+Berkeley-West Virginia,122125,17644
+Berks-Pennsylvania,421017,56487
+Berkshire-Massachusetts,124571,8412
+Bernalillo-New Mexico,681666,73479
+Berrien-Georgia,19408,3456
+Berrien-Michigan,153025,18692
+Bertie-North Carolina,18712,2430
+Bethel Census Area-Alaska,18437,5565
+Bexar-Texas,2026823,316402
+Bibb-Alabama,22136,4208
+Bibb-Georgia,152737,25126
+Bienville-Louisiana,12983,2468
+Big Horn-Montana,13063,2957
+Big Horn-Wyoming,11575,1942
+Big Stone-Minnesota,4923,776
+Billings-North Dakota,890,88
+Bingham-Idaho,47202,6421
+Black Hawk-Iowa,130786,20150
+Blackford-Indiana,11782,1866
+Bladen-North Carolina,32911,5388
+Blaine-Idaho,23426,2891
+Blaine-Montana,6568,1161
+Blaine-Nebraska,457,38
+Blaine-Oklahoma,9447,1477
+Blair-Pennsylvania,121007,16322
+Blanco-Texas,12269,1290
+Bland-Virginia,6239,1042
+Bleckley-Georgia,12955,2303
+Bledsoe-Tennessee,15223,3438
+Blount-Alabama,57879,10047
+Blount-Tennessee,134751,23338
+Blue Earth-Minnesota,68241,9432
+Boise-Idaho,8065,695
+Bolivar-Mississippi,30142,6259
+Bollinger-Missouri,12111,1713
+Bon Homme-South Dakota,6848,1614
+Bond-Illinois,16262,2538
+Bonner-Idaho,46817,4976
+Bonneville-Idaho,122134,18831
+Boone-Arkansas,37625,6140
+Boone-Illinois,52777,7838
+Boone-Indiana,69347,8786
+Boone-Iowa,26277,3452
+Boone-Kentucky,135396,20356
+Boone-Missouri,182991,25080
+Boone-Nebraska,5096,685
+Boone-West Virginia,21055,3352
+Borden-Texas,706,41
+Bosque-Texas,18603,2412
+Bossier-Louisiana,127275,21485
+Botetourt-Virginia,33633,3675
+Bottineau-North Dakota,6287,934
+Boulder-Colorado,327171,29831
+Boundary-Idaho,12656,1303
+Bourbon-Kansas,14435,2402
+Bourbon-Kentucky,19901,3078
+Bowie-Texas,93481,12550
+Bowman-North Dakota,2986,538
+Box Butte-Nebraska,10696,1447
+Box Elder-Utah,57007,8023
+Boyd-Kentucky,46516,8139
+Boyd-Nebraska,1860,227
+Boyle-Kentucky,30367,5244
+Bracken-Kentucky,8286,1065
+Bradford-Florida,28593,5303
+Bradford-Pennsylvania,60221,7308
+Bradley-Arkansas,10639,1943
+Bradley-Tennessee,109071,21790
+Branch-Michigan,43424,7078
+Brantley-Georgia,19202,3094
+Braxton-West Virginia,13702,2029
+Brazoria-Texas,380518,58778
+Brazos-Texas,232555,38183
+Breathitt-Kentucky,12550,1953
+Breckinridge-Kentucky,20537,2625
+Bremer-Iowa,25311,3539
+Brevard-Florida,608459,79757
+Brewster-Texas,9237,1074
+Briscoe-Texas,1487,215
+Bristol-Massachusetts,566765,79288
+Bristol-Rhode Island,48350,5930
+Bristol Bay plus Lake and Peninsula-Alaska,2281,423
+Bristol city-Virginia,17329,2212
+Broadwater-Montana,6444,777
+Brooke-West Virginia,21674,2960
+Brookings-South Dakota,35603,5029
+Brooks-Georgia,15357,2404
+Brooks-Texas,6964,1115
+Broome-New York,189420,23669
+Broomfield-Colorado,72236,6437
+Broward-Florida,1958105,352257
+Brown-Illinois,6546,1057
+Brown-Indiana,15112,1423
+Brown-Kansas,9482,1507
+Brown-Minnesota,24846,3942
+Brown-Nebraska,2981,295
+Brown-Ohio,43414,6223
+Brown-South Dakota,38738,6445
+Brown-Texas,37633,6901
+Brown-Wisconsin,264610,44073
+Brule-South Dakota,5254,797
+Brunswick-North Carolina,149039,15873
+Brunswick-Virginia,16037,1758
+Bryan-Georgia,40755,6261
+Bryan-Oklahoma,48998,8479
+Buchanan-Iowa,21287,2744
+Buchanan-Missouri,86530,15001
+Buchanan-Virginia,20613,2273
+Buckingham-Virginia,17168,2589
+Bucks-Pennsylvania,627987,71205
+Buena Vista-Iowa,19772,4897
+Buena Vista city-Virginia,6402,1237
+Buffalo-Nebraska,50114,7186
+Buffalo-South Dakota,1956,447
+Buffalo-Wisconsin,13033,1875
+Bullitt-Kentucky,82182,11726
+Bulloch-Georgia,80839,11123
+Bullock-Alabama,9976,1517
+Buncombe-North Carolina,263477,27296
+Bureau-Illinois,32303,4395
+Burke-Georgia,22648,3727
+Burke-North Carolina,90418,15385
+Burke-North Dakota,2118,292
+Burleigh-North Dakota,96212,21325
+Burleson-Texas,18514,3224
+Burlington-New Jersey,446596,53387
+Burnet-Texas,49653,7285
+Burnett-Wisconsin,15557,2106
+Burt-Nebraska,6477,757
+Butler-Alabama,19504,3233
+Butler-Iowa,14333,2033
+Butler-Kansas,66992,10627
+Butler-Kentucky,12703,2285
+Butler-Missouri,42178,6549
+Butler-Nebraska,7960,1046
+Butler-Ohio,385648,50526
+Butler-Pennsylvania,189135,23861
+Butte-California,212744,23129
+Butte-Idaho,2646,323
+Butte-South Dakota,10538,1768
+Butts-Georgia,25426,4614
+Cabarrus-North Carolina,221479,32149
+Cabell-West Virginia,91589,14318
+Cache-Utah,130004,20960
+Caddo-Louisiana,237479,38990
+Caddo-Oklahoma,28684,5094
+Calaveras-California,46308,3795
+Calcasieu-Louisiana,203310,34011
+Caldwell-Kentucky,12687,2241
+Caldwell-Louisiana,9839,2207
+Caldwell-Missouri,9051,1116
+Caldwell-North Carolina,82100,12976
+Caldwell-Texas,43979,8327
+Caledonia-Vermont,29705,1623
+Calhoun-Alabama,113469,22065
+Calhoun-Arkansas,5113,590
+Calhoun-Florida,14078,2991
+Calhoun-Georgia,6231,834
+Calhoun-Illinois,4616,684
+Calhoun-Iowa,9473,1842
+Calhoun-Michigan,133580,18000
+Calhoun-Mississippi,14241,2771
+Calhoun-South Carolina,14554,1723
+Calhoun-Texas,21001,3879
+Calhoun-West Virginia,6945,856
+Callahan-Texas,14110,1734
+Callaway-Missouri,44887,7323
+Calloway-Kentucky,39300,5084
+Calumet-Wisconsin,50209,8012
+Calvert-Maryland,93072,5484
+Camas-Idaho,1130,106
+Cambria-Pennsylvania,128672,18302
+Camden-Georgia,55388,7857
+Camden-Missouri,46414,6236
+Camden-New Jersey,506809,66665
+Camden-North Carolina,10984,1078
+Cameron-Louisiana,7003,857
+Cameron-Pennsylvania,4330,461
+Cameron-Texas,424180,64822
+Camp-Texas,13060,1990
+Campbell-Kentucky,94020,12727
+Campbell-South Dakota,1380,158
+Campbell-Tennessee,39837,6923
+Campbell-Virginia,55304,6924
+Campbell-Wyoming,46676,8249
+Canadian-Oklahoma,153192,22572
+Candler-Georgia,10985,1563
+Cannon-Tennessee,14847,2757
+Canyon-Idaho,237053,39172
+Cape Girardeau-Missouri,79512,12853
+Cape May-New Jersey,91546,12279
+Carbon-Montana,10921,1271
+Carbon-Pennsylvania,64081,8381
+Carbon-Utah,20760,2734
+Carbon-Wyoming,14711,2555
+Caribou-Idaho,7123,952
+Carlisle-Kentucky,4692,611
+Carlton-Minnesota,35769,4333
+Caroline-Maryland,33492,3035
+Caroline-Virginia,30860,3752
+Carroll-Arkansas,28276,4242
+Carroll-Georgia,121633,16254
+Carroll-Illinois,14241,2345
+Carroll-Indiana,20228,2570
+Carroll-Iowa,19914,3420
+Carroll-Kentucky,10730,1816
+Carroll-Maryland,169092,11469
+Carroll-Mississippi,9732,1670
+Carroll-Missouri,8554,1364
+Carroll-New Hampshire,49167,3500
+Carroll-Ohio,26897,2919
+Carroll-Tennessee,27779,5644
+Carroll-Virginia,30074,3753
+Carson-Texas,5854,758
+Carson City-Nevada,56034,8634
+Carter-Kentucky,26542,4452
+Carter-Missouri,5991,1064
+Carter-Montana,1235,171
+Carter-Oklahoma,48353,8805
+Carter-Tennessee,56418,10330
+Carteret-North Carolina,69558,8144
+Carver-Minnesota,106565,13264
+Cascade-Montana,81346,14036
+Casey-Kentucky,16066,2782
+Cass-Illinois,11925,2637
+Cass-Indiana,37388,7439
+Cass-Iowa,12817,1906
+Cass-Michigan,51584,6848
+Cass-Minnesota,29928,4059
+Cass-Missouri,106806,14025
+Cass-Nebraska,26232,3415
+Cass-North Dakota,183904,30425
+Cass-Texas,29879,4408
+Cassia-Idaho,24277,3671
+Castro-Texas,7396,1290
+Caswell-North Carolina,22443,3123
+Catahoula-Louisiana,9226,1773
+Catawba-North Carolina,160307,27749
+Catoosa-Georgia,67996,9381
+Catron-New Mexico,3623,181
+Cattaraugus-New York,75863,7375
+Cavalier-North Dakota,3713,520
+Cayuga-New York,76029,8454
+Cecil-Maryland,103419,8413
+Cedar-Iowa,18485,2464
+Cedar-Missouri,14322,1652
+Cedar-Nebraska,8414,940
+Centre-Pennsylvania,161496,20002
+Cerro Gordo-Iowa,42103,6842
+Chaffee-Colorado,20661,2159
+Chambers-Alabama,32865,5541
+Chambers-Texas,45590,8715
+Champaign-Illinois,209192,26786
+Champaign-Ohio,38960,4967
+Chariton-Missouri,7360,1019
+Charles-Maryland,164436,14140
+Charles City-Virginia,6821,662
+Charles Mix-South Dakota,9262,1701
+Charleston-South Carolina,417981,64235
+Charlevoix-Michigan,26105,2354
+Charlotte-Florida,194711,22792
+Charlotte-Virginia,11820,1225
+Charlottesville city-Virginia,46950,5227
+Charlton-Georgia,13430,2257
+Chase-Kansas,2586,338
+Chase-Nebraska,3840,505
+Chatham-Georgia,289463,38295
+Chatham-North Carolina,75748,6604
+Chattahoochee-Georgia,10551,5693
+Chattooga-Georgia,24843,4509
+Chautauqua-Kansas,3230,485
+Chautauqua-New York,126032,12126
+Chaves-New Mexico,64711,12552
+Cheatham-Tennessee,41101,6912
+Cheboygan-Michigan,25365,2653
+Chelan-Washington,77574,10842
+Chemung-New York,82622,10437
+Chenango-New York,46730,4543
+Cherokee-Alabama,26294,2990
+Cherokee-Georgia,265274,43149
+Cherokee-Iowa,11190,1920
+Cherokee-Kansas,19681,3569
+Cherokee-North Carolina,29073,4592
+Cherokee-Oklahoma,49019,8912
+Cherokee-South Carolina,57316,9814
+Cherokee-Texas,52875,6741
+Cherry-Nebraska,5781,394
+Chesapeake city-Virginia,247011,28139
+Cheshire-New Hampshire,76228,5388
+Chester-Pennsylvania,526759,49165
+Chester-South Carolina,32232,6270
+Chester-Tennessee,17432,3484
+Chesterfield-South Carolina,45606,7071
+Chesterfield-Virginia,358245,38524
+Cheyenne-Colorado,1795,164
+Cheyenne-Kansas,2600,422
+Cheyenne-Nebraska,9111,1208
+Chickasaw-Iowa,11834,1566
+Chickasaw-Mississippi,16951,2959
+Chicot-Arkansas,9924,2004
+Childress-Texas,7143,1539
+Chilton-Alabama,44397,6559
+Chippewa-Michigan,36958,6676
+Chippewa-Minnesota,11758,1830
+Chippewa-Wisconsin,64737,10527
+Chisago-Minnesota,56794,8060
+Chittenden-Vermont,164306,10605
+Choctaw-Alabama,12418,862
+Choctaw-Mississippi,8063,1329
+Choctaw-Oklahoma,14646,2701
+Chouteau-Montana,5699,645
+Chowan-North Carolina,13815,2239
+Christian-Illinois,32075,5191
+Christian-Kentucky,71478,10052
+Christian-Missouri,90655,12934
+Churchill-Nevada,25363,3615
+Cibola-New Mexico,26354,4202
+Cimarron-Oklahoma,2145,306
+Citrus-Florida,153010,20166
+Clackamas-Oregon,421596,28944
+Claiborne-Louisiana,15508,1996
+Claiborne-Mississippi,8911,1305
+Claiborne-Tennessee,32023,5320
+Clallam-Washington,78067,4461
+Clare-Michigan,30771,3478
+Clarendon-South Carolina,33415,4962
+Clarion-Pennsylvania,38305,4396
+Clark-Arkansas,22103,3169
+Clark-Idaho,852,77
+Clark-Illinois,15268,2638
+Clark-Indiana,119266,18315
+Clark-Kansas,1963,318
+Clark-Kentucky,36463,5065
+Clark-Missouri,6830,972
+Clark-Nevada,2315963,333608
+Clark-Ohio,133593,19372
+Clark-South Dakota,3802,500
+Clark-Washington,496865,39431
+Clark-Wisconsin,34720,4651
+Clarke-Alabama,23291,4723
+Clarke-Georgia,127795,19844
+Clarke-Iowa,9353,1400
+Clarke-Mississippi,15299,2895
+Clarke-Virginia,14622,1313
+Clatsop-Oregon,40423,2382
+Clay-Alabama,13112,2385
+Clay-Arkansas,14375,2676
+Clay-Florida,221770,33480
+Clay-Georgia,2866,314
+Clay-Illinois,13079,2560
+Clay-Indiana,26246,4155
+Clay-Iowa,15976,2748
+Clay-Kansas,8025,1199
+Clay-Kentucky,19631,5059
+Clay-Minnesota,64690,9961
+Clay-Mississippi,19352,3054
+Clay-Missouri,253463,14642
+Clay-Nebraska,6216,883
+Clay-North Carolina,11505,1620
+Clay-South Dakota,14246,2139
+Clay-Tennessee,7629,1493
+Clay-Texas,10550,1495
+Clay-West Virginia,8341,1127
+Clayton-Georgia,292646,38740
+Clayton-Iowa,17321,2101
+Clear Creek-Colorado,9586,742
+Clearfield-Pennsylvania,78612,10648
+Clearwater-Idaho,8846,1583
+Clearwater-Minnesota,9017,1317
+Cleburne-Alabama,14967,2454
+Cleburne-Arkansas,24935,3641
+Clermont-Ohio,207449,27626
+Cleveland-Arkansas,7957,1383
+Cleveland-North Carolina,99035,17925
+Cleveland-Oklahoma,287066,42536
+Clinch-Georgia,6582,1454
+Clinton-Illinois,37398,7060
+Clinton-Indiana,32206,5624
+Clinton-Iowa,46392,6821
+Clinton-Kentucky,10110,2162
+Clinton-Michigan,79753,9561
+Clinton-Missouri,20553,2812
+Clinton-New York,79778,6507
+Clinton-Ohio,41921,5715
+Clinton-Pennsylvania,37957,4621
+Cloud-Kansas,8642,1270
+Coahoma-Mississippi,21564,4110
+Coal-Oklahoma,5587,1027
+Cobb-Georgia,762944,108017
+Cochise-Arizona,127450,15010
+Cochran-Texas,2897,437
+Cocke-Tennessee,36225,7223
+Coconino-Arizona,142481,22054
+Codington-South Dakota,28186,5358
+Coffee-Alabama,53230,9161
+Coffee-Georgia,43218,7845
+Coffee-Tennessee,57632,10368
+Coffey-Kansas,8158,1150
+Coke-Texas,3323,671
+Colbert-Alabama,55411,8741
+Cole-Missouri,76191,12759
+Coleman-Texas,8100,1028
+Coles-Illinois,50383,7810
+Colfax-Nebraska,10587,1727
+Colfax-New Mexico,11927,1377
+Colleton-South Carolina,37481,5582
+Collier-Florida,392973,56121
+Collin-Texas,1072069,126948
+Collingsworth-Texas,2877,386
+Colonial Heights city-Virginia,17205,2528
+Colorado-Texas,21610,2506
+Colquitt-Georgia,45542,7524
+Columbia-Arkansas,23331,3347
+Columbia-Florida,72654,14775
+Columbia-Georgia,160377,24503
+Columbia-New York,59534,4920
+Columbia-Oregon,52876,3689
+Columbia-Pennsylvania,64842,7377
+Columbia-Washington,4048,347
+Columbia-Wisconsin,57668,7668
+Columbiana-Ohio,101118,13428
+Columbus-North Carolina,54754,9871
+Colusa-California,21558,3002
+Comal-Texas,164812,19013
+Comanche-Kansas,1690,232
+Comanche-Oklahoma,121099,20807
+Comanche-Texas,13750,2126
+Concho-Texas,2827,702
+Concordia-Louisiana,18914,3178
+Conecuh-Alabama,11851,1845
+Conejos-Colorado,8143,953
+Contra Costa-California,1152333,98986
+Converse-Wyoming,13804,2050
+Conway-Arkansas,21037,3114
+Cook-Georgia,17291,3577
+Cook-Illinois,5108284,629834
+Cook-Minnesota,5417,238
+Cooke-Texas,41393,5021
+Cooper-Missouri,17102,2701
+Coos-New Hampshire,31174,3094
+Coos-Oregon,64711,4842
+Coosa-Alabama,10650,1768
+Copiah-Mississippi,27933,4444
+Corson-South Dakota,4031,653
+Cortland-New York,47173,5199
+Coryell-Texas,76737,10621
+Coshocton-Ohio,36449,4563
+Costilla-Colorado,3921,354
+Cottle-Texas,1363,226
+Cotton-Oklahoma,5676,951
+Cottonwood-Minnesota,11242,1918
+Covington-Alabama,36930,6640
+Covington-Mississippi,18518,4266
+Covington city-Virginia,5639,739
+Coweta-Georgia,150849,20520
+Cowley-Kansas,34628,5481
+Cowlitz-Washington,111371,12814
+Craig-Oklahoma,14194,2950
+Craig-Virginia,5077,519
+Craighead-Arkansas,112245,21237
+Crane-Texas,4765,855
+Craven-North Carolina,101233,14006
+Crawford-Arkansas,63409,10554
+Crawford-Georgia,12231,1117
+Crawford-Illinois,18512,3282
+Crawford-Indiana,10629,1572
+Crawford-Iowa,16834,3374
+Crawford-Kansas,38730,6637
+Crawford-Michigan,13981,1230
+Crawford-Missouri,23739,3553
+Crawford-Ohio,41338,6099
+Crawford-Pennsylvania,83697,10224
+Crawford-Wisconsin,16021,2218
+Creek-Oklahoma,71485,10901
+Crenshaw-Alabama,13681,2428
+Crisp-Georgia,22034,3129
+Crittenden-Arkansas,47616,8681
+Crittenden-Kentucky,8847,1148
+Crockett-Tennessee,14180,3321
+Crockett-Texas,3513,777
+Crook-Oregon,25105,2666
+Crook-Wyoming,7593,834
+Crosby-Texas,5567,978
+Cross-Arkansas,16142,2904
+Crow Wing-Minnesota,65644,9138
+Crowley-Colorado,5696,2337
+Culberson-Texas,2149,385
+Cullman-Alabama,84515,15237
+Culpeper-Virginia,53569,6262
+Cumberland-Illinois,10649,1880
+Cumberland-Kentucky,6523,1190
+Cumberland-Maine,298111,20953
+Cumberland-New Jersey,147008,20491
+Cumberland-North Carolina,336364,43865
+Cumberland-Pennsylvania,255857,26792
+Cumberland-Tennessee,61603,10887
+Cumberland-Virginia,9933,696
+Cuming-Nebraska,8798,1134
+Currituck-North Carolina,29052,2641
+Curry-New Mexico,48793,7209
+Curry-Oregon,23305,1776
+Custer-Colorado,5183,340
+Custer-Idaho,4249,353
+Custer-Montana,11292,1979
+Custer-Nebraska,10626,1180
+Custer-Oklahoma,28648,4902
+Custer-South Dakota,9017,1289
+Cuyahoga-Ohio,1227883,143117
+Dade-Georgia,16057,2127
+Dade-Missouri,7568,864
+Daggett-Utah,1026,101
+Dakota-Minnesota,431807,55791
+Dakota-Nebraska,20070,4572
+Dale-Alabama,48959,8840
+Dallam-Texas,7273,1182
+Dallas-Alabama,36098,4839
+Dallas-Arkansas,6802,1126
+Dallas-Iowa,96963,13904
+Dallas-Missouri,17219,2239
+Dallas-Texas,2635888,396963
+Dane-Wisconsin,552536,56459
+Daniels-Montana,1638,256
+Danville city-Virginia,39869,6097
+Dare-North Carolina,37547,3668
+Darke-Ohio,51205,7477
+Darlington-South Carolina,66509,11753
+Dauphin-Pennsylvania,279874,33343
+Davidson-North Carolina,169234,25245
+Davidson-Tennessee,694176,130692
+Davie-North Carolina,43286,6251
+Daviess-Indiana,33505,4552
+Daviess-Kentucky,101978,16519
+Daviess-Missouri,8283,1012
+Davis-Iowa,9051,1140
+Davis-Utah,359232,52345
+Davison-South Dakota,19812,3664
+Dawes-Nebraska,8361,1001
+Dawson-Georgia,27113,4656
+Dawson-Montana,8555,1466
+Dawson-Nebraska,23510,3544
+Dawson-Texas,12974,2118
+Day-South Dakota,5345,799
+De Baca-New Mexico,1673,226
+De Soto-Louisiana,27650,4695
+De Witt-Illinois,15368,2042
+DeKalb-Alabama,71658,12503
+DeKalb-Georgia,762009,90845
+DeKalb-Illinois,104491,12306
+DeKalb-Indiana,43670,6208
+DeKalb-Missouri,10944,1444
+DeKalb-Tennessee,20837,4154
+DeSoto-Florida,38520,6816
+DeSoto-Mississippi,188275,31773
+DeWitt-Texas,20174,2952
+Deaf Smith-Texas,18277,3353
+Dearborn-Indiana,49824,8123
+Decatur-Georgia,26457,4759
+Decatur-Indiana,26584,4146
+Decatur-Iowa,7769,812
+Decatur-Kansas,2776,331
+Decatur-Tennessee,11601,2394
+Deer Lodge-Montana,9204,1512
+Defiance-Ohio,37778,5983
+Del Norte-California,27968,3651
+Delaware-Indiana,113454,14906
+Delaware-Iowa,16937,2538
+Delaware-New York,43938,3436
+Delaware-Ohio,213554,23771
+Delaware-Oklahoma,43136,7180
+Delaware-Pennsylvania,566753,60616
+Delta-Colorado,31067,3727
+Delta-Michigan,35612,5492
+Delta-Texas,5349,594
+Denali Borough-Alaska,2081,252
+Dent-Missouri,15481,1872
+Denton-Texas,919324,104490
+Denver-Colorado,735538,88415
+Des Moines-Iowa,38708,6583
+Deschutes-Oregon,201769,19356
+Desha-Arkansas,11110,1877
+Deuel-Nebraska,1793,154
+Deuel-South Dakota,4346,638
+Dewey-Oklahoma,4815,659
+Dewey-South Dakota,5789,1739
+Dickens-Texas,2140,244
+Dickenson-Virginia,14078,1556
+Dickey-North Dakota,4705,945
+Dickinson-Iowa,17549,2976
+Dickinson-Kansas,18266,2775
+Dickinson-Michigan,25112,3807
+Dickson-Tennessee,54376,10201
+Dillingham Census Area-Alaska,4833,719
+Dillon-South Carolina,30367,6322
+Dimmit-Texas,9925,3760
+Dinwiddie-Virginia,28688,3041
+Divide-North Dakota,2277,255
+Dixie-Florida,17057,2918
+Dixon-Nebraska,5596,724
+Doddridge-West Virginia,8368,1158
+Dodge-Georgia,20452,3586
+Dodge-Minnesota,20987,2655
+Dodge-Nebraska,36222,5709
+Dodge-Wisconsin,87336,15615
+Dolores-Colorado,2096,227
+Doniphan-Kansas,7496,1348
+Donley-Texas,3308,562
+Dooly-Georgia,13174,1640
+Door-Wisconsin,27889,3626
+Dorchester-Maryland,31853,3977
+Dorchester-South Carolina,165737,33295
+Dougherty-Georgia,86477,12285
+Douglas-Colorado,360750,39406
+Douglas-Georgia,147988,22034
+Douglas-Illinois,19510,3227
+Douglas-Kansas,122530,12162
+Douglas-Minnesota,38328,6087
+Douglas-Missouri,13344,1605
+Douglas-Nebraska,574332,85220
+Douglas-Nevada,49088,4571
+Douglas-Oregon,111364,11713
+Douglas-South Dakota,2906,507
+Douglas-Washington,43560,5896
+Douglas-Wisconsin,43702,5766
+Doña Ana-New Mexico,221262,29440
+Drew-Arkansas,17977,2848
+DuPage-Illinois,917481,107150
+Dubois-Indiana,42542,8178
+Dubuque-Iowa,97590,15590
+Duchesne-Utah,19894,2816
+Dukes-Massachusetts,17461,1818
+Dundy-Nebraska,1671,231
+Dunklin-Missouri,28878,4260
+Dunn-North Dakota,4465,658
+Dunn-Wisconsin,45452,6781
+Duplin-North Carolina,58794,9733
+Durham-North Carolina,327306,34392
+Dutchess-New York,293293,35177
+Duval-Florida,966728,162887
+Duval-Texas,11058,1945
+Dyer-Tennessee,36693,8035
+Eagle-Colorado,54929,8082
+Early-Georgia,10037,1831
+East Baton Rouge-Louisiana,439729,63272
+East Carroll-Louisiana,6589,1572
+East Feliciana-Louisiana,18882,4459
+Eastland-Texas,18388,2081
+Eaton-Michigan,110148,12605
+Eau Claire-Wisconsin,105260,15602
+Echols-Georgia,4002,718
+Ector-Texas,167701,25361
+Eddy-New Mexico,58418,10640
+Eddy-North Dakota,2179,509
+Edgar-Illinois,16858,2537
+Edgecombe-North Carolina,50829,7785
+Edgefield-South Carolina,27120,4369
+Edmonson-Kentucky,12235,1514
+Edmunds-South Dakota,3817,574
+Edwards-Illinois,6356,1020
+Edwards-Kansas,2750,334
+Edwards-Texas,1923,322
+Effingham-Georgia,65765,8805
+Effingham-Illinois,34065,6530
+El Dorado-California,192925,16902
+El Paso-Colorado,728310,96167
+El Paso-Texas,841286,146743
+Elbert-Colorado,27313,2567
+Elbert-Georgia,19335,3198
+Elk-Kansas,2507,273
+Elk-Pennsylvania,29607,3873
+Elkhart-Indiana,206161,35477
+Elko-Nevada,53006,8383
+Elliott-Kentucky,7372,1296
+Ellis-Kansas,28671,4456
+Ellis-Oklahoma,3830,437
+Ellis-Texas,191760,32538
+Ellsworth-Kansas,6034,1358
+Elmore-Alabama,82158,14910
+Elmore-Idaho,27448,3822
+Emanuel-Georgia,22507,4388
+Emery-Utah,10147,1373
+Emmet-Iowa,9095,1638
+Emmet-Michigan,33342,3224
+Emmons-North Dakota,3187,532
+Emporia city-Virginia,5257,858
+Erath-Texas,43224,6184
+Erie-New York,917241,104339
+Erie-Ohio,73719,10493
+Erie-Pennsylvania,268426,27409
+Escambia-Alabama,36281,6696
+Escambia-Florida,322364,53064
+Esmeralda-Nevada,886,58
+Essex-Massachusetts,791263,110662
+Essex-New Jersey,800501,105492
+Essex-New York,36891,2186
+Essex-Vermont,6123,448
+Essex-Virginia,10943,1197
+Estill-Kentucky,14109,2160
+Etowah-Alabama,102371,19714
+Eureka-Nevada,2065,196
+Evangeline-Louisiana,33276,5713
+Evans-Georgia,10638,1602
+Fairbanks North Star Borough-Alaska,95651,14274
+Fairfax-Virginia,1150847,90083
+Fairfax city-Virginia,23429,641
+Fairfield-Connecticut,942426,111386
+Fairfield-Ohio,159709,21994
+Fairfield-South Carolina,22059,3232
+Fall River-South Dakota,6708,934
+Fallon-Montana,2826,428
+Falls-Texas,17275,2586
+Falls Church city-Virginia,14631,536
+Fannin-Georgia,26521,3715
+Fannin-Texas,35913,4874
+Faribault-Minnesota,13601,2122
+Faulk-South Dakota,2306,394
+Faulkner-Arkansas,126919,19297
+Fauquier-Virginia,71361,6720
+Fayette-Alabama,16241,2881
+Fayette-Georgia,115821,12965
+Fayette-Illinois,21264,4270
+Fayette-Indiana,22892,4144
+Fayette-Iowa,19258,2540
+Fayette-Kentucky,324735,50674
+Fayette-Ohio,28579,4168
+Fayette-Pennsylvania,128126,16744
+Fayette-Tennessee,41620,7208
+Fayette-Texas,25547,3574
+Fayette-West Virginia,42062,5834
+Fentress-Tennessee,18787,3563
+Fergus-Montana,11104,1511
+Ferry-Washington,7759,724
+Fillmore-Minnesota,21135,2293
+Fillmore-Nebraska,5519,690
+Finney-Kansas,35917,7187
+Fisher-Texas,3784,410
+Flagler-Florida,118451,14184
+Flathead-Montana,105851,18151
+Fleming-Kentucky,14603,2084
+Florence-South Carolina,137588,26281
+Florence-Wisconsin,4298,600
+Floyd-Georgia,98604,18146
+Floyd-Indiana,78936,10949
+Floyd-Iowa,15480,2172
+Floyd-Kentucky,34974,6845
+Floyd-Texas,5672,1141
+Floyd-Virginia,15777,1360
+Fluvanna-Virginia,27422,2534
+Foard-Texas,1135,180
+Fond du Lac-Wisconsin,102902,17482
+Ford-Illinois,12949,2415
+Ford-Kansas,33094,7011
+Forest-Pennsylvania,6965,1552
+Forest-Wisconsin,8960,1465
+Forrest-Mississippi,75009,13398
+Forsyth-Georgia,250847,33715
+Forsyth-North Carolina,383843,50506
+Fort Bend-Texas,839706,98044
+Foster-North Dakota,3165,636
+Fountain-Indiana,16511,3305
+Franklin-Alabama,31507,5924
+Franklin-Arkansas,17897,2695
+Franklin-Florida,12201,2212
+Franklin-Georgia,23504,3921
+Franklin-Idaho,14215,1530
+Franklin-Illinois,38060,7256
+Franklin-Indiana,22761,2632
+Franklin-Iowa,9971,1638
+Franklin-Kansas,25703,3713
+Franklin-Kentucky,51118,6742
+Franklin-Louisiana,19723,4616
+Franklin-Maine,29986,2036
+Franklin-Massachusetts,70267,3339
+Franklin-Mississippi,7657,1189
+Franklin-Missouri,104469,14157
+Franklin-Nebraska,2940,306
+Franklin-New York,49965,4081
+Franklin-North Carolina,71859,9643
+Franklin-Ohio,1324624,161300
+Franklin-Pennsylvania,155637,20843
+Franklin-Tennessee,42485,7813
+Franklin-Texas,10821,1300
+Franklin-Vermont,49685,2903
+Franklin-Virginia,56167,5800
+Franklin-Washington,97075,19728
+Franklin city-Virginia,7833,1581
+Frederick-Maryland,265161,23611
+Frederick-Virginia,91119,11185
+Fredericksburg city-Virginia,29492,2990
+Freeborn-Minnesota,30364,4772
+Freestone-Texas,19874,2711
+Fremont-Colorado,47867,7936
+Fremont-Idaho,13218,1450
+Fremont-Iowa,6729,837
+Fremont-Wyoming,39317,8108
+Fresno-California,1000918,143365
+Frio-Texas,20379,3868
+Frontier-Nebraska,2587,353
+Fulton-Arkansas,12381,1669
+Fulton-Georgia,1077402,130633
+Fulton-Illinois,33690,5167
+Fulton-Indiana,20018,3025
+Fulton-Kentucky,5952,724
+Fulton-New York,52812,6113
+Fulton-Ohio,41889,5844
+Fulton-Pennsylvania,14501,2086
+Furnas-Nebraska,4653,621
+Gadsden-Florida,45277,8557
+Gage-Nebraska,21431,2498
+Gaines-Texas,21996,2113
+Galax city-Virginia,6296,1483
+Gallatin-Illinois,4793,784
+Gallatin-Kentucky,8779,1197
+Gallatin-Montana,116806,19284
+Gallia-Ohio,29802,4024
+Galveston-Texas,345089,63145
+Garden-Nebraska,1847,155
+Garfield-Colorado,60366,7597
+Garfield-Montana,1268,116
+Garfield-Nebraska,1956,252
+Garfield-Oklahoma,60869,9849
+Garfield-Utah,5050,634
+Garfield-Washington,2290,231
+Garland-Arkansas,99789,15796
+Garrard-Kentucky,17719,2724
+Garrett-Maryland,28852,2917
+Garvin-Oklahoma,27691,4659
+Garza-Texas,6222,701
+Gasconade-Missouri,14566,2153
+Gaston-North Carolina,226568,39114
+Gates-North Carolina,11464,1054
+Geary-Kansas,32218,4664
+Geauga-Ohio,93271,8699
+Gem-Idaho,18703,2626
+Genesee-Michigan,404794,49645
+Genesee-New York,56994,6764
+Geneva-Alabama,26411,4557
+Gentry-Missouri,6484,1274
+George-Mississippi,24425,4899
+Georgetown-South Carolina,63353,9514
+Gibson-Indiana,33825,6452
+Gibson-Tennessee,49159,10532
+Gila-Arizona,54303,9266
+Gilchrist-Florida,18885,3111
+Giles-Tennessee,29530,5943
+Giles-Virginia,16663,2169
+Gillespie-Texas,26960,3495
+Gilliam-Oregon,1975,148
+Gilmer-Georgia,31978,4569
+Gilmer-West Virginia,7811,1303
+Gilpin-Colorado,6235,412
+Glacier-Montana,13594,1987
+Glades-Florida,14198,1405
+Gladwin-Michigan,25424,3085
+Glascock-Georgia,2984,414
+Glasscock-Texas,1439,152
+Glenn-California,28283,4272
+Gloucester-New Jersey,293245,37470
+Gloucester-Virginia,37459,3766
+Glynn-Georgia,85568,15265
+Gogebic-Michigan,13842,1754
+Golden Valley-Montana,827,73
+Golden Valley-North Dakota,1737,328
+Goliad-Texas,7626,699
+Gonzales-Texas,20948,3525
+Goochland-Virginia,24431,1939
+Goodhue-Minnesota,46318,5955
+Gooding-Idaho,15618,2178
+Gordon-Georgia,58780,11198
+Goshen-Wyoming,13235,2064
+Gosper-Nebraska,1986,231
+Gove-Kansas,2621,459
+Grady-Georgia,24491,3593
+Grady-Oklahoma,55906,7911
+Grafton-New Hampshire,90691,5551
+Graham-Arizona,39211,7197
+Graham-Kansas,2389,319
+Graham-North Carolina,8474,1303
+Grainger-Tennessee,23565,4262
+Grand-Colorado,15794,2093
+Grand-Utah,9796,1357
+Grand Forks-North Dakota,69481,12518
+Grand Isle-Vermont,7169,320
+Grand Traverse-Michigan,93592,8455
+Granite-Montana,3317,335
+Grant-Arkansas,18449,2851
+Grant-Indiana,65225,10217
+Grant-Kansas,7077,1197
+Grant-Kentucky,25387,4168
+Grant-Louisiana,22254,3785
+Grant-Minnesota,6026,755
+Grant-Nebraska,630,65
+Grant-New Mexico,27007,2257
+Grant-North Dakota,2215,302
+Grant-Oklahoma,4372,690
+Grant-Oregon,7180,965
+Grant-South Dakota,7000,1300
+Grant-Washington,99377,16432
+Grant-West Virginia,11510,2045
+Grant-Wisconsin,51021,7333
+Granville-North Carolina,60486,7764
+Gratiot-Michigan,40283,8257
+Graves-Kentucky,36818,7089
+Gray-Kansas,5954,817
+Gray-Texas,21658,3435
+Grays Harbor-Washington,75950,8175
+Grayson-Kentucky,26480,4558
+Grayson-Texas,138318,15935
+Grayson-Virginia,15493,1995
+Greeley-Kansas,1196,147
+Greeley-Nebraska,2319,265
+Green-Kentucky,10995,2399
+Green-Wisconsin,36603,4418
+Green Lake-Wisconsin,18908,2940
+Greenbrier-West Virginia,34319,4692
+Greene-Alabama,7990,1252
+Greene-Arkansas,45597,9927
+Greene-Georgia,18837,2666
+Greene-Illinois,12702,2037
+Greene-Indiana,32203,4203
+Greene-Iowa,8795,1138
+Greene-Mississippi,13477,2148
+Greene-Missouri,294997,44242
+Greene-New York,47177,4280
+Greene-North Carolina,20928,3241
+Greene-Ohio,170122,21822
+Greene-Pennsylvania,35621,4530
+Greene-Tennessee,69571,13270
+Greene-Virginia,20131,2143
+Greenlee-Arizona,9341,1023
+Greensville-Virginia,11280,1856
+Greenup-Kentucky,34865,6153
+Greenville-South Carolina,532486,102925
+Greenwood-Kansas,5868,957
+Greenwood-South Carolina,71074,11993
+Greer-Oklahoma,5704,739
+Gregg-Texas,124229,19020
+Gregory-South Dakota,4219,690
+Grenada-Mississippi,20610,3680
+Griggs-North Dakota,2207,361
+Grimes-Texas,29614,5106
+Grundy-Illinois,50993,7290
+Grundy-Iowa,12217,1679
+Grundy-Missouri,9595,1550
+Grundy-Tennessee,13485,2768
+Guadalupe-New Mexico,4275,854
+Guadalupe-Texas,170608,23824
+Guernsey-Ohio,38779,5554
+Guilford-North Carolina,540521,66140
+Gulf-Florida,13534,2955
+Gunnison-Colorado,17593,1794
+Guthrie-Iowa,10737,1541
+Gwinnett-Georgia,942627,131313
+Haakon-South Dakota,1861,317
+Habersham-Georgia,46047,7403
+Haines Borough-Alaska,2614,221
+Hale-Alabama,14670,3077
+Hale-Texas,32754,7782
+Halifax-North Carolina,49479,7682
+Halifax-Virginia,33633,3737
+Hall-Georgia,206591,37564
+Hall-Nebraska,61028,9641
+Hall-Texas,2939,533
+Hamblen-Tennessee,65110,12839
+Hamilton-Florida,14521,2686
+Hamilton-Illinois,8084,1328
+Hamilton-Indiana,344238,45852
+Hamilton-Iowa,14716,2285
+Hamilton-Kansas,2425,268
+Hamilton-Nebraska,9237,1246
+Hamilton-New York,4345,429
+Hamilton-Ohio,817985,103546
+Hamilton-Tennessee,371662,62975
+Hamilton-Texas,8557,1282
+Hamlin-South Dakota,6234,1004
+Hampden-Massachusetts,463986,64171
+Hampshire-Massachusetts,161401,11402
+Hampshire-West Virginia,23190,3000
+Hampton-South Carolina,18053,3062
+Hampton city-Virginia,135464,14700
+Hancock-Georgia,8494,1124
+Hancock-Illinois,17422,2715
+Hancock-Indiana,79553,11570
+Hancock-Iowa,10507,1848
+Hancock-Kentucky,8742,1365
+Hancock-Maine,55088,2518
+Hancock-Mississippi,48000,7685
+Hancock-Ohio,75407,9381
+Hancock-Tennessee,6493,1183
+Hancock-West Virginia,28571,3978
+Hand-South Dakota,3127,391
+Hanover-Virginia,108262,11397
+Hansford-Texas,5279,1105
+Hanson-South Dakota,3489,432
+Haralson-Georgia,30383,3764
+Hardee-Florida,26822,6003
+Hardeman-Tennessee,24836,5057
+Hardeman-Texas,4011,449
+Hardin-Illinois,3808,587
+Hardin-Iowa,16575,2664
+Hardin-Kentucky,111309,17536
+Hardin-Ohio,31469,4018
+Hardin-Tennessee,25583,5469
+Hardin-Texas,58305,10258
+Harding-New Mexico,638,41
+Harding-South Dakota,1311,153
+Hardy-West Virginia,13633,2299
+Harford-Maryland,256805,20050
+Harlan-Kentucky,25566,5248
+Harlan-Nebraska,3311,262
+Harmon-Oklahoma,2557,360
+Harnett-North Carolina,137058,17957
+Harney-Oregon,7373,1068
+Harper-Kansas,5336,893
+Harper-Oklahoma,3611,484
+Harris-Georgia,36080,3676
+Harris-Texas,4738253,567578
+Harrison-Indiana,40682,6389
+Harrison-Iowa,13928,2153
+Harrison-Kentucky,18920,3165
+Harrison-Mississippi,208801,34022
+Harrison-Missouri,8321,1100
+Harrison-Ohio,15014,1751
+Harrison-Texas,66386,9043
+Harrison-West Virginia,66870,10438
+Harrisonburg city-Virginia,53204,8073
+Hart-Georgia,26406,3492
+Hart-Kentucky,19013,3429
+Hartford-Connecticut,889226,96666
+Hartley-Texas,5443,833
+Harvey-Kansas,34291,4833
+Haskell-Kansas,3923,530
+Haskell-Oklahoma,12652,1829
+Haskell-Texas,5754,592
+Hawkins-Tennessee,56775,10040
+Hayes-Nebraska,916,71
+Hays-Texas,241365,32418
+Haywood-North Carolina,62972,7209
+Haywood-Tennessee,17002,3784
+Heard-Georgia,11973,1460
+Hemphill-Texas,3777,687
+Hempstead-Arkansas,21253,2891
+Henderson-Illinois,6535,693
+Henderson-Kentucky,44740,7823
+Henderson-North Carolina,118445,14818
+Henderson-Tennessee,28076,5649
+Henderson-Texas,83792,9614
+Hendricks-Indiana,173251,23626
+Hendry-Florida,42813,7888
+Hennepin-Minnesota,1268408,150445
+Henrico-Virginia,333766,33522
+Henry-Alabama,17223,3097
+Henry-Georgia,239139,37545
+Henry-Illinois,48411,6561
+Henry-Indiana,48033,8101
+Henry-Iowa,19697,3791
+Henry-Kentucky,16067,2492
+Henry-Missouri,22076,3185
+Henry-Ohio,26904,3548
+Henry-Tennessee,32056,5417
+Henry-Virginia,50309,6224
+Herkimer-New York,60945,6542
+Hernando-Florida,198792,28203
+Hertford-North Carolina,23108,2758
+Hettinger-North Dakota,2438,452
+Hickman-Kentucky,4364,544
+Hickman-Tennessee,25387,4525
+Hickory-Missouri,9586,1083
+Hidalgo-New Mexico,4106,551
+Hidalgo-Texas,875200,113691
+Highland-Ohio,43304,5836
+Highland-Virginia,2200,168
+Highlands-Florida,106639,15716
+Hill-Montana,16358,3034
+Hill-Texas,37006,5731
+Hillsborough-Florida,1497957,237669
+Hillsborough-New Hampshire,418735,44018
+Hillsdale-Michigan,45658,5871
+Hinds-Mississippi,227966,31778
+Hinsdale-Colorado,808,54
+Hitchcock-Nebraska,2773,323
+Hocking-Ohio,28095,3470
+Hockley-Texas,22921,4151
+Hodgeman-Kansas,1779,228
+Hoke-North Carolina,55830,6975
+Holmes-Florida,19594,3779
+Holmes-Mississippi,16726,2662
+Holmes-Ohio,44004,3508
+Holt-Missouri,4232,605
+Holt-Nebraska,9956,1145
+Honolulu-Hawaii,963826,56621
+Hood-Texas,63527,9463
+Hood River-Oregon,23280,1868
+Hooker-Nebraska,647,76
+Hopewell city-Virginia,22375,3618
+Hopkins-Kentucky,44662,7818
+Hopkins-Texas,37170,5246
+Horry-South Carolina,365449,61079
+Hot Spring-Arkansas,33787,7476
+Hot Springs-Wyoming,4425,844
+Houghton-Michigan,35126,3776
+Houston-Alabama,106580,17232
+Houston-Georgia,160110,24643
+Houston-Minnesota,18632,2264
+Houston-Tennessee,8292,1808
+Houston-Texas,22835,2820
+Howard-Arkansas,13109,2379
+Howard-Indiana,82732,14531
+Howard-Iowa,9176,1264
+Howard-Maryland,328200,22306
+Howard-Missouri,10001,1390
+Howard-Nebraska,6488,692
+Howard-Texas,36540,5723
+Howell-Missouri,40262,5643
+Hubbard-Minnesota,21783,2803
+Hudson-New Jersey,671666,96548
+Hudspeth-Texas,4906,579
+Huerfano-Colorado,6883,596
+Hughes-Oklahoma,13126,1658
+Hughes-South Dakota,17336,2829
+Humboldt-California,134977,9042
+Humboldt-Iowa,9473,1618
+Humboldt-Nevada,16962,2351
+Humphreys-Mississippi,7827,1287
+Humphreys-Tennessee,18590,3141
+Hunt-Texas,99807,10684
+Hunterdon-New Jersey,124797,11705
+Huntingdon-Pennsylvania,44590,6534
+Huntington-Indiana,36395,6280
+Huron-Michigan,30653,4620
+Huron-Ohio,57979,8102
+Hutchinson-South Dakota,7282,1029
+Hutchinson-Texas,20677,3511
+Hyde-North Carolina,4843,820
+Hyde-South Dakota,1281,157
+Iberia-Louisiana,68991,12340
+Iberville-Louisiana,32070,5773
+Ida-Iowa,6833,1169
+Imperial-California,180267,35503
+Independence-Arkansas,37757,6199
+Indian River-Florida,162518,21956
+Indiana-Pennsylvania,83664,8450
+Ingham-Michigan,290609,29858
+Inyo-California,18046,1918
+Ionia-Michigan,64553,11306
+Iosco-Michigan,25140,2768
+Iowa-Wisconsin,23640,2662
+Iredell-North Carolina,185770,28148
+Irion-Texas,1564,186
+Iron-Michigan,11066,1362
+Iron-Missouri,10098,1350
+Iron-Utah,56814,8779
+Iron-Wisconsin,5698,845
+Iroquois-Illinois,26711,4161
+Irwin-Georgia,9387,1427
+Isabella-Michigan,69504,8449
+Isanti-Minnesota,41429,5514
+Island-Washington,86014,3704
+Isle of Wight-Virginia,37725,4324
+Issaquena-Mississippi,1220,193
+Itasca-Minnesota,45268,5901
+Itawamba-Mississippi,23261,4584
+Izard-Arkansas,13613,2481
+Jack-Texas,9056,868
+Jackson-Alabama,51582,9737
+Jackson-Arkansas,16636,4120
+Jackson-Colorado,1389,101
+Jackson-Florida,46085,10002
+Jackson-Georgia,76199,14565
+Jackson-Illinois,56675,8051
+Jackson-Indiana,44222,6887
+Jackson-Iowa,19205,2710
+Jackson-Kansas,13171,1926
+Jackson-Kentucky,13340,2529
+Jackson-Louisiana,15574,2743
+Jackson-Michigan,156920,24791
+Jackson-Minnesota,9768,1431
+Jackson-Mississippi,143802,24289
+Jackson-Missouri,705925,54918
+Jackson-North Carolina,44033,5480
+Jackson-Ohio,32493,4872
+Jackson-Oklahoma,24305,3808
+Jackson-Oregon,221844,22526
+Jackson-South Dakota,3321,375
+Jackson-Tennessee,11864,2047
+Jackson-Texas,14854,2752
+Jackson-West Virginia,28453,3731
+Jackson-Wisconsin,20630,3255
+James City-Virginia,77612,6814
+Jasper-Georgia,14483,2097
+Jasper-Illinois,9465,1598
+Jasper-Indiana,33440,5160
+Jasper-Iowa,37148,5721
+Jasper-Mississippi,16332,3276
+Jasper-Missouri,121648,13575
+Jasper-South Carolina,31588,3898
+Jasper-Texas,35375,3974
+Jay-Indiana,20416,2778
+Jeff Davis-Georgia,15213,2912
+Jeff Davis-Texas,2220,205
+Jefferson-Alabama,655342,113837
+Jefferson-Arkansas,65377,12256
+Jefferson-Colorado,583283,60330
+Jefferson-Florida,14543,2435
+Jefferson-Georgia,15267,2649
+Jefferson-Idaho,30581,3829
+Jefferson-Illinois,37235,6455
+Jefferson-Indiana,32110,5026
+Jefferson-Iowa,18347,1973
+Jefferson-Kansas,19032,2532
+Jefferson-Kentucky,767452,116662
+Jefferson-Louisiana,432346,69014
+Jefferson-Mississippi,6997,943
+Jefferson-Missouri,226543,31570
+Jefferson-Montana,12360,1581
+Jefferson-Nebraska,7099,793
+Jefferson-New York,108095,8438
+Jefferson-Ohio,64939,8353
+Jefferson-Oklahoma,5949,920
+Jefferson-Oregon,24856,3575
+Jefferson-Pennsylvania,43108,4575
+Jefferson-Tennessee,55307,9746
+Jefferson-Texas,250127,31305
+Jefferson-Washington,32700,1016
+Jefferson-West Virginia,57486,6555
+Jefferson-Wisconsin,85038,11545
+Jefferson Davis-Louisiana,31208,4665
+Jefferson Davis-Mississippi,10890,1706
+Jenkins-Georgia,8746,1186
+Jennings-Indiana,27515,3816
+Jerauld-South Dakota,1985,299
+Jerome-Idaho,24578,4115
+Jersey-Illinois,21616,3335
+Jessamine-Kentucky,54057,7888
+Jewell-Kansas,2833,383
+Jim Hogg-Texas,5184,898
+Jim Wells-Texas,40452,7055
+Jo Daviess-Illinois,21239,2140
+Johnson-Arkansas,26513,4535
+Johnson-Georgia,9667,1540
+Johnson-Illinois,12358,2232
+Johnson-Indiana,160607,24775
+Johnson-Iowa,153740,17809
+Johnson-Kansas,607220,76453
+Johnson-Kentucky,22002,3628
+Johnson-Missouri,54219,6970
+Johnson-Nebraska,5057,687
+Johnson-Tennessee,17849,3473
+Johnson-Texas,179575,27440
+Johnson-Wyoming,8588,1135
+Johnston-North Carolina,216246,31680
+Johnston-Oklahoma,10824,1915
+Jones-Georgia,28787,3385
+Jones-Iowa,20617,3655
+Jones-Mississippi,67993,13759
+Jones-North Carolina,9250,1292
+Jones-South Dakota,938,137
+Jones-Texas,19875,3175
+Joplin-Missouri,50386,8626
+Josephine-Oregon,88053,9193
+Juab-Utah,12122,1889
+Judith Basin-Montana,1994,139
+Juneau-Wisconsin,26908,4078
+Juneau City and Borough-Alaska,31849,3515
+Juniata-Pennsylvania,24619,2747
+Kalamazoo-Michigan,265988,28528
+Kalawao-Hawaii,87,1
+Kalkaska-Michigan,18003,1664
+Kanabec-Minnesota,16416,1843
+Kanawha-West Virginia,176253,23296
+Kandiyohi-Minnesota,43130,8115
+Kane-Illinois,531010,67810
+Kane-Utah,7914,916
+Kankakee-Illinois,108594,17738
+Kansas City-Missouri,486404,62328
+Karnes-Texas,15562,3978
+Kauai-Hawaii,71851,2436
+Kaufman-Texas,143198,23382
+Kay-Oklahoma,43274,7044
+Kearney-Nebraska,6652,814
+Kearny-Kansas,3745,713
+Keith-Nebraska,7983,900
+Kemper-Mississippi,9521,1412
+Kenai Peninsula Borough-Alaska,59414,9850
+Kendall-Illinois,130638,16770
+Kendall-Texas,48523,5015
+Kenedy-Texas,379,60
+Kennebec-Maine,122955,9141
+Kenosha-Wisconsin,169671,23438
+Kent-Delaware,183643,24864
+Kent-Maryland,19192,1643
+Kent-Michigan,658708,89258
+Kent-Rhode Island,164646,22129
+Kent-Texas,786,122
+Kenton-Kentucky,167949,24017
+Keokuk-Iowa,10085,1376
+Kern-California,901362,143272
+Kerr-Texas,52869,6451
+Kershaw-South Carolina,67472,11757
+Ketchikan Gateway Borough-Alaska,13747,1566
+Kewaunee-Wisconsin,20386,3460
+Keweenaw-Michigan,2119,233
+Keya Paha-Nebraska,759,68
+Kidder-North Dakota,2458,347
+Kimball-Nebraska,3495,520
+Kimble-Texas,4396,439
+King-Texas,283,16
+King-Washington,2274315,157650
+King George-Virginia,27381,2518
+King William-Virginia,17641,1849
+King and Queen-Virginia,6942,602
+Kingfisher-Oklahoma,15806,2544
+Kingman-Kansas,6974,1091
+Kings-California,152692,32093
+Kingsbury-South Dakota,4987,905
+Kinney-Texas,3670,508
+Kiowa-Colorado,1458,134
+Kiowa-Kansas,2456,338
+Kiowa-Oklahoma,8741,1117
+Kit Carson-Colorado,7121,909
+Kitsap-Washington,272787,15944
+Kittitas-Washington,49204,4782
+Kittson-Minnesota,4214,587
+Klamath-Oregon,68739,7582
+Kleberg-Texas,30338,4266
+Klickitat-Washington,22697,1828
+Knott-Kentucky,14512,2345
+Knox-Illinois,49053,7158
+Knox-Indiana,36522,6193
+Knox-Kentucky,31022,7039
+Knox-Maine,39951,1776
+Knox-Missouri,3940,506
+Knox-Nebraska,8304,1026
+Knox-Ohio,62423,7476
+Knox-Tennessee,475609,77105
+Knox-Texas,3683,334
+Kodiak Island Borough-Alaska,12992,2319
+Koochiching-Minnesota,12059,1368
+Kootenai-Idaho,170628,26450
+Kosciusko-Indiana,78988,12073
+Kossuth-Iowa,14680,2694
+Kusilvak Census Area-Alaska,8328,1929
+La Crosse-Wisconsin,118502,16838
+La Paz-Arizona,21480,3083
+La Plata-Colorado,56564,5529
+La Salle-Texas,7500,1201
+LaGrange-Indiana,40119,3505
+LaMoure-North Dakota,4033,649
+LaPorte-Indiana,109663,14945
+LaSalle-Illinois,107571,14921
+LaSalle-Louisiana,15021,2695
+Labette-Kansas,19586,3464
+Lac qui Parle-Minnesota,6527,942
+Lackawanna-Pennsylvania,208989,21993
+Laclede-Missouri,35895,5221
+Lafayette-Arkansas,6596,838
+Lafayette-Florida,8482,2175
+Lafayette-Louisiana,246518,38326
+Lafayette-Mississippi,54408,8443
+Lafayette-Missouri,33006,4534
+Lafayette-Wisconsin,16646,2043
+Lafourche-Louisiana,97596,17725
+Lake-California,64479,6500
+Lake-Colorado,7987,978
+Lake-Florida,375492,53476
+Lake-Illinois,693593,79360
+Lake-Indiana,487536,65703
+Lake-Michigan,11587,901
+Lake-Minnesota,10639,1057
+Lake-Montana,30986,3667
+Lake-Ohio,229569,26274
+Lake-Oregon,7949,877
+Lake-South Dakota,12488,1541
+Lake-Tennessee,6988,2004
+Lake of the Woods-Minnesota,3754,445
+Lamar-Alabama,13764,2130
+Lamar-Georgia,19261,3374
+Lamar-Mississippi,64165,10452
+Lamar-Texas,49905,8661
+Lamb-Texas,12710,2943
+Lamoille-Vermont,25341,1176
+Lampasas-Texas,21789,3478
+Lancaster-Nebraska,320650,40903
+Lancaster-Pennsylvania,546192,68521
+Lancaster-South Carolina,100926,15643
+Lancaster-Virginia,10618,1043
+Lander-Nevada,5514,766
+Lane-Kansas,1518,164
+Lane-Oregon,382986,26791
+Langlade-Wisconsin,19119,3024
+Lanier-Georgia,10737,1462
+Lapeer-Michigan,87635,11626
+Laramie-Wyoming,100595,15041
+Larimer-Colorado,360428,37010
+Larue-Kentucky,14431,2350
+Las Animas-Colorado,14420,1715
+Lassen-California,30016,7418
+Latah-Idaho,40830,4324
+Latimer-Oklahoma,10132,1451
+Lauderdale-Alabama,93368,14038
+Lauderdale-Mississippi,73751,11933
+Lauderdale-Tennessee,25451,5178
+Laurel-Kentucky,61238,12665
+Laurens-Georgia,47512,9026
+Laurens-South Carolina,67883,11300
+Lavaca-Texas,20216,3137
+Lawrence-Alabama,32857,4243
+Lawrence-Arkansas,16410,3220
+Lawrence-Illinois,15467,3262
+Lawrence-Indiana,45496,7363
+Lawrence-Kentucky,15436,2531
+Lawrence-Mississippi,12480,2110
+Lawrence-Missouri,38175,5129
+Lawrence-Ohio,59091,9556
+Lawrence-Pennsylvania,85083,10278
+Lawrence-South Dakota,26221,4210
+Lawrence-Tennessee,44432,9410
+Le Flore-Oklahoma,49935,7885
+Le Sueur-Minnesota,28741,3762
+Lea-New Mexico,71830,14110
+Leake-Mississippi,22741,4072
+Leavenworth-Kansas,82246,10147
+Lebanon-Pennsylvania,141663,19846
+Lee-Alabama,166831,23066
+Lee-Arkansas,8513,2071
+Lee-Florida,790767,123425
+Lee-Georgia,30234,4636
+Lee-Illinois,33647,4743
+Lee-Iowa,33480,5610
+Lee-Kentucky,7268,1702
+Lee-Mississippi,85466,15398
+Lee-North Carolina,62353,9267
+Lee-South Carolina,16701,2492
+Lee-Texas,17397,2889
+Lee-Virginia,23238,3578
+Leelanau-Michigan,21743,1567
+Leflore-Mississippi,27854,4621
+Lehigh-Pennsylvania,370802,47262
+Lemhi-Idaho,8054,783
+Lenawee-Michigan,97808,13763
+Lenoir-North Carolina,55720,9334
+Leon-Florida,295460,49917
+Leon-Texas,17493,2429
+Leslie-Kentucky,9637,2116
+Letcher-Kentucky,21213,3737
+Levy-Florida,42214,6889
+Lewis-Idaho,3838,720
+Lewis-Kentucky,13262,2436
+Lewis-Missouri,9810,1630
+Lewis-New York,26187,3487
+Lewis-Tennessee,12363,2496
+Lewis-Washington,82109,9499
+Lewis-West Virginia,15805,2863
+Lewis and Clark-Montana,70229,10065
+Lexington-South Carolina,303946,53476
+Lexington city-Virginia,7279,1534
+Liberty-Florida,8364,1802
+Liberty-Georgia,63004,7455
+Liberty-Montana,2369,248
+Liberty-Texas,91547,12565
+Licking-Ohio,178100,23172
+Limestone-Alabama,102228,15159
+Limestone-Texas,23340,3603
+Lincoln-Arkansas,12944,3633
+Lincoln-Colorado,5680,1274
+Lincoln-Georgia,8031,1167
+Lincoln-Idaho,5358,650
+Lincoln-Kansas,2986,334
+Lincoln-Kentucky,24466,4184
+Lincoln-Louisiana,46552,6984
+Lincoln-Maine,34775,1686
+Lincoln-Minnesota,5568,745
+Lincoln-Mississippi,33936,5412
+Lincoln-Missouri,60119,9035
+Lincoln-Montana,20343,3144
+Lincoln-Nebraska,34347,5164
+Lincoln-Nevada,5159,514
+Lincoln-New Mexico,19939,2769
+Lincoln-North Carolina,88097,14597
+Lincoln-Oklahoma,35045,4769
+Lincoln-Oregon,50583,3081
+Lincoln-South Dakota,63019,10052
+Lincoln-Tennessee,34540,6572
+Lincoln-Washington,11090,1300
+Lincoln-West Virginia,20043,2623
+Lincoln-Wisconsin,27566,4169
+Lincoln-Wyoming,20253,2559
+Linn-Iowa,227854,28700
+Linn-Kansas,9654,1564
+Linn-Missouri,11830,1823
+Linn-Oregon,131054,12273
+Lipscomb-Texas,3111,379
+Litchfield-Connecticut,179610,16767
+Little River-Arkansas,12180,1988
+Live Oak-Texas,12324,1758
+Livingston-Illinois,35414,5922
+Livingston-Kentucky,9041,1356
+Livingston-Louisiana,143737,24290
+Livingston-Michigan,192335,21878
+Livingston-Missouri,14413,2547
+Livingston-New York,62398,5573
+Llano-Texas,21958,2554
+Logan-Arkansas,21410,3565
+Logan-Colorado,21974,4548
+Logan-Illinois,28383,4908
+Logan-Kansas,2732,396
+Logan-Kentucky,27416,4981
+Logan-Nebraska,747,95
+Logan-North Dakota,1880,315
+Logan-Ohio,45326,5598
+Logan-Oklahoma,48777,5975
+Logan-West Virginia,31688,5132
+Long-Georgia,20171,1716
+Lonoke-Arkansas,73921,11776
+Lorain-Ohio,312172,34632
+Los Alamos-New Mexico,19462,751
+Los Angeles-California,9943046,1474114
+Loudon-Tennessee,54910,8971
+Loudoun-Virginia,422784,33414
+Louisa-Iowa,11011,1698
+Louisa-Virginia,38132,3073
+Loup-Nebraska,650,58
+Love-Oklahoma,10230,1970
+Loving-Texas,181,8
+Lowndes-Alabama,9641,1730
+Lowndes-Georgia,118268,21043
+Lowndes-Mississippi,58309,10873
+Lubbock-Texas,314772,64758
+Lucas-Iowa,8518,1123
+Lucas-Ohio,428294,54921
+Luce-Michigan,6126,1535
+Lumpkin-Georgia,34186,4793
+Luna-New Mexico,23905,3865
+Lunenburg-Virginia,12267,1044
+Luzerne-Pennsylvania,316982,39064
+Lycoming-Pennsylvania,113209,15316
+Lyman-South Dakota,3797,709
+Lynchburg city-Virginia,81561,11539
+Lynn-Texas,6025,829
+Lyon-Iowa,11756,1906
+Lyon-Kansas,33045,5338
+Lyon-Kentucky,8133,1917
+Lyon-Minnesota,25271,4404
+Lyon-Nevada,58319,6354
+Mackinac-Michigan,10839,1187
+Macomb-Michigan,870791,117513
+Macon-Alabama,17895,2293
+Macon-Georgia,12712,1316
+Macon-Illinois,103015,15140
+Macon-Missouri,15095,2160
+Macon-North Carolina,35994,4832
+Macon-Tennessee,24827,5399
+Macoupin-Illinois,44567,6858
+Madera-California,157761,23319
+Madison-Alabama,379453,51721
+Madison-Arkansas,16644,2450
+Madison-Florida,18707,3553
+Madison-Georgia,30457,4913
+Madison-Idaho,40318,8364
+Madison-Illinois,262635,39758
+Madison-Indiana,129681,18464
+Madison-Iowa,16521,2147
+Madison-Kentucky,94265,15455
+Madison-Louisiana,10635,2214
+Madison-Mississippi,106871,14507
+Madison-Missouri,12113,2288
+Madison-Montana,8959,1185
+Madison-Nebraska,34813,5511
+Madison-New York,70478,5957
+Madison-North Carolina,21740,2694
+Madison-Ohio,44559,5817
+Madison-Tennessee,98360,17382
+Madison-Texas,14427,2437
+Madison-Virginia,13312,954
+Magoffin-Kentucky,12017,2128
+Mahaska-Iowa,22370,3137
+Mahnomen-Minnesota,5473,836
+Mahoning-Ohio,226075,29768
+Major-Oklahoma,7579,1219
+Malheur-Oregon,30983,5451
+Manassas Park city-Virginia,18004,1262
+Manassas city-Virginia,40869,4994
+Manatee-Florida,411219,64023
+Manistee-Michigan,24738,2393
+Manitowoc-Wisconsin,78757,11147
+Marathon-Wisconsin,135593,20269
+Marengo-Alabama,18733,3331
+Maricopa-Arizona,4579081,714404
+Maries-Missouri,8795,975
+Marin-California,257332,17551
+Marinette-Wisconsin,40262,6353
+Marion-Alabama,29703,4932
+Marion-Arkansas,16790,2111
+Marion-Florida,373513,56016
+Marion-Georgia,8516,953
+Marion-Illinois,37045,6851
+Marion-Indiana,966183,134058
+Marion-Iowa,33168,5000
+Marion-Kansas,11652,1537
+Marion-Kentucky,19314,3814
+Marion-Mississippi,24441,4205
+Marion-Missouri,28423,5114
+Marion-Ohio,64820,11675
+Marion-Oregon,349204,35835
+Marion-South Carolina,30158,5381
+Marion-Tennessee,28924,5675
+Marion-Texas,9960,1155
+Marion-West Virginia,55962,7552
+Mariposa-California,17160,1231
+Marlboro-South Carolina,25581,4740
+Marquette-Michigan,65834,7601
+Marquette-Wisconsin,15585,2173
+Marshall-Alabama,96990,18214
+Marshall-Illinois,11309,1405
+Marshall-Indiana,46108,7745
+Marshall-Iowa,39495,6358
+Marshall-Kansas,9652,1420
+Marshall-Kentucky,31163,4942
+Marshall-Minnesota,9321,1293
+Marshall-Mississippi,35301,6365
+Marshall-Oklahoma,17114,2681
+Marshall-South Dakota,4884,421
+Marshall-Tennessee,35016,6764
+Marshall-West Virginia,30103,5134
+Martin-Florida,162088,19847
+Martin-Indiana,10079,1369
+Martin-Kentucky,11031,1841
+Martin-Minnesota,19484,3121
+Martin-North Carolina,22178,3562
+Martin-Texas,5816,830
+Martinsville city-Virginia,12355,1978
+Mason-Illinois,13173,2109
+Mason-Kentucky,17035,2487
+Mason-Michigan,29164,2942
+Mason-Texas,4344,553
+Mason-Washington,68224,5417
+Mason-West Virginia,26335,3490
+Massac-Illinois,13636,2133
+Matagorda-Texas,36725,6003
+Matanuska-Susitna Borough-Alaska,110213,19786
+Mathews-Virginia,8766,871
+Maui-Hawaii,167902,9670
+Maury-Tennessee,99590,19112
+Maverick-Texas,58378,12642
+Mayes-Oklahoma,41152,6642
+McClain-Oklahoma,41348,7325
+McCone-Montana,1648,251
+McCook-South Dakota,5520,892
+McCormick-South Carolina,9430,1327
+McCracken-Kentucky,65644,9832
+McCreary-Kentucky,17071,3631
+McCulloch-Texas,7823,912
+McCurtain-Oklahoma,32772,5603
+McDonald-Missouri,22900,3961
+McDonough-Illinois,29295,3704
+McDowell-North Carolina,45782,8420
+McDowell-West Virginia,16916,2803
+McDuffie-Georgia,21162,3475
+McHenry-Illinois,305888,34307
+McHenry-North Dakota,5695,824
+McIntosh-Georgia,14387,1703
+McIntosh-North Dakota,2440,442
+McIntosh-Oklahoma,19635,2831
+McKean-Pennsylvania,40333,4808
+McKenzie-North Dakota,15242,2202
+McKinley-New Mexico,70824,14339
+McLean-Illinois,171256,22789
+McLean-Kentucky,9075,1425
+McLean-North Dakota,9416,1698
+McLennan-Texas,259730,41558
+McLeod-Minnesota,35710,5733
+McMinn-Tennessee,54208,10309
+McMullen-Texas,721,115
+McNairy-Tennessee,25696,4535
+McPherson-Kansas,28448,4301
+McPherson-Nebraska,474,49
+McPherson-South Dakota,2363,308
+Meade-Kansas,4029,658
+Meade-Kentucky,28616,3412
+Meade-South Dakota,28588,4358
+Meagher-Montana,1831,240
+Mecklenburg-North Carolina,1128945,154206
+Mecklenburg-Virginia,30679,3302
+Mecosta-Michigan,43907,4371
+Medina-Ohio,180912,21480
+Medina-Texas,52358,6792
+Meeker-Minnesota,23341,3467
+Meigs-Ohio,22678,2525
+Meigs-Tennessee,12532,2138
+Mellette-South Dakota,2089,315
+Menard-Illinois,12068,1706
+Menard-Texas,2124,340
+Mendocino-California,86061,7480
+Menifee-Kentucky,6502,812
+Menominee-Michigan,22608,3168
+Menominee-Wisconsin,4546,928
+Merced-California,279252,41912
+Mercer-Illinois,15225,2013
+Mercer-Kentucky,21889,4341
+Mercer-Missouri,3558,428
+Mercer-New Jersey,367239,38745
+Mercer-North Dakota,8174,1645
+Mercer-Ohio,41274,6012
+Mercer-Pennsylvania,108545,12877
+Mercer-West Virginia,58258,8329
+Meriwether-Georgia,21164,2949
+Merrick-Nebraska,7809,1007
+Merrimack-New Hampshire,152622,12727
+Mesa-Colorado,155603,22687
+Metcalfe-Kentucky,10058,1856
+Miami-Indiana,35328,5840
+Miami-Kansas,34334,4244
+Miami-Ohio,107516,15140
+Miami-Dade-Florida,2707303,665202
+Middlesex-Connecticut,161657,14684
+Middlesex-Massachusetts,1609379,155491
+Middlesex-New Jersey,822736,104824
+Middlesex-Virginia,10569,923
+Midland-Michigan,83441,9756
+Midland-Texas,177863,27609
+Mifflin-Pennsylvania,46064,6805
+Milam-Texas,24708,3672
+Millard-Utah,13327,2077
+Mille Lacs-Minnesota,26146,3995
+Miller-Arkansas,43177,6363
+Miller-Georgia,5622,1205
+Miller-Missouri,25791,3953
+Mills-Iowa,14766,1972
+Mills-Texas,4840,860
+Milwaukee-Wisconsin,945016,147759
+Miner-South Dakota,2202,349
+Mineral-Colorado,773,124
+Mineral-Montana,4544,659
+Mineral-Nevada,4518,545
+Mineral-West Virginia,26722,4425
+Mingo-West Virginia,22951,4379
+Minidoka-Idaho,21216,3014
+Minnehaha-South Dakota,196659,36617
+Missaukee-Michigan,15152,1780
+Mississippi-Arkansas,40066,8180
+Mississippi-Missouri,12691,2146
+Missoula-Montana,121630,14942
+Mitchell-Georgia,21602,3356
+Mitchell-Iowa,10647,1626
+Mitchell-Kansas,5879,737
+Mitchell-North Carolina,14881,1960
+Mitchell-Texas,8202,892
+Mobile-Alabama,412716,71955
+Modoc-California,8763,794
+Moffat-Colorado,13144,1881
+Mohave-Arizona,217206,32242
+Moniteau-Missouri,15585,2541
+Monmouth-New Jersey,618381,90533
+Mono-California,14534,1624
+Monona-Iowa,8598,1074
+Monongalia-West Virginia,106819,12222
+Monroe-Alabama,20459,3279
+Monroe-Arkansas,6584,1185
+Monroe-Florida,73900,10337
+Monroe-Georgia,28042,4101
+Monroe-Illinois,34739,5226
+Monroe-Indiana,148219,15068
+Monroe-Iowa,7770,1317
+Monroe-Kentucky,10549,2222
+Monroe-Michigan,150568,19394
+Monroe-Mississippi,35123,6702
+Monroe-Missouri,8672,1288
+Monroe-New York,740900,82481
+Monroe-Ohio,13586,2089
+Monroe-Pennsylvania,170154,18920
+Monroe-Tennessee,47177,9559
+Monroe-West Virginia,13229,2011
+Monroe-Wisconsin,46582,6161
+Montague-Texas,19962,2997
+Montcalm-Michigan,63476,10149
+Monterey-California,430906,50592
+Montezuma-Colorado,26408,2866
+Montgomery-Alabama,224639,33845
+Montgomery-Arkansas,9006,1108
+Montgomery-Georgia,9012,1510
+Montgomery-Illinois,28045,4845
+Montgomery-Indiana,38365,6155
+Montgomery-Iowa,9935,1389
+Montgomery-Kansas,31502,5286
+Montgomery-Kentucky,28186,4385
+Montgomery-Maryland,1051816,81193
+Montgomery-Mississippi,9661,1788
+Montgomery-Missouri,11294,1511
+Montgomery-New York,49170,5721
+Montgomery-North Carolina,27238,4419
+Montgomery-Ohio,531610,72337
+Montgomery-Pennsylvania,833869,82998
+Montgomery-Tennessee,214251,32350
+Montgomery-Texas,626351,86577
+Montgomery-Virginia,98391,11535
+Montmorency-Michigan,9337,848
+Montour-Pennsylvania,18042,2386
+Montrose-Colorado,43322,5011
+Moody-South Dakota,6525,755
+Moore-North Carolina,103352,13339
+Moore-Tennessee,6438,1420
+Moore-Texas,20654,3384
+Mora-New Mexico,4478,343
+Morehouse-Louisiana,24227,4416
+Morgan-Alabama,119883,20555
+Morgan-Colorado,28941,3244
+Morgan-Georgia,19636,3237
+Morgan-Illinois,33400,5188
+Morgan-Indiana,70707,9349
+Morgan-Kentucky,13142,2817
+Morgan-Missouri,20716,2585
+Morgan-Ohio,14305,1863
+Morgan-Tennessee,21431,3732
+Morgan-Utah,12462,1720
+Morgan-West Virginia,17873,1973
+Morrill-Nebraska,4625,716
+Morris-Kansas,5559,755
+Morris-New Jersey,491087,57077
+Morris-Texas,12393,1632
+Morrison-Minnesota,33187,5353
+Morrow-Ohio,35411,4451
+Morrow-Oregon,11700,1804
+Morton-Kansas,2538,335
+Morton-North Dakota,31503,7046
+Motley-Texas,1185,152
+Moultrie-Illinois,14347,2269
+Mountrail-North Dakota,10502,1807
+Mower-Minnesota,40150,6269
+Muhlenberg-Kentucky,30457,5454
+Multnomah-Oregon,815637,54647
+Murray-Georgia,40032,7361
+Murray-Minnesota,8155,1291
+Murray-Oklahoma,13955,2574
+Muscatine-Iowa,42394,6294
+Muscogee-Georgia,196442,23681
+Muskegon-Michigan,173883,22441
+Muskingum-Ohio,86020,14281
+Muskogee-Oklahoma,67610,13176
+Musselshell-Montana,4669,521
+Nacogdoches-Texas,64753,7657
+Nance-Nebraska,3532,504
+Nantucket-Massachusetts,11376,1907
+Napa-California,135965,12769
+Nash-North Carolina,94859,15079
+Nassau-Florida,91113,14867
+Nassau-New York,1351334,212560
+Natchitoches-Louisiana,37655,6530
+Natrona-Wyoming,80815,13587
+Navajo-Arizona,112112,20344
+Navarro-Texas,50694,8583
+Nelson-Kentucky,46450,8096
+Nelson-North Dakota,2789,533
+Nelson-Virginia,14755,1290
+Nemaha-Kansas,10121,1869
+Nemaha-Nebraska,7044,890
+Neosho-Kansas,15929,2494
+Neshoba-Mississippi,28996,6604
+Ness-Kansas,2768,484
+Nevada-Arkansas,8099,1337
+Nevada-California,99606,9008
+New Castle-Delaware,561531,79107
+New Hanover-North Carolina,236613,28236
+New Haven-Connecticut,851948,104002
+New Kent-Virginia,23648,2276
+New London-Connecticut,264999,26883
+New Madrid-Missouri,16693,3280
+New York City-New York,6641224,1102649
+Newaygo-Michigan,49348,6243
+Newberry-South Carolina,38445,7363
+Newport-Rhode Island,81836,8560
+Newport News city-Virginia,179062,20080
+Newton-Arkansas,7602,1161
+Newton-Georgia,113295,16051
+Newton-Indiana,13907,1547
+Newton-Mississippi,20866,3808
+Newton-Missouri,58451,7672
+Newton-Texas,13414,935
+Nez Perce-Idaho,40755,5923
+Niagara-New York,208396,23501
+Nicholas-Kentucky,7234,1127
+Nicholas-West Virginia,24340,3374
+Nicollet-Minnesota,34482,4200
+Niobrara-Wyoming,2275,342
+Noble-Indiana,47832,7883
+Noble-Ohio,14364,1928
+Noble-Oklahoma,11113,1865
+Nobles-Minnesota,21400,4740
+Nodaway-Missouri,21743,3329
+Nolan-Texas,14835,2430
+Nome Census Area-Alaska,9909,1220
+Norfolk-Massachusetts,709409,63203
+Norfolk city-Virginia,242803,23862
+Norman-Minnesota,6338,831
+North Slope Borough-Alaska,9294,2486
+Northampton-North Carolina,19088,2550
+Northampton-Pennsylvania,305892,43318
+Northampton-Virginia,11673,1126
+Northumberland-Pennsylvania,90258,12052
+Northumberland-Virginia,12069,1169
+Northwest Arctic Borough-Alaska,7644,1520
+Norton-Kansas,5328,1379
+Norton city-Virginia,3985,538
+Nottoway-Virginia,15160,2530
+Nowata-Oklahoma,10076,1760
+Noxubee-Mississippi,10236,1848
+Nuckolls-Nebraska,4134,529
+Nueces-Texas,363148,60963
+Nye-Nevada,48054,4404
+O'Brien-Iowa,13679,2239
+Oakland-Michigan,1253459,140924
+Obion-Tennessee,30131,6526
+Ocean-New Jersey,614237,92625
+Oceana-Michigan,26819,3537
+Ochiltree-Texas,9598,1466
+Oconee-Georgia,41124,5589
+Oconee-South Carolina,80015,15138
+Oconto-Wisconsin,38383,6946
+Ogemaw-Michigan,20923,2548
+Oglala Lakota-South Dakota,14070,2354
+Ogle-Illinois,50306,7495
+Oglethorpe-Georgia,15383,2143
+Ohio-Indiana,5892,837
+Ohio-Kentucky,23899,4253
+Ohio-West Virginia,41182,5887
+Okaloosa-Florida,212820,34001
+Okanogan-Washington,42620,4873
+Okeechobee-Florida,42297,7357
+Okfuskee-Oklahoma,11765,2273
+Okmulgee-Oklahoma,38234,5767
+Oktibbeha-Mississippi,49789,7107
+Oldham-Kentucky,66999,9915
+Oldham-Texas,2135,336
+Oliver-North Dakota,1926,196
+Olmsted-Minnesota,159298,17646
+Oneida-Idaho,4520,508
+Oneida-New York,227346,27923
+Oneida-Wisconsin,35751,4751
+Onondaga-New York,459214,50426
+Onslow-North Carolina,203943,27735
+Ontario-New York,110091,9104
+Ontonagon-Michigan,5656,590
+Orange-California,3166857,322299
+Orange-Florida,1404396,224913
+Orange-Indiana,19651,2893
+Orange-New York,385234,56712
+Orange-North Carolina,149077,11550
+Orange-Texas,82878,13565
+Orange-Vermont,28837,1169
+Orange-Virginia,37695,3531
+Orangeburg-South Carolina,85343,14330
+Oregon-Missouri,10411,1316
+Orleans-Louisiana,389476,46343
+Orleans-New York,39978,4185
+Orleans-Vermont,26897,2303
+Osage-Kansas,15770,1936
+Osage-Missouri,13535,2106
+Osage-Oklahoma,46642,6765
+Osborne-Kansas,3439,393
+Osceola-Florida,385315,70591
+Osceola-Iowa,5987,911
+Osceola-Michigan,23466,2764
+Oscoda-Michigan,8368,889
+Oswego-New York,116346,11104
+Otero-Colorado,18201,2453
+Otero-New Mexico,67967,7635
+Otoe-Nebraska,15965,1830
+Otsego-Michigan,24765,3085
+Otsego-New York,58701,4448
+Ottawa-Kansas,5712,693
+Ottawa-Michigan,294635,39679
+Ottawa-Ohio,40253,4729
+Ottawa-Oklahoma,30879,5970
+Otter Tail-Minnesota,58741,7710
+Ouachita-Arkansas,23167,3375
+Ouachita-Louisiana,152439,31152
+Ouray-Colorado,5001,416
+Outagamie-Wisconsin,188766,29390
+Overton-Tennessee,22566,4715
+Owen-Indiana,20833,3086
+Owen-Kentucky,11017,1326
+Owsley-Kentucky,4331,958
+Owyhee-Idaho,12133,1526
+Oxford-Maine,58132,4691
+Ozark-Missouri,9083,1095
+Ozaukee-Wisconsin,90043,11995
+Pacific-Washington,22984,1740
+Page-Iowa,15073,2449
+Page-Virginia,23933,3244
+Palm Beach-Florida,1507600,221820
+Palo Alto-Iowa,8845,1408
+Palo Pinto-Texas,29320,4605
+Pamlico-North Carolina,12715,1676
+Panola-Mississippi,33848,6455
+Panola-Texas,23187,2929
+Park-Colorado,18955,1305
+Park-Montana,16760,2041
+Park-Wyoming,29331,4741
+Parke-Indiana,16871,2302
+Parker-Texas,148198,23535
+Parmer-Texas,9522,1511
+Pasco-Florida,570412,78245
+Pasquotank-North Carolina,40372,4940
+Passaic-New Jersey,500382,80735
+Patrick-Virginia,17493,1955
+Paulding-Georgia,173359,24840
+Paulding-Ohio,18648,2715
+Pawnee-Kansas,6366,1423
+Pawnee-Nebraska,2601,281
+Pawnee-Oklahoma,16381,2590
+Payette-Idaho,24771,3787
+Payne-Oklahoma,81755,11775
+Peach-Georgia,27950,3998
+Pearl River-Mississippi,55876,9410
+Pecos-Texas,15718,2169
+Pembina-North Dakota,6658,1132
+Pemiscot-Missouri,15600,2032
+Pend Oreille-Washington,14144,1443
+Pender-North Carolina,64671,8651
+Pendleton-Kentucky,14586,1973
+Pendleton-West Virginia,6932,1073
+Pennington-Minnesota,13874,2114
+Pennington-South Dakota,115926,19840
+Penobscot-Maine,151655,11364
+Peoria-Illinois,177652,26813
+Pepin-Wisconsin,7271,1135
+Perkins-Nebraska,2867,330
+Perkins-South Dakota,2832,405
+Perquimans-North Carolina,13667,1481
+Perry-Alabama,8687,1380
+Perry-Arkansas,10327,1495
+Perry-Illinois,20664,4286
+Perry-Indiana,19154,2641
+Perry-Kentucky,25456,5932
+Perry-Mississippi,11862,2043
+Perry-Missouri,19194,3036
+Perry-Ohio,36215,5076
+Perry-Pennsylvania,46212,5038
+Perry-Tennessee,8099,1584
+Pershing-Nevada,6573,1076
+Person-North Carolina,39925,5022
+Petersburg Borough-Alaska,3296,279
+Petersburg city-Virginia,30446,5148
+Petroleum-Montana,500,17
+Pettis-Missouri,42490,7229
+Phelps-Missouri,44414,6115
+Phelps-Nebraska,9006,1270
+Philadelphia-Pennsylvania,1578487,177989
+Phillips-Arkansas,17299,3164
+Phillips-Colorado,4367,491
+Phillips-Kansas,5181,827
+Phillips-Montana,3919,685
+Piatt-Illinois,16355,1993
+Pickaway-Ohio,58658,11202
+Pickens-Alabama,19793,3129
+Pickens-Georgia,33127,5509
+Pickens-South Carolina,127983,27171
+Pickett-Tennessee,5061,1065
+Pierce-Georgia,19522,4203
+Pierce-Nebraska,7184,756
+Pierce-North Dakota,3928,735
+Pierce-Washington,913890,87726
+Pierce-Wisconsin,42700,6094
+Pike-Alabama,32966,4708
+Pike-Arkansas,10643,1676
+Pike-Georgia,19121,3773
+Pike-Illinois,15239,2620
+Pike-Indiana,12378,2268
+Pike-Kentucky,57057,10327
+Pike-Mississippi,38997,5749
+Pike-Missouri,17552,2485
+Pike-Ohio,27695,4259
+Pike-Pennsylvania,56072,5142
+Pima-Arizona,1061175,138833
+Pinal-Arizona,480828,70897
+Pine-Minnesota,29359,4149
+Pinellas-Florida,976802,132651
+Pipestone-Minnesota,9121,1311
+Piscataquis-Maine,16996,1222
+Pitkin-Colorado,17894,3065
+Pitt-North Carolina,182924,29097
+Pittsburg-Oklahoma,43679,6569
+Pittsylvania-Virginia,59850,7819
+Piute-Utah,1473,160
+Placer-California,402950,38714
+Plaquemines-Louisiana,23113,3795
+Platte-Missouri,106532,5830
+Platte-Nebraska,33364,5107
+Platte-Wyoming,8578,1270
+Pleasants-West Virginia,7438,1365
+Plumas-California,18967,1518
+Plymouth-Iowa,25219,4593
+Plymouth-Massachusetts,523738,57819
+Pocahontas-Iowa,6607,1093
+Pocahontas-West Virginia,8190,1091
+Poinsett-Arkansas,23283,4850
+Pointe Coupee-Louisiana,21529,3818
+Polk-Arkansas,19707,2946
+Polk-Florida,744552,126806
+Polk-Georgia,42840,8419
+Polk-Iowa,494281,73744
+Polk-Minnesota,30900,4983
+Polk-Missouri,32490,5078
+Polk-Nebraska,5201,745
+Polk-North Carolina,21030,2261
+Polk-Oregon,87744,7101
+Polk-Tennessee,16835,3141
+Polk-Texas,52995,5858
+Polk-Wisconsin,43794,6533
+Pondera-Montana,5782,736
+Pontotoc-Mississippi,32461,6596
+Pontotoc-Oklahoma,38397,6701
+Pope-Arkansas,64334,11810
+Pope-Illinois,4142,542
+Pope-Minnesota,11277,1520
+Poquoson city-Virginia,12257,1301
+Portage-Ohio,162583,17448
+Portage-Wisconsin,71032,9230
+Porter-Indiana,170980,22662
+Portsmouth city-Virginia,95094,12323
+Posey-Indiana,25275,3731
+Pottawatomie-Kansas,24722,2734
+Pottawatomie-Oklahoma,72998,11809
+Pottawattamie-Iowa,93328,14078
+Potter-Pennsylvania,16453,1756
+Potter-South Dakota,2163,406
+Potter-Texas,116004,22967
+Powder River-Montana,1681,256
+Powell-Kentucky,12218,2416
+Powell-Montana,6817,1236
+Power-Idaho,7643,980
+Poweshiek-Iowa,18381,2068
+Powhatan-Virginia,30148,2721
+Prairie-Arkansas,7966,1273
+Prairie-Montana,1067,153
+Pratt-Kansas,9127,1177
+Preble-Ohio,40836,5580
+Prentiss-Mississippi,25013,4640
+Presidio-Texas,6508,894
+Presque Isle-Michigan,12665,1302
+Preston-West Virginia,33380,4836
+Price-Wisconsin,13245,1731
+Prince Edward-Virginia,23006,2870
+Prince George-Virginia,38686,4838
+Prince George's-Maryland,909612,98403
+Prince William-Virginia,475533,53809
+Prince of Wales-Hyder Census Area-Alaska,6147,473
+Providence-Rhode Island,636547,112799
+Prowers-Colorado,12106,1550
+Pueblo-Colorado,169823,23681
+Pulaski-Arkansas,392980,58089
+Pulaski-Georgia,11191,1499
+Pulaski-Illinois,5201,1031
+Pulaski-Indiana,12388,1799
+Pulaski-Kentucky,65530,10971
+Pulaski-Missouri,52709,5094
+Pulaski-Virginia,33935,3953
+Pushmataha-Oklahoma,10970,1747
+Putnam-Florida,74815,12628
+Putnam-Georgia,22520,3188
+Putnam-Illinois,5716,556
+Putnam-Indiana,37469,5719
+Putnam-Missouri,4688,615
+Putnam-New York,98532,12328
+Putnam-Ohio,33654,5198
+Putnam-Tennessee,80929,16478
+Putnam-West Virginia,56428,8356
+Quay-New Mexico,8197,984
+Queen Anne's-Maryland,51167,3750
+Quitman-Georgia,2271,253
+Quitman-Mississippi,6760,1057
+Rabun-Georgia,17273,2478
+Racine-Wisconsin,195802,30981
+Radford city-Virginia,18255,2842
+Rains-Texas,12552,1496
+Raleigh-West Virginia,72920,10769
+Ralls-Missouri,10299,1517
+Ramsey-Minnesota,547903,62280
+Ramsey-North Dakota,11388,2093
+Randall-Texas,139899,23165
+Randolph-Alabama,22920,3242
+Randolph-Arkansas,18247,3249
+Randolph-Georgia,6682,994
+Randolph-Illinois,31351,5501
+Randolph-Indiana,24191,3417
+Randolph-Missouri,24409,3559
+Randolph-North Carolina,144557,21166
+Randolph-West Virginia,28387,4905
+Rankin-Mississippi,155975,21834
+Ransom-North Dakota,5173,907
+Rapides-Louisiana,128567,20996
+Rappahannock-Virginia,7260,551
+Ravalli-Montana,45002,4754
+Rawlins-Kansas,2511,401
+Ray-Missouri,22915,2890
+Reagan-Texas,3833,581
+Real-Texas,3411,523
+Red Lake-Minnesota,4046,572
+Red River-Louisiana,8286,1396
+Red River-Texas,11995,1340
+Red Willow-Nebraska,10627,1518
+Redwood-Minnesota,15079,2314
+Reeves-Texas,15949,3434
+Refugio-Texas,6877,1182
+Reno-Kansas,61793,10979
+Rensselaer-New York,158108,14398
+Renville-Minnesota,14403,2218
+Renville-North Dakota,2283,362
+Republic-Kansas,4536,865
+Reynolds-Missouri,6198,767
+Rhea-Tennessee,33443,6890
+Rice-Kansas,9362,1419
+Rice-Minnesota,67084,9791
+Rich-Utah,2452,206
+Richardson-Nebraska,7791,896
+Richland-Illinois,15507,2779
+Richland-Louisiana,20014,4261
+Richland-Montana,11043,1600
+Richland-North Dakota,16156,2415
+Richland-Ohio,120891,18089
+Richland-South Carolina,419051,67902
+Richland-Wisconsin,17258,2043
+Richmond-Georgia,202079,34625
+Richmond-North Carolina,44332,6992
+Richmond-Virginia,9071,1698
+Richmond city-Virginia,232226,23382
+Riley-Kansas,73202,7920
+Ringgold-Iowa,4801,668
+Rio Arriba-New Mexico,38521,4616
+Rio Blanco-Colorado,6342,908
+Rio Grande-Colorado,11296,1395
+Ripley-Indiana,28448,4908
+Ripley-Missouri,13300,1875
+Ritchie-West Virginia,9499,1404
+Riverside-California,2489188,368590
+Roane-Tennessee,53841,9786
+Roane-West Virginia,13482,1383
+Roanoke-Virginia,94509,11415
+Roanoke city-Virginia,99058,11733
+Roberts-South Dakota,10331,1503
+Roberts-Texas,813,93
+Robertson-Kentucky,2136,329
+Robertson-Tennessee,72275,13900
+Robertson-Texas,17155,2924
+Robeson-North Carolina,129999,24637
+Rock-Minnesota,9301,1528
+Rock-Nebraska,1377,125
+Rock-Wisconsin,163084,21806
+Rock Island-Illinois,140907,18636
+Rockbridge-Virginia,22757,2032
+Rockcastle-Kentucky,16750,3095
+Rockdale-Georgia,90939,11244
+Rockingham-New Hampshire,311307,30090
+Rockingham-North Carolina,91285,11597
+Rockingham-Virginia,82346,9025
+Rockland-New York,326225,52558
+Rockwall-Texas,109888,17208
+Roger Mills-Oklahoma,3570,487
+Rogers-Oklahoma,93155,15443
+Rolette-North Dakota,14165,2733
+Rooks-Kansas,4827,769
+Roosevelt-Montana,10964,1870
+Roosevelt-New Mexico,18350,2640
+Roscommon-Michigan,23986,2305
+Roseau-Minnesota,15117,2571
+Rosebud-Montana,8836,1592
+Ross-Ohio,76420,10326
+Routt-Colorado,25560,3224
+Rowan-Kentucky,24682,3396
+Rowan-North Carolina,142495,25773
+Runnels-Texas,10401,1674
+Rush-Indiana,16649,2627
+Rush-Kansas,2947,495
+Rusk-Texas,54324,8046
+Rusk-Wisconsin,14022,2111
+Russell-Alabama,58237,6225
+Russell-Kansas,6804,1064
+Russell-Kentucky,17998,3776
+Russell-Virginia,26647,3613
+Rutherford-North Carolina,67076,11103
+Rutherford-Tennessee,339261,60909
+Rutland-Vermont,57764,3583
+Sabine-Louisiana,23803,4454
+Sabine-Texas,10507,945
+Sac-Iowa,9603,1565
+Sacramento-California,1559146,157142
+Sagadahoc-Maine,36044,1865
+Saginaw-Michigan,189868,27186
+Saguache-Colorado,6938,633
+Salem-New Jersey,62451,7551
+Salem city-Virginia,25340,3291
+Saline-Arkansas,123968,18322
+Saline-Illinois,23182,4313
+Saline-Kansas,53926,8147
+Saline-Missouri,22858,4039
+Saline-Nebraska,13987,2378
+Salt Lake-Utah,1165517,188064
+Saluda-South Carolina,20315,2499
+Sampson-North Carolina,63382,11003
+San Augustine-Texas,8248,888
+San Benito-California,64055,7350
+San Bernardino-California,2189183,355666
+San Diego-California,3332427,379091
+San Francisco-California,866606,53860
+San Jacinto-Texas,29301,2796
+San Joaquin-California,767967,101461
+San Juan-Colorado,748,94
+San Juan-New Mexico,123312,19777
+San Juan-Utah,15278,2312
+San Juan-Washington,17492,314
+San Luis Obispo-California,282249,29562
+San Mateo-California,758308,53724
+San Miguel-Colorado,8105,1151
+San Miguel-New Mexico,27144,2499
+San Patricio-Texas,67069,6880
+San Saba-Texas,6039,988
+Sanborn-South Dakota,2322,375
+Sanders-Montana,12157,1283
+Sandoval-New Mexico,148904,15416
+Sandusky-Ohio,58351,7585
+Sangamon-Illinois,193882,25563
+Sanilac-Michigan,40747,4791
+Sanpete-Utah,31393,5173
+Santa Barbara-California,444766,44720
+Santa Clara-California,1907105,144154
+Santa Cruz-Arizona,46808,8883
+Santa Cruz-California,269925,20819
+Santa Fe-New Mexico,151946,12982
+Santa Rosa-Florida,189139,31999
+Sarasota-Florida,443465,54595
+Saratoga-New York,230298,19728
+Sargent-North Dakota,3913,579
+Sarpy-Nebraska,188856,27619
+Sauk-Wisconsin,64449,8059
+Saunders-Nebraska,21927,3042
+Sawyer-Wisconsin,16700,2406
+Schenectady-New York,155358,16273
+Schleicher-Texas,2761,349
+Schley-Georgia,5196,637
+Schoharie-New York,31132,2237
+Schoolcraft-Michigan,8104,735
+Schuyler-Illinois,6738,1049
+Schuyler-Missouri,4534,411
+Schuyler-New York,17685,1455
+Schuylkill-Pennsylvania,140709,18215
+Scioto-Ohio,74347,11271
+Scotland-Missouri,4871,365
+Scotland-North Carolina,34637,5619
+Scott-Arkansas,10164,1696
+Scott-Illinois,4950,710
+Scott-Indiana,23788,4328
+Scott-Iowa,173216,24459
+Scott-Kansas,4790,722
+Scott-Kentucky,58470,8059
+Scott-Minnesota,150689,21193
+Scott-Mississippi,28061,4703
+Scott-Missouri,38288,7051
+Scott-Tennessee,22090,5030
+Scott-Virginia,21629,2949
+Scotts Bluff-Nebraska,35299,5908
+Screven-Georgia,14012,1791
+Scurry-Texas,16662,3162
+Searcy-Arkansas,7842,1236
+Sebastian-Arkansas,127590,21969
+Sedgwick-Colorado,2260,285
+Sedgwick-Kansas,519907,79148
+Seminole-Florida,474171,61209
+Seminole-Georgia,8060,1509
+Seminole-Oklahoma,24248,3755
+Seneca-New York,33991,2683
+Seneca-Ohio,54938,7096
+Sequatchie-Tennessee,15176,2935
+Sequoyah-Oklahoma,41538,6606
+Sevier-Arkansas,16702,3794
+Sevier-Tennessee,99244,19653
+Sevier-Utah,21780,3546
+Seward-Kansas,21038,4611
+Seward-Nebraska,17186,2271
+Shackelford-Texas,3300,416
+Shannon-Missouri,8203,969
+Sharkey-Mississippi,4160,639
+Sharp-Arkansas,17424,2793
+Shasta-California,179027,23083
+Shawano-Wisconsin,40786,6794
+Shawnee-Kansas,175999,25106
+Sheboygan-Wisconsin,115240,17644
+Shelby-Alabama,221428,37167
+Shelby-Illinois,21299,3396
+Shelby-Indiana,44871,8090
+Shelby-Iowa,11430,1743
+Shelby-Kentucky,49611,6844
+Shelby-Missouri,5919,909
+Shelby-Ohio,48337,6318
+Shelby-Tennessee,936017,144149
+Shelby-Texas,24915,2904
+Shenandoah-Virginia,43905,6120
+Sherburne-Minnesota,98811,15089
+Sheridan-Kansas,2520,484
+Sheridan-Montana,3261,491
+Sheridan-Nebraska,5150,718
+Sheridan-North Dakota,1275,146
+Sheridan-Wyoming,30863,4940
+Sherman-Kansas,5777,767
+Sherman-Nebraska,2986,332
+Sherman-Oregon,1801,145
+Sherman-Texas,3027,293
+Shiawassee-Michigan,67738,8238
+Shoshone-Idaho,12911,1813
+Sibley-Minnesota,14715,2026
+Sierra-California,2920,169
+Sierra-New Mexico,10867,1010
+Silver Bow-Montana,35180,5432
+Simpson-Kentucky,18635,3131
+Simpson-Mississippi,26629,4413
+Sioux-Iowa,35043,5602
+Sioux-Nebraska,1200,52
+Sioux-North Dakota,4173,843
+Siskiyou-California,43245,4557
+Sitka City and Borough-Alaska,8405,1129
+Skagit-Washington,130789,10183
+Skagway Municipality-Alaska,1179,70
+Skamania-Washington,12107,706
+Slope-North Dakota,747,41
+Smith-Kansas,3544,379
+Smith-Mississippi,15779,2622
+Smith-Tennessee,20285,4131
+Smith-Texas,235806,35848
+Smyth-Virginia,30090,4624
+Snohomish-Washington,830393,61717
+Snyder-Pennsylvania,40317,4535
+Socorro-New Mexico,16541,1651
+Solano-California,446935,45686
+Somerset-Maine,50635,3880
+Somerset-Maryland,25453,3242
+Somerset-New Jersey,329331,34440
+Somerset-Pennsylvania,72916,10089
+Somervell-Texas,9139,1443
+Sonoma-California,489819,40613
+Southampton-Virginia,17636,2349
+Southeast Fairbanks Census Area-Alaska,6957,1110
+Spalding-Georgia,67414,10187
+Spartanburg-South Carolina,326205,60639
+Spencer-Indiana,20225,3354
+Spencer-Kentucky,19585,2790
+Spink-South Dakota,6319,999
+Spokane-Washington,528225,69097
+Spotsylvania-Virginia,138449,14482
+St. Bernard-Louisiana,47647,6840
+St. Charles-Louisiana,52987,8800
+St. Charles-Missouri,406204,60716
+St. Clair-Alabama,90739,15872
+St. Clair-Illinois,258046,39988
+St. Clair-Michigan,159293,21517
+St. Clair-Missouri,9689,1241
+St. Croix-Wisconsin,91838,12386
+St. Francis-Arkansas,24682,4752
+St. Francois-Missouri,66485,11837
+St. Helena-Louisiana,10081,1259
+St. James-Louisiana,20727,3433
+St. John the Baptist-Louisiana,42516,6259
+St. Johns-Florida,278715,40071
+St. Joseph-Indiana,271484,43811
+St. Joseph-Michigan,60848,7993
+St. Landry-Louisiana,81440,13882
+St. Lawrence-New York,107185,10041
+St. Louis-Minnesota,198538,22965
+St. Louis-Missouri,994020,127275
+St. Louis city-Missouri,297645,31999
+St. Lucie-Florida,337186,47161
+St. Martin-Louisiana,52954,8308
+St. Mary-Louisiana,48330,8482
+St. Mary's-Maryland,114687,9317
+St. Tammany-Louisiana,263446,43151
+Stafford-Kansas,4046,555
+Stafford-Virginia,156748,15499
+Stanislaus-California,550081,84709
+Stanley-South Dakota,3121,410
+Stanly-North Carolina,63239,11375
+Stanton-Kansas,1969,270
+Stanton-Nebraska,5880,464
+Stark-Illinois,5262,805
+Stark-North Dakota,32107,7163
+Stark-Ohio,369772,45293
+Starke-Indiana,23049,3093
+Starr-Texas,64266,11493
+Staunton city-Virginia,25190,3301
+Ste. Genevieve-Missouri,17924,2343
+Stearns-Minnesota,162038,27701
+Steele-Minnesota,36596,5669
+Steele-North Dakota,1890,244
+Stephens-Georgia,26107,4713
+Stephens-Oklahoma,43100,7364
+Stephens-Texas,9334,1141
+Stephenson-Illinois,43831,5750
+Sterling-Texas,1315,163
+Steuben-Indiana,34831,5452
+Steuben-New York,94657,9672
+Stevens-Kansas,5388,726
+Stevens-Minnesota,9765,1195
+Stevens-Washington,46360,4701
+Stewart-Georgia,6689,1511
+Stewart-Tennessee,13859,2101
+Stillwater-Montana,9888,1039
+Stoddard-Missouri,29001,4263
+Stokes-North Carolina,45743,5999
+Stone-Arkansas,12674,1675
+Stone-Mississippi,18360,3578
+Stone-Missouri,32465,3902
+Stonewall-Texas,1348,214
+Storey-Nevada,4207,201
+Story-Iowa,98237,12754
+Strafford-New Hampshire,131533,12689
+Stutsman-North Dakota,20498,4237
+Sublette-Wyoming,9856,1305
+Suffolk-Massachusetts,801582,105889
+Suffolk-New York,1474273,236630
+Suffolk city-Virginia,93913,10645
+Sullivan-Indiana,20578,3257
+Sullivan-Missouri,6033,1165
+Sullivan-New Hampshire,43267,2992
+Sullivan-New York,75802,8266
+Sullivan-Pennsylvania,5913,566
+Sullivan-Tennessee,158755,26162
+Sully-South Dakota,1391,152
+Summers-West Virginia,12444,1359
+Summit-Colorado,30631,4665
+Summit-Ohio,538866,60299
+Summit-Utah,42499,6600
+Sumner-Kansas,22578,3133
+Sumner-Tennessee,195561,33735
+Sumter-Alabama,12225,1302
+Sumter-Florida,139018,14278
+Sumter-Georgia,29282,4094
+Sumter-South Carolina,106360,15778
+Sunflower-Mississippi,24740,4214
+Surry-North Carolina,71683,11982
+Surry-Virginia,6385,590
+Susquehanna-Pennsylvania,40006,3429
+Sussex-Delaware,241635,34103
+Sussex-New Jersey,140002,16714
+Sussex-Virginia,10925,1534
+Sutter-California,96385,13721
+Sutton-Texas,3738,608
+Suwannee-Florida,44851,9115
+Swain-North Carolina,14179,1927
+Sweet Grass-Montana,3684,521
+Sweetwater-Wyoming,42673,7210
+Swift-Minnesota,9176,1318
+Swisher-Texas,7340,1467
+Switzerland-Indiana,10724,1331
+Talbot-Georgia,6143,726
+Talbot-Maryland,36972,2744
+Taliaferro-Georgia,1562,166
+Talladega-Alabama,79985,13633
+Tallahatchie-Mississippi,13707,2250
+Tallapoosa-Alabama,40133,6998
+Tama-Iowa,16801,2614
+Taney-Missouri,56104,8916
+Tangipahoa-Louisiana,136765,22537
+Taos-New Mexico,32593,2294
+Tarrant-Texas,2123347,354725
+Tate-Mississippi,28539,4534
+Tattnall-Georgia,25365,3776
+Taylor-Florida,21600,4541
+Taylor-Georgia,8074,1259
+Taylor-Iowa,6092,786
+Taylor-Kentucky,25707,5504
+Taylor-Texas,139200,22461
+Taylor-West Virginia,16699,2090
+Taylor-Wisconsin,20318,2867
+Tazewell-Illinois,130777,20488
+Tazewell-Virginia,40529,5516
+Tehama-California,64494,9156
+Telfair-Georgia,15781,2217
+Teller-Colorado,25529,2662
+Tensas-Louisiana,4178,510
+Terrebonne-Louisiana,109859,19221
+Terrell-Georgia,8523,1209
+Terrell-Texas,702,106
+Terry-Texas,12183,2050
+Teton-Idaho,12501,1575
+Teton-Montana,6249,768
+Teton-Wyoming,23497,5018
+Texas-Missouri,25112,2936
+Texas-Oklahoma,19997,3998
+Thayer-Nebraska,4887,677
+Thomas-Georgia,44372,7706
+Thomas-Kansas,7702,1336
+Thomas-Nebraska,739,65
+Throckmorton-Texas,1487,117
+Thurston-Nebraska,7220,1012
+Thurston-Washington,294074,19275
+Tift-Georgia,40719,8274
+Tillamook-Oregon,27442,1922
+Tillman-Oklahoma,7229,972
+Tioga-New York,47904,4871
+Tioga-Pennsylvania,40381,4210
+Tippah-Mississippi,21748,4646
+Tippecanoe-Indiana,196115,27597
+Tipton-Indiana,15227,2249
+Tipton-Tennessee,61918,11207
+Tishomingo-Mississippi,19275,3554
+Titus-Texas,32926,5663
+Todd-Kentucky,12448,1662
+Todd-Minnesota,24732,3807
+Todd-South Dakota,10313,1515
+Tolland-Connecticut,150600,11094
+Tom Green-Texas,120010,24682
+Tompkins-New York,101058,6353
+Tooele-Utah,74512,11183
+Toole-Montana,4686,939
+Toombs-Georgia,26973,5367
+Torrance-New Mexico,15486,1689
+Towner-North Dakota,2108,376
+Towns-Georgia,12247,1759
+Traill-North Dakota,7959,1233
+Transylvania-North Carolina,34498,3828
+Traverse-Minnesota,3218,494
+Travis-Texas,1300503,117397
+Treasure-Montana,695,80
+Trego-Kansas,2758,474
+Trempealeau-Wisconsin,29681,4786
+Treutlen-Georgia,6822,1226
+Trigg-Kentucky,14776,1961
+Trimble-Kentucky,8481,1152
+Trinity-California,12216,854
+Trinity-Texas,14883,1540
+Tripp-South Dakota,5377,834
+Troup-Georgia,70214,10769
+Trousdale-Tennessee,11455,3128
+Trumbull-Ohio,196800,22161
+Tucker-West Virginia,6816,1026
+Tulare-California,468680,78346
+Tulsa-Oklahoma,657589,105510
+Tunica-Mississippi,9392,1584
+Tuolumne-California,54515,6842
+Turner-Georgia,7882,1685
+Turner-South Dakota,8368,1306
+Tuscaloosa-Alabama,210758,34820
+Tuscarawas-Ohio,91776,12257
+Tuscola-Michigan,52289,7053
+Twiggs-Georgia,8103,1070
+Twin Falls-Idaho,88411,15148
+Tyler-Texas,21591,2426
+Tyler-West Virginia,8533,1327
+Tyrrell-North Carolina,3774,538
+Uinta-Wyoming,20215,3702
+Uintah-Utah,35970,4794
+Ulster-New York,177716,17043
+Umatilla-Oregon,77752,14139
+Unicoi-Tennessee,17755,3088
+Union-Arkansas,38219,5651
+Union-Florida,15182,3049
+Union-Georgia,25358,3504
+Union-Illinois,16498,3040
+Union-Indiana,7119,1087
+Union-Iowa,12157,1595
+Union-Kentucky,14443,2454
+Union-Louisiana,22170,3938
+Union-Mississippi,28866,5937
+Union-New Jersey,555394,79332
+Union-New Mexico,4026,508
+Union-North Carolina,244562,35502
+Union-Ohio,60021,8017
+Union-Oregon,26551,3106
+Union-Pennsylvania,44294,7110
+Union-South Carolina,26991,4387
+Union-South Dakota,16192,2561
+Union-Tennessee,20187,3010
+Upshur-Texas,42166,5730
+Upshur-West Virginia,24230,3755
+Upson-Georgia,26527,5377
+Upton-Texas,3623,594
+Uvalde-Texas,26742,6253
+Val Verde-Texas,49028,10521
+Valdez-Cordova Census Area-Alaska,9346,1524
+Valencia-New Mexico,77574,9191
+Valley-Idaho,11792,1383
+Valley-Montana,7359,1165
+Valley-Nebraska,4103,456
+Van Buren-Arkansas,16541,2162
+Van Buren-Iowa,7069,827
+Van Buren-Michigan,75474,8867
+Van Buren-Tennessee,5947,1208
+Van Wert-Ohio,28159,3566
+Van Zandt-Texas,57533,7814
+Vance-North Carolina,44718,6584
+Vanderburgh-Indiana,182447,31861
+Venango-Pennsylvania,50328,5813
+Ventura-California,841387,100337
+Vermilion-Illinois,74855,14093
+Vermilion-Louisiana,59378,10074
+Vermillion-Indiana,15329,2528
+Vernon-Louisiana,47894,6164
+Vernon-Missouri,20388,2941
+Vernon-Wisconsin,30861,2766
+Victoria-Texas,91936,13003
+Vigo-Indiana,106608,17166
+Vilas-Wisconsin,22356,2962
+Vinton-Ohio,12972,1586
+Virginia Beach city-Virginia,451231,48764
+Volusia-Florida,561497,74234
+Wabash-Illinois,11190,2158
+Wabash-Indiana,30784,5214
+Wabasha-Minnesota,21642,2792
+Wabaunsee-Kansas,6906,890
+Wadena-Minnesota,13807,2260
+Wagoner-Oklahoma,82925,12429
+Wahkiakum-Washington,4498,266
+Wake-North Carolina,1132271,128204
+Wakulla-Florida,34319,6326
+Waldo-Maine,39923,2216
+Walker-Alabama,63143,11043
+Walker-Georgia,70116,11071
+Walker-Texas,72164,11730
+Walla Walla-Washington,61292,8667
+Wallace-Kansas,1536,228
+Waller-Texas,57452,6359
+Wallowa-Oregon,7181,661
+Walsh-North Dakota,10437,2187
+Walthall-Mississippi,14294,2174
+Walton-Florida,76648,11768
+Walton-Georgia,96875,14953
+Walworth-South Dakota,5336,881
+Walworth-Wisconsin,103953,15289
+Wapello-Iowa,34985,5815
+Ward-North Dakota,68466,12420
+Ward-Texas,12097,1853
+Ware-Georgia,35826,7446
+Warren-Georgia,5232,762
+Warren-Illinois,16696,2417
+Warren-Indiana,8194,1193
+Warren-Iowa,52265,7638
+Warren-Kentucky,134510,25192
+Warren-Mississippi,44841,6632
+Warren-Missouri,36594,4920
+Warren-New Jersey,105624,11790
+Warren-New York,63756,5245
+Warren-North Carolina,19522,2314
+Warren-Ohio,238412,32071
+Warren-Pennsylvania,38911,3649
+Warren-Tennessee,41605,8460
+Warren-Virginia,40475,4770
+Warrick-Indiana,63269,11184
+Wasatch-Utah,35300,5844
+Wasco-Oregon,26403,2773
+Waseca-Minnesota,18550,3210
+Washakie-Wyoming,7760,1558
+Washburn-Wisconsin,15712,2108
+Washington-Alabama,15976,2507
+Washington-Arkansas,243216,44004
+Washington-Colorado,4875,589
+Washington-Florida,25932,4520
+Washington-Georgia,20150,3189
+Washington-Idaho,10360,1769
+Washington-Illinois,13764,2111
+Washington-Indiana,28213,3499
+Washington-Iowa,21992,3624
+Washington-Kansas,5427,760
+Washington-Kentucky,12147,2278
+Washington-Louisiana,45773,7895
+Washington-Maine,31473,1630
+Washington-Maryland,151146,18713
+Washington-Minnesota,265476,32937
+Washington-Mississippi,42837,7353
+Washington-Missouri,24604,3875
+Washington-Nebraska,20901,2707
+Washington-New York,60606,4427
+Washington-North Carolina,11485,1553
+Washington-Ohio,59652,7955
+Washington-Oklahoma,52222,8310
+Washington-Oregon,603514,37818
+Washington-Pennsylvania,206803,24195
+Washington-Rhode Island,125746,13746
+Washington-Tennessee,130367,21270
+Washington-Texas,35771,5661
+Washington-Utah,184913,27999
+Washington-Vermont,58328,3263
+Washington-Virginia,53695,7297
+Washington-Wisconsin,136445,21726
+Washita-Oklahoma,10830,1454
+Washoe-Nevada,477082,63260
+Washtenaw-Michigan,366473,32656
+Watauga-North Carolina,56441,6431
+Watonwan-Minnesota,10792,1681
+Waukesha-Wisconsin,406172,60947
+Waupaca-Wisconsin,50664,7888
+Waushara-Wisconsin,24326,3532
+Wayne-Georgia,30023,5775
+Wayne-Illinois,16031,2978
+Wayne-Indiana,65778,11154
+Wayne-Iowa,6415,720
+Wayne-Kentucky,20209,3441
+Wayne-Michigan,1740623,192783
+Wayne-Mississippi,20317,4381
+Wayne-Missouri,12769,1548
+Wayne-Nebraska,9492,1200
+Wayne-New York,89339,7827
+Wayne-North Carolina,123967,15542
+Wayne-Ohio,115694,13366
+Wayne-Pennsylvania,51163,5413
+Wayne-Tennessee,16524,3996
+Wayne-Utah,2759,234
+Wayne-West Virginia,39054,5450
+Waynesboro city-Virginia,22741,3395
+Weakley-Tennessee,33334,6184
+Webb-Texas,277681,56386
+Weber-Utah,262658,40282
+Webster-Georgia,2595,251
+Webster-Iowa,35934,6877
+Webster-Kentucky,12923,2424
+Webster-Louisiana,37943,6472
+Webster-Mississippi,9676,2015
+Webster-Missouri,39859,5662
+Webster-Nebraska,3419,471
+Webster-West Virginia,8058,1065
+Weld-Colorado,333983,44051
+Wells-Indiana,28142,4167
+Wells-North Dakota,3709,554
+West Baton Rouge-Louisiana,26792,4355
+West Carroll-Louisiana,10646,1925
+West Feliciana-Louisiana,15465,1507
+Westchester-New York,965802,143014
+Westmoreland-Pennsylvania,347087,42784
+Westmoreland-Virginia,18149,1763
+Weston-Wyoming,6743,970
+Wetzel-West Virginia,14904,2421
+Wexford-Michigan,33743,3433
+Wharton-Texas,41685,6133
+Whatcom-Washington,231016,15441
+Wheatland-Montana,2157,248
+Wheeler-Georgia,7751,945
+Wheeler-Nebraska,790,70
+Wheeler-Oregon,1387,94
+Wheeler-Texas,4946,744
+White-Arkansas,78729,12980
+White-Georgia,31094,4794
+White-Illinois,13364,2768
+White-Indiana,24165,4117
+White-Tennessee,27707,5528
+White Pine-Nevada,9466,1257
+Whiteside-Illinois,54656,8321
+Whitfield-Georgia,103837,22263
+Whitley-Indiana,34378,5542
+Whitley-Kentucky,36451,8605
+Whitman-Washington,49500,5695
+Wibaux-Montana,939,161
+Wichita-Kansas,2074,266
+Wichita-Texas,133205,21447
+Wicomico-Maryland,103990,10659
+Wilbarger-Texas,12552,2260
+Wilcox-Alabama,10206,1664
+Wilcox-Georgia,8502,1269
+Wilkes-Georgia,9694,1527
+Wilkes-North Carolina,68043,10350
+Wilkin-Minnesota,6161,988
+Wilkinson-Georgia,8812,1490
+Wilkinson-Mississippi,8351,1037
+Will-Illinois,688726,90407
+Willacy-Texas,21161,4613
+Williams-North Dakota,38700,6485
+Williams-Ohio,36565,5081
+Williamsburg-South Carolina,29825,5594
+Williamsburg city-Virginia,15259,1116
+Williamson-Illinois,66415,11962
+Williamson-Tennessee,245348,39106
+Williamson-Texas,617855,74686
+Wilson-Kansas,8362,1462
+Wilson-North Carolina,81979,12944
+Wilson-Tennessee,148130,26715
+Wilson-Texas,52023,7387
+Winchester city-Virginia,27700,3654
+Windham-Connecticut,116540,12900
+Windham-Vermont,42015,2103
+Windsor-Vermont,54988,2474
+Winkler-Texas,7887,1146
+Winn-Louisiana,13839,2601
+Winnebago-Illinois,281295,40592
+Winnebago-Iowa,10277,1856
+Winnebago-Wisconsin,171631,26589
+Winneshiek-Iowa,19862,2310
+Winona-Minnesota,50485,5992
+Winston-Alabama,23508,4440
+Winston-Mississippi,17845,3126
+Wirt-West Virginia,5705,793
+Wise-Texas,71084,10980
+Wise-Virginia,37206,4996
+Wolfe-Kentucky,7106,1161
+Wood-Ohio,131113,17016
+Wood-Texas,46291,6362
+Wood-West Virginia,82938,12499
+Wood-Wisconsin,72560,10205
+Woodbury-Iowa,103138,18878
+Woodford-Illinois,38091,5711
+Woodford-Kentucky,26765,3299
+Woodruff-Arkansas,6264,1079
+Woods-Oklahoma,8687,1599
+Woodson-Kansas,3015,387
+Woodward-Oklahoma,19812,3681
+Worcester-Maryland,52403,4864
+Worcester-Massachusetts,829212,92789
+Worth-Georgia,19972,3046
+Worth-Iowa,7359,1068
+Worth-Missouri,1953,218
+Wrangell City and Borough-Alaska,2510,138
+Wright-Iowa,12416,2410
+Wright-Minnesota,140249,20676
+Wright-Missouri,18325,2521
+Wyandot-Ohio,21711,3123
+Wyandotte-Kansas,165265,27613
+Wyoming-New York,39465,4276
+Wyoming-Pennsylvania,26557,2624
+Wyoming-West Virginia,20123,3452
+Wythe-Virginia,28620,4315
+Yadkin-North Carolina,37625,5858
+Yakima-Washington,251879,43525
+Yakutat plus Hoonah-Angoon-Alaska,2778,222
+Yalobusha-Mississippi,11982,2323
+Yamhill-Oregon,107664,8461
+Yancey-North Carolina,18099,2743
+Yankton-South Dakota,22742,3530
+Yates-New York,24780,1528
+Yavapai-Arizona,240226,27020
+Yazoo-Mississippi,26982,4367
+Yell-Arkansas,21181,4590
+Yellow Medicine-Minnesota,9580,1470
+Yellowstone-Montana,162990,26174
+Yoakum-Texas,8702,1173
+Yolo-California,219728,20028
+York-Maine,209066,17080
+York-Nebraska,13511,2291
+York-Pennsylvania,450448,59160
+York-South Carolina,289105,45926
+York-Virginia,69199,5287
+Young-Texas,17904,2786
+Yuba-California,80160,10284
+Yukon-Koyukuk Census Area-Alaska,5077,654
+Yuma-Arizona,217824,41100
+Yuma-Colorado,10047,1165
+Zapata-Texas,14172,2195
+Zavala-Texas,11840,2501
+Ziebach-South Dakota,2656,382

@@ -1,0 +1,5571 @@
+#city,population,cases
+Amapá(AP),9109,902
+Calçoene(AP),11117,1405
+Cutias(AP),5983,741
+Ferreira Gomes(AP),7780,863
+Itaubal(AP),5503,340
+Laranjal do Jari(AP),50410,5167
+Macapá(AP),503327,26921
+Mazagão(AP),21632,1809
+Oiapoque(AP),27270,3262
+Pedra Branca do Amapari(AP),16502,2924
+Porto Grande(AP),21971,1473
+Pracuúba(AP),5120,351
+Santana(AP),121364,13763
+Serra do Navio(AP),5397,787
+Tartarugalzinho(AP),17315,1585
+Vitória do Jari(AP),15931,3129
+Acrelândia(AC),15256,547
+Assis Brasil(AC),7417,755
+Brasiléia(AC),26278,1247
+Bujari(AC),10266,490
+Capixaba(AC),11733,301
+Cruzeiro do Sul(AC),88376,4059
+Epitaciolândia(AC),18411,586
+Feijó(AC),34780,1551
+Jordão(AC),8317,253
+Manoel Urbano(AC),9459,458
+Marechal Thaumaturgo(AC),18867,700
+Mâncio Lima(AC),18977,1329
+Plácido de Castro(AC),19761,510
+Porto Acre(AC),18504,652
+Porto Walter(AC),11982,327
+Rio Branco(AC),407319,18151
+Rodrigues Alves(AC),18930,235
+Santa Rosa do Purus(AC),6540,387
+Sena Madureira(AC),45848,2459
+Senador Guiomard(AC),23024,627
+Tarauacá(AC),42567,2863
+Xapuri(AC),19323,1762
+Alvarães(AM),16041,1429
+Amaturá(AM),11536,1034
+Anamã(AM),13614,1134
+Anori(AM),21010,1296
+Apuí(AM),21973,428
+Atalaia do Norte(AM),19921,1549
+Autazes(AM),39565,1616
+Barcelos(AM),27502,2953
+Barreirinha(AM),32041,1452
+Benjamin Constant(AM),42984,1784
+Beruri(AM),19679,1078
+Boa Vista do Ramos(AM),19207,583
+Boca do Acre(AM),34308,1977
+Borba(AM),41161,901
+Caapiranga(AM),13081,387
+Canutama(AM),15629,782
+Carauari(AM),28294,3705
+Careiro(AM),37869,2206
+Careiro da Várzea(AM),30225,420
+Coari(AM),85097,8230
+Codajás(AM),28637,408
+Eirunepé(AM),35273,2698
+Envira(AM),20033,1000
+Fonte Boa(AM),17609,1149
+Guajará(AM),16678,992
+Humaitá(AM),55080,4514
+Ipixuna(AM),29689,2641
+Iranduba(AM),48296,3054
+Itacoatiara(AM),101337,2843
+Itamarati(AM),7851,608
+Itapiranga(AM),9148,1583
+Japurá(AM),2755,592
+Juruá(AM),14712,577
+Jutaí(AM),14317,572
+Lábrea(AM),46069,3573
+Manacapuru(AM),97377,4505
+Manaquiri(AM),32105,694
+Manaus(AM),2182763,77167
+Manicoré(AM),55751,1666
+Maraã(AM),18224,1063
+Maués(AM),63905,2264
+Nhamundá(AM),21173,966
+Nova Olinda do Norte(AM),37378,1476
+Novo Airão(AM),19454,978
+Novo Aripuanã(AM),25644,865
+Parintins(AM),114273,7143
+Pauini(AM),19426,1513
+Presidente Figueiredo(AM),36279,3682
+Rio Preto da Eva(AM),33347,2007
+Santa Isabel do Rio Negro(AM),25156,2356
+Santo Antônio do Içá(AM),21602,1349
+Silves(AM),9171,782
+São Gabriel da Cachoeira(AM),45564,4983
+São Paulo de Olivença(AM),39299,2109
+São Sebastião do Uatumã(AM),14020,724
+Tabatinga(AM),65844,2026
+Tapauá(AM),17156,1333
+Tefé(AM),59849,4807
+Tonantins(AM),18755,705
+Uarini(AM),13540,1062
+Urucará(AM),16256,939
+Urucurituba(AM),23065,1415
+Brasília(DF),3015268,214934
+Anadia(AL),17545,523
+Arapiraca(AL),231747,13616
+Atalaia(AL),47185,653
+Barra de Santo Antônio(AL),15932,144
+Barra de São Miguel(AL),8322,180
+Batalha(AL),18232,627
+Belo Monte(AL),6704,186
+Belém(AL),4344,68
+Boca da Mata(AL),27281,1265
+Branquinha(AL),10494,275
+Cacimbinhas(AL),10858,326
+Cajueiro(AL),21264,383
+Campestre(AL),6936,98
+Campo Alegre(AL),57063,1585
+Campo Grande(AL),9558,235
+Canapi(AL),17722,69
+Capela(AL),17053,555
+Carneiros(AL),9081,102
+Chã Preta(AL),7311,47
+Coité do Nóia(AL),10693,185
+Colônia Leopoldina(AL),21698,260
+Coqueiro Seco(AL),5845,317
+Coruripe(AL),56933,2007
+Craíbas(AL),24219,787
+Delmiro Gouveia(AL),52016,1184
+Dois Riachos(AL),11075,275
+Estrela de Alagoas(AL),18205,212
+Feira Grande(AL),22166,488
+Feliz Deserto(AL),4754,100
+Flexeiras(AL),12790,344
+Girau do Ponciano(AL),40917,1390
+Ibateguara(AL),15616,445
+Igaci(AL),25631,276
+Igreja Nova(AL),24499,608
+Inhapi(AL),18385,76
+Jacaré dos Homens(AL),5253,124
+Jacuípe(AL),7021,68
+Japaratinga(AL),8361,173
+Jaramataia(AL),5770,61
+Jequiá da Praia(AL),11580,391
+Joaquim Gomes(AL),23993,603
+Jundiá(AL),4155,48
+Junqueiro(AL),24727,585
+Lagoa da Canoa(AL),17852,596
+Limoeiro de Anadia(AL),28635,572
+Maceió(AL),1018948,34371
+Major Isidoro(AL),19804,446
+Mar Vermelho(AL),3514,27
+Maragogi(AL),32704,531
+Maravilha(AL),9163,103
+Marechal Deodoro(AL),51901,2904
+Maribondo(AL),13264,361
+Mata Grande(AL),25216,217
+Matriz de Camaragibe(AL),24642,1131
+Messias(AL),17856,669
+Minador do Negrão(AL),5329,100
+Monteirópolis(AL),7159,139
+Murici(AL),28236,460
+Novo Lino(AL),12690,114
+Olho d'Água Grande(AL),5123,145
+Olho d'Água das Flores(AL),21688,1168
+Olho d'Água do Casado(AL),9373,43
+Olivença(AL),11624,176
+Ouro Branco(AL),11496,101
+Palestina(AL),5011,308
+Palmeira dos Índios(AL),73218,2099
+Pariconha(AL),10533,213
+Paripueira(AL),13176,198
+Passo de Camaragibe(AL),15245,381
+Paulo Jacinto(AL),7564,197
+Penedo(AL),63683,1713
+Piaçabuçu(AL),17827,443
+Pilar(AL),35111,1545
+Pindoba(AL),2908,79
+Piranhas(AL),25039,307
+Porto Calvo(AL),27165,798
+Porto Real do Colégio(AL),20066,434
+Porto de Pedras(AL),7786,160
+Poço das Trincheiras(AL),14386,119
+Pão de Açúcar(AL),24399,941
+Quebrangulo(AL),11294,438
+Rio Largo(AL),75120,1430
+Roteiro(AL),6664,162
+Santa Luzia do Norte(AL),7296,253
+Santana do Ipanema(AL),47654,2181
+Santana do Mundaú(AL),10740,315
+Satuba(AL),13828,524
+Senador Rui Palmeira(AL),13870,127
+São Brás(AL),6961,264
+São José da Laje(AL),23927,727
+São José da Tapera(AL),32260,897
+São Luís do Quitunde(AL),34555,877
+São Miguel dos Campos(AL),61251,2239
+São Miguel dos Milagres(AL),7951,128
+São Sebastião(AL),34152,863
+Tanque d'Arca(AL),6162,152
+Taquarana(AL),19980,281
+Teotônio Vilela(AL),44169,1347
+Traipu(AL),27715,286
+União dos Palmares(AL),65611,1095
+Viçosa(AL),25733,481
+Água Branca(AL),20196,115
+Abaiara(CE),11737,147
+Acarape(CE),14929,1944
+Acaraú(CE),62641,2758
+Acopiara(CE),54270,1361
+Aiuaba(CE),17399,77
+Alcântaras(CE),11714,572
+Altaneira(CE),7586,235
+Alto Santo(CE),17146,515
+Amontada(CE),43452,980
+Antonina do Norte(CE),7353,75
+Apuiarés(CE),14600,263
+Aquiraz(CE),80271,1357
+Aracati(CE),74547,2208
+Aracoiaba(CE),26469,882
+Ararendá(CE),10935,335
+Araripe(CE),21600,304
+Aratuba(CE),11847,264
+Arneiroz(CE),7840,66
+Assaré(CE),23417,833
+Aurora(CE),24654,845
+Baixio(CE),6288,123
+Banabuiú(CE),18197,638
+Barbalha(CE),60781,2384
+Barreira(CE),22425,371
+Barro(CE),22680,475
+Barroquinha(CE),15017,816
+Baturité(CE),35750,689
+Beberibe(CE),53573,1126
+Bela Cruz(CE),32591,1330
+Boa Viagem(CE),54470,1561
+Brejo Santo(CE),49477,2773
+Camocim(CE),63661,2512
+Campos Sales(CE),27426,677
+Canindé(CE),76997,2197
+Capistrano(CE),17738,742
+Caridade(CE),22547,359
+Caririaçu(CE),26965,809
+Cariré(CE),18448,1041
+Cariús(CE),18699,624
+Carnaubal(CE),17606,701
+Cascavel(CE),71743,1879
+Catarina(CE),20698,346
+Catunda(CE),10342,408
+Caucaia(CE),361400,7089
+Cedro(CE),25557,726
+Chaval(CE),13069,821
+Chorozinho(CE),20264,718
+Choró(CE),13521,357
+Coreaú(CE),23136,1346
+Crateús(CE),75074,6598
+Crato(CE),132123,8256
+Croatá(CE),18063,422
+Cruz(CE),24827,1037
+Deputado Irapuan Pinheiro(CE),9625,309
+Ereré(CE),7198,412
+Eusébio(CE),53618,2565
+Farias Brito(CE),19450,1283
+Forquilha(CE),24218,775
+Fortaleza(CE),2669342,77945
+Fortim(CE),16480,181
+Frecheirinha(CE),14072,1548
+General Sampaio(CE),7618,151
+Granja(CE),54748,1322
+Granjeiro(CE),4844,197
+Graça(CE),14399,632
+Groaíras(CE),11068,807
+Guaiúba(CE),26064,341
+Guaraciaba do Norte(CE),40642,1035
+Guaramiranga(CE),5193,204
+Hidrolândia(CE),19978,816
+Horizonte(CE),67337,2745
+Ibaretama(CE),13353,174
+Ibiapina(CE),24997,862
+Ibicuitinga(CE),12525,611
+Icapuí(CE),19934,852
+Icó(CE),68018,2634
+Iguatu(CE),102498,4727
+Independência(CE),26178,527
+Ipaporanga(CE),11593,397
+Ipaumirim(CE),12463,265
+Ipu(CE),41964,2494
+Ipueiras(CE),38166,1565
+Iracema(CE),14297,988
+Irauçuba(CE),24156,416
+Itaitinga(CE),37980,918
+Itaiçaba(CE),7827,319
+Itapajé(CE),52675,1221
+Itapipoca(CE),129358,3648
+Itapiúna(CE),20382,408
+Itarema(CE),41826,2031
+Itatira(CE),21647,1093
+Jaguaretama(CE),18162,858
+Jaguaribara(CE),11401,334
+Jaguaribe(CE),34682,1713
+Jaguaruana(CE),33705,1232
+Jardim(CE),27174,368
+Jati(CE),8111,117
+Jijoca de Jericoacoara(CE),19816,969
+Juazeiro do Norte(CE),274207,16789
+Jucás(CE),24833,580
+Lavras da Mangabeira(CE),31508,1174
+Limoeiro do Norte(CE),59540,1905
+Madalena(CE),19691,556
+Maracanaú(CE),227886,8472
+Maranguape(CE),128978,5743
+Marco(CE),27361,523
+Martinópole(CE),11233,233
+Massapê(CE),38737,1035
+Mauriti(CE),47962,1502
+Meruoca(CE),15057,738
+Milagres(CE),27512,928
+Milhã(CE),13155,358
+Miraíma(CE),13818,439
+Missão Velha(CE),35393,1016
+Mombaça(CE),43797,1343
+Monsenhor Tabosa(CE),17234,774
+Morada Nova(CE),61890,2872
+Moraújo(CE),8724,518
+Morrinhos(CE),22534,511
+Mucambo(CE),14537,544
+Mulungu(CE),10823,213
+Nova Olinda(CE),15565,442
+Nova Russas(CE),32328,866
+Novo Oriente(CE),28607,560
+Ocara(CE),25703,555
+Orós(CE),21427,1332
+Pacajus(CE),72203,2033
+Pacatuba(CE),83432,2121
+Pacoti(CE),12261,327
+Pacujá(CE),6533,437
+Palhano(CE),9386,165
+Palmácia(CE),13322,337
+Paracuru(CE),35076,1309
+Paraipaba(CE),32744,1245
+Parambu(CE),31521,397
+Paramoti(CE),12226,238
+Pedra Branca(CE),43258,380
+Penaforte(CE),9077,65
+Pentecoste(CE),37751,987
+Pereiro(CE),16307,599
+Pindoretama(CE),20567,573
+Piquet Carneiro(CE),16959,864
+Pires Ferreira(CE),10951,487
+Poranga(CE),12336,228
+Porteiras(CE),14996,467
+Potengi(CE),11045,160
+Potiretama(CE),6419,196
+Quiterianópolis(CE),21084,813
+Quixadá(CE),87728,4108
+Quixelô(CE),16178,1169
+Quixeramobim(CE),81082,2790
+Quixeré(CE),22149,1072
+Redenção(CE),29053,1762
+Reriutaba(CE),18491,1133
+Russas(CE),78194,4067
+Saboeiro(CE),15819,471
+Salitre(CE),16554,410
+Santa Quitéria(CE),43703,1704
+Santana do Acaraú(CE),32452,1159
+Santana do Cariri(CE),17700,318
+Senador Pompeu(CE),25496,748
+Senador Sá(CE),7623,410
+Sobral(CE),208935,12983
+Solonópole(CE),18324,930
+São Benedito(CE),47903,1607
+São Gonçalo do Amarante(CE),48422,2958
+São João do Jaguaribe(CE),7645,205
+São Luís do Curu(CE),13000,203
+Tabuleiro do Norte(CE),30697,1524
+Tamboril(CE),26251,682
+Tarrafas(CE),8592,88
+Tauá(CE),58859,3335
+Tejuçuoca(CE),19187,575
+Tianguá(CE),75946,4135
+Trairi(CE),55918,741
+Tururu(CE),16271,543
+Ubajara(CE),34792,1094
+Umari(CE),7733,199
+Umirim(CE),19825,376
+Uruburetama(CE),21850,802
+Uruoca(CE),13840,636
+Varjota(CE),18420,1183
+Viçosa do Ceará(CE),60889,2149
+Várzea Alegre(CE),40721,1104
+Afonso Cláudio(ES),30586,1468
+Alegre(ES),30084,773
+Alfredo Chaves(ES),14601,1192
+Alto Rio Novo(ES),7836,387
+Anchieta(ES),29263,1803
+Apiacá(ES),7567,276
+Aracruz(ES),101220,6668
+Atilio Vivacqua(ES),11936,669
+Baixo Guandu(ES),30998,1557
+Barra de São Francisco(ES),44650,1636
+Boa Esperança(ES),15037,495
+Bom Jesus do Norte(ES),9936,483
+Brejetuba(ES),12404,662
+Cachoeiro de Itapemirim(ES),208972,11312
+Cariacica(ES),381285,19766
+Castelo(ES),37534,2820
+Colatina(ES),122499,10466
+Conceição da Barra(ES),31063,453
+Conceição do Castelo(ES),12723,511
+Divino de São Lourenço(ES),4304,247
+Domingos Martins(ES),33850,1676
+Dores do Rio Preto(ES),6749,324
+Ecoporanga(ES),22923,1579
+Fundão(ES),21509,994
+Governador Lindenberg(ES),12709,826
+Guarapari(ES),124859,6089
+Guaçuí(ES),30867,888
+Ibatiba(ES),26082,1227
+Ibiraçu(ES),12479,930
+Ibitirama(ES),8889,193
+Iconha(ES),13860,1261
+Irupi(ES),13377,540
+Itaguaçu(ES),14066,810
+Itapemirim(ES),34348,2242
+Itarana(ES),10555,628
+Iúna(ES),29161,915
+Jaguaré(ES),30477,1556
+Jerônimo Monteiro(ES),12192,400
+João Neiva(ES),16668,938
+Laranja da Terra(ES),10947,207
+Linhares(ES),173555,11207
+Mantenópolis(ES),15350,429
+Marataízes(ES),38499,2903
+Marechal Floriano(ES),16694,1514
+Marilândia(ES),12833,961
+Mimoso do Sul(ES),26153,1303
+Montanha(ES),18833,536
+Mucurici(ES),5524,215
+Muniz Freire(ES),17465,675
+Muqui(ES),15449,619
+Nova Venécia(ES),50110,2007
+Pancas(ES),23184,857
+Pedro Canário(ES),26184,691
+Pinheiros(ES),27047,870
+Piúma(ES),21711,1273
+Ponto Belo(ES),7863,175
+Presidente Kennedy(ES),11574,1108
+Rio Bananal(ES),19141,869
+Rio Novo do Sul(ES),11622,696
+Santa Leopoldina(ES),12224,417
+Santa Maria de Jetibá(ES),40431,1886
+Santa Teresa(ES),23590,2208
+Serra(ES),517510,28897
+Sooretama(ES),30070,1261
+São Domingos do Norte(ES),8638,575
+São Gabriel da Palha(ES),37947,2411
+São José do Calçado(ES),10556,432
+São Mateus(ES),130611,4603
+São Roque do Canaã(ES),12415,905
+Vargem Alta(ES),21402,964
+Venda Nova do Imigrante(ES),25277,1921
+Viana(ES),78239,3549
+Vila Pavão(ES),9208,349
+Vila Valério(ES),14080,878
+Vila Velha(ES),493838,32147
+Vitória(ES),362097,27445
+Água Doce do Norte(ES),11019,376
+Águia Branca(ES),9642,660
+Abadia de Goiás(GO),8773,752
+Abadiânia(GO),20042,190
+Acreúna(GO),22366,1046
+Adelândia(GO),2516,89
+Alexânia(GO),27653,1399
+Aloândia(GO),1995,142
+Alto Horizonte(GO),6414,210
+Alto Paraíso de Goiás(GO),7624,363
+Alvorada do Norte(GO),8660,340
+Amaralina(GO),3812,15
+Americano do Brasil(GO),6111,156
+Amorinópolis(GO),3126,94
+Anhanguera(GO),1149,18
+Anicuns(GO),21850,998
+Anápolis(GO),386923,16261
+Aparecida de Goiânia(GO),578179,39648
+Aparecida do Rio Doce(GO),2474,107
+Aporé(GO),4198,150
+Aragarças(GO),20118,899
+Aragoiânia(GO),10308,440
+Araguapaz(GO),7770,200
+Araçu(GO),3522,135
+Arenópolis(GO),2612,32
+Aruanã(GO),9875,172
+Aurilândia(GO),3120,65
+Avelinópolis(GO),2417,140
+Baliza(GO),5138,58
+Barro Alto(GO),11167,620
+Bela Vista de Goiás(GO),29975,1072
+Bom Jardim de Goiás(GO),8841,179
+Bom Jesus de Goiás(GO),25216,1072
+Bonfinópolis(GO),9706,381
+Bonópolis(GO),4405,87
+Brazabrantes(GO),3703,180
+Britânia(GO),5779,205
+Buriti Alegre(GO),9459,326
+Buriti de Goiás(GO),2488,107
+Buritinópolis(GO),3292,58
+Cabeceiras(GO),7993,90
+Cachoeira Alta(GO),12484,790
+Cachoeira Dourada(GO),8067,171
+Cachoeira de Goiás(GO),1351,25
+Caiapônia(GO),18913,273
+Caldas Novas(GO),91162,2907
+Caldazinha(GO),3804,114
+Campestre de Goiás(GO),3630,191
+Campinaçu(GO),3640,127
+Campinorte(GO),12626,478
+Campo Alegre de Goiás(GO),7589,44
+Campo Limpo de Goiás(GO),7789,120
+Campos Belos(GO),19887,397
+Campos Verdes(GO),2141,51
+Carmo do Rio Verde(GO),10082,150
+Castelândia(GO),3435,94
+Catalão(GO),108823,3484
+Caturaí(GO),5070,122
+Cavalcante(GO),9709,73
+Caçu(GO),16009,765
+Ceres(GO),22191,1194
+Cezarina(GO),8606,259
+Chapadão do Céu(GO),10167,670
+Cidade Ocidental(GO),71376,3932
+Cocalzinho de Goiás(GO),20240,677
+Colinas do Sul(GO),3382,112
+Corumbaíba(GO),9723,414
+Corumbá de Goiás(GO),11110,257
+Cristalina(GO),58997,913
+Cristianópolis(GO),2966,123
+Crixás(GO),16949,627
+Cromínia(GO),3486,110
+Cumari(GO),2854,102
+Córrego do Ouro(GO),2327,99
+Damianópolis(GO),3311,18
+Damolândia(GO),2938,100
+Davinópolis(GO),2094,18
+Diorama(GO),2484,30
+Divinópolis de Goiás(GO),4804,91
+Doverlândia(GO),7322,132
+Edealina(GO),3699,247
+Edéia(GO),12372,396
+Estrela do Norte(GO),3275,60
+Faina(GO),6627,229
+Fazenda Nova(GO),5637,104
+Firminópolis(GO),13292,216
+Flores de Goiás(GO),16557,94
+Formosa(GO),121617,3790
+Formoso(GO),4248,46
+Gameleira de Goiás(GO),3818,101
+Goiandira(GO),5600,137
+Goianira(GO),44289,1665
+Goianápolis(GO),11231,502
+Goianésia(GO),70084,4791
+Goiatuba(GO),34095,1867
+Goiás(GO),22645,430
+Goiânia(GO),1516113,77055
+Gouvelândia(GO),5898,161
+Guapó(GO),14209,598
+Guarani de Goiás(GO),3893,49
+Guaraíta(GO),1996,109
+Guarinos(GO),1794,26
+Heitoraí(GO),3724,53
+Hidrolina(GO),3564,203
+Hidrolândia(GO),21706,1121
+Iaciara(GO),13947,176
+Inaciolândia(GO),6194,172
+Indiara(GO),15611,422
+Inhumas(GO),52866,3032
+Ipameri(GO),26985,544
+Ipiranga de Goiás(GO),2893,35
+Iporá(GO),31531,1357
+Israelândia(GO),2800,71
+Itaberaí(GO),42900,1484
+Itaguari(GO),4676,383
+Itaguaru(GO),5237,238
+Itajá(GO),4539,141
+Itapaci(GO),22981,528
+Itapirapuã(GO),4997,221
+Itapuranga(GO),25768,764
+Itarumã(GO),7178,146
+Itauçu(GO),8938,452
+Itumbiara(GO),104742,4329
+Ivolândia(GO),2370,69
+Jandaia(GO),6048,358
+Jaraguá(GO),50511,1083
+Jataí(GO),100882,5301
+Jaupaci(GO),2879,26
+Jesúpolis(GO),2490,46
+Joviânia(GO),7387,271
+Jussara(GO),18478,729
+Lagoa Santa(GO),1588,49
+Leopoldo de Bulhões(GO),7647,190
+Luziânia(GO),208299,7082
+Mairipotaba(GO),2368,54
+Mambaí(GO),8882,69
+Mara Rosa(GO),9503,133
+Marzagão(GO),2236,76
+Matrinchã(GO),4351,85
+Maurilândia(GO),14080,551
+Mimoso de Goiás(GO),2597,59
+Minaçu(GO),29070,753
+Mineiros(GO),66801,5340
+Moiporá(GO),1529,38
+Monte Alegre de Goiás(GO),8606,36
+Montes Claros de Goiás(GO),8055,272
+Montividiu(GO),13396,669
+Montividiu do Norte(GO),4479,26
+Morrinhos(GO),46136,2543
+Morro Agudo de Goiás(GO),2248,74
+Mossâmedes(GO),4290,92
+Mozarlândia(GO),15659,1001
+Mundo Novo(GO),4887,126
+Mutunópolis(GO),3778,48
+Nazário(GO),9142,291
+Nerópolis(GO),29850,708
+Niquelândia(GO),46388,1271
+Nova América(GO),2352,59
+Nova Aurora(GO),2210,65
+Nova Crixás(GO),12869,417
+Nova Glória(GO),8164,280
+Nova Iguaçu de Goiás(GO),2929,52
+Nova Roma(GO),3264,81
+Nova Veneza(GO),9853,417
+Novo Brasil(GO),2913,87
+Novo Gama(GO),115711,2845
+Novo Planalto(GO),4495,185
+Orizona(GO),15615,369
+Ouro Verde de Goiás(GO),3759,112
+Ouvidor(GO),6667,256
+Padre Bernardo(GO),33835,781
+Palestina de Goiás(GO),3464,74
+Palmeiras de Goiás(GO),28858,3201
+Palmelo(GO),2381,133
+Palminópolis(GO),3585,221
+Panamá(GO),2615,100
+Paranaiguara(GO),10057,172
+Paraúna(GO),10988,287
+Perolândia(GO),3129,71
+Petrolina de Goiás(GO),10281,219
+Pilar de Goiás(GO),2253,42
+Piracanjuba(GO),24524,749
+Piranhas(GO),10385,274
+Pirenópolis(GO),24908,302
+Pires do Rio(GO),31458,1176
+Planaltina(GO),89918,1847
+Pontalina(GO),17819,803
+Porangatu(GO),45394,1227
+Porteirão(GO),3881,895
+Portelândia(GO),4011,266
+Posse(GO),36900,745
+Professor Jamil(GO),3223,94
+Quirinópolis(GO),50065,1508
+Rialma(GO),10918,626
+Rianápolis(GO),4801,223
+Rio Quente(GO),4493,99
+Rio Verde(GO),235647,15014
+Rubiataba(GO),19882,454
+Sanclerlândia(GO),7637,219
+Santa Bárbara de Goiás(GO),6560,411
+Santa Cruz de Goiás(GO),2855,66
+Santa Fé de Goiás(GO),5459,153
+Santa Helena de Goiás(GO),38648,3147
+Santa Isabel(GO),3809,162
+Santa Rita do Araguaia(GO),8756,114
+Santa Rita do Novo Destino(GO),3343,94
+Santa Rosa de Goiás(GO),2319,50
+Santa Tereza de Goiás(GO),3355,35
+Santa Terezinha de Goiás(GO),8744,125
+Santo Antônio da Barra(GO),4821,176
+Santo Antônio de Goiás(GO),6283,451
+Santo Antônio do Descoberto(GO),74744,1491
+Senador Canedo(GO),115371,6667
+Serranópolis(GO),8544,290
+Silvânia(GO),20695,418
+Simolândia(GO),6856,92
+São Domingos(GO),12949,30
+São Francisco de Goiás(GO),6264,98
+São João d'Aliança(GO),13740,359
+São João da Paraúna(GO),1381,20
+São Luiz do Norte(GO),5167,144
+São Luís de Montes Belos(GO),33817,1247
+São Miguel do Araguaia(GO),21993,614
+São Miguel do Passa Quatro(GO),4057,92
+São Patrício(GO),2036,89
+São Simão(GO),20645,563
+Sítio d'Abadia(GO),2989,17
+Taquaral de Goiás(GO),3529,98
+Teresina de Goiás(GO),3458,35
+Terezópolis de Goiás(GO),8043,470
+Trindade(GO),127599,4008
+Trombas(GO),3500,48
+Três Ranchos(GO),2833,58
+Turvelândia(GO),5281,454
+Turvânia(GO),4598,245
+Uirapuru(GO),2854,13
+Uruana(GO),13843,176
+Uruaçu(GO),40532,1256
+Urutaí(GO),3072,71
+Valparaíso de Goiás(GO),168468,7986
+Varjão(GO),3827,62
+Vianópolis(GO),13863,253
+Vicentinópolis(GO),8743,221
+Vila Boa(GO),6171,65
+Vila Propício(GO),5821,257
+Água Fria de Goiás(GO),5735,80
+Água Limpa(GO),1850,17
+Águas Lindas de Goiás(GO),212440,4553
+Abaré(BA),20086,154
+Abaíra(BA),8739,136
+Acajutiba(BA),15159,229
+Adustina(BA),17040,136
+Aiquara(BA),4446,335
+Alagoinhas(BA),151596,6480
+Alcobaça(BA),22470,864
+Almadina(BA),5464,381
+Amargosa(BA),37241,731
+Amélia Rodrigues(BA),25102,739
+América Dourada(BA),16094,330
+Anagé(BA),22005,238
+Andaraí(BA),13143,210
+Andorinha(BA),14595,330
+Angical(BA),13977,274
+Anguera(BA),11221,128
+Antas(BA),19291,540
+Antônio Cardoso(BA),11683,127
+Antônio Gonçalves(BA),11798,315
+Aporá(BA),17731,287
+Apuarema(BA),7330,476
+Aracatu(BA),13135,377
+Araci(BA),54379,1360
+Aramari(BA),11397,203
+Arataca(BA),11019,281
+Aratuípe(BA),8825,189
+Araçás(BA),12177,425
+Aurelino Leal(BA),11531,562
+Baianópolis(BA),13877,184
+Baixa Grande(BA),20468,336
+Banzaê(BA),13229,654
+Barra(BA),53578,617
+Barra da Estiva(BA),20598,658
+Barra do Choça(BA),31603,788
+Barra do Mendes(BA),13865,443
+Barra do Rocha(BA),5714,171
+Barreiras(BA),155439,6928
+Barro Alto(BA),14931,454
+Barro Preto(BA),5591,292
+Barrocas(BA),15978,224
+Belmonte(BA),23328,615
+Belo Campo(BA),17211,179
+Biritinga(BA),15979,118
+Boa Nova(BA),12633,241
+Boa Vista do Tupim(BA),18576,120
+Bom Jesus da Lapa(BA),69148,1288
+Bom Jesus da Serra(BA),9880,126
+Boninal(BA),14368,225
+Bonito(BA),16764,387
+Boquira(BA),21508,248
+Botuporã(BA),10211,31
+Brejolândia(BA),10557,69
+Brejões(BA),14295,217
+Brotas de Macaúbas(BA),10231,42
+Brumado(BA),67195,3579
+Buerarema(BA),18349,688
+Buritirama(BA),21174,518
+Caatiba(BA),6758,440
+Cabaceiras do Paraguaçu(BA),18807,148
+Cachoeira(BA),33470,526
+Caculé(BA),23170,197
+Caetanos(BA),14542,245
+Caetité(BA),50975,574
+Cafarnaum(BA),18437,425
+Cairu(BA),18176,639
+Caldeirão Grande(BA),13327,429
+Camacan(BA),31988,1693
+Camamu(BA),35316,949
+Camaçari(BA),299132,7297
+Campo Alegre de Lourdes(BA),28798,194
+Campo Formoso(BA),71206,1701
+Canarana(BA),26176,664
+Canavieiras(BA),31099,494
+Candeal(BA),8258,237
+Candeias(BA),87076,3182
+Candiba(BA),14319,78
+Cansanção(BA),34834,261
+Canudos(BA),16668,213
+Canápolis(BA),9711,115
+Capela do Alto Alegre(BA),11637,510
+Capim Grosso(BA),30662,1936
+Caravelas(BA),22016,649
+Caraíbas(BA),8951,85
+Cardeal da Silva(BA),9295,106
+Carinhanha(BA),29018,239
+Casa Nova(BA),71969,988
+Castro Alves(BA),26264,697
+Catolândia(BA),3577,56
+Catu(BA),54704,2053
+Caturama(BA),9329,14
+Caém(BA),9213,232
+Central(BA),17266,171
+Chorrochó(BA),11177,45
+Cipó(BA),17300,298
+Coaraci(BA),16993,1022
+Cocos(BA),18777,310
+Conceição da Feira(BA),22581,775
+Conceição do Almeida(BA),17247,995
+Conceição do Coité(BA),66612,5336
+Conceição do Jacuípe(BA),33153,1269
+Conde(BA),25837,412
+Condeúba(BA),17247,199
+Contendas do Sincorá(BA),4066,89
+Coração de Maria(BA),22605,801
+Cordeiros(BA),8614,285
+Coribe(BA),14194,445
+Coronel João Sá(BA),15895,274
+Correntina(BA),32137,778
+Cotegipe(BA),13782,143
+Cravolândia(BA),5349,41
+Cristópolis(BA),13910,267
+Crisópolis(BA),21103,211
+Cruz das Almas(BA),63239,1263
+Curaçá(BA),34700,581
+Cândido Sales(BA),25189,1172
+Cícero Dantas(BA),32515,780
+Dias d'Ávila(BA),81089,1942
+Dom Basílio(BA),12199,338
+Dom Macedo Costa(BA),4058,255
+Dário Meira(BA),10710,572
+Elísio Medrado(BA),8122,298
+Encruzilhada(BA),17006,382
+Entre Rios(BA),41780,532
+Esplanada(BA),37237,581
+Euclides da Cunha(BA),60585,751
+Eunápolis(BA),113380,4191
+Feira da Mata(BA),5665,92
+Feira de Santana(BA),614872,22117
+Filadélfia(BA),16377,788
+Firmino Alves(BA),5617,139
+Floresta Azul(BA),10629,414
+Formosa do Rio Preto(BA),25591,486
+Fátima(BA),17890,532
+Gandu(BA),32403,1850
+Gavião(BA),4463,213
+Gentio do Ouro(BA),11233,255
+Glória(BA),15221,259
+Gongogi(BA),7128,221
+Governador Mangabeira(BA),20722,256
+Guajeru(BA),6937,138
+Guanambi(BA),84481,2136
+Guaratinga(BA),20843,804
+Heliópolis(BA),13031,73
+Iaçu(BA),24305,409
+Ibiassucê(BA),9224,54
+Ibicaraí(BA),21689,1126
+Ibicoara(BA),19571,436
+Ibicuí(BA),16198,844
+Ibipeba(BA),18211,657
+Ibipitanga(BA),14902,380
+Ibiquera(BA),4044,24
+Ibirapitanga(BA),23375,864
+Ibirapuã(BA),8637,618
+Ibirataia(BA),15312,1554
+Ibitiara(BA),16339,205
+Ibititá(BA),17113,827
+Ibotirama(BA),26927,534
+Ichu(BA),6206,89
+Igaporã(BA),15640,87
+Igrapiúna(BA),13226,296
+Iguaí(BA),26916,634
+Ilhéus(BA),162327,8830
+Inhambupe(BA),39926,665
+Ipecaetá(BA),14487,162
+Ipiaú(BA),45873,2260
+Ipirá(BA),59595,853
+Ipupiara(BA),9865,122
+Irajuba(BA),7260,125
+Iramaia(BA),8537,54
+Iraquara(BA),25216,851
+Irará(BA),29034,520
+Irecê(BA),72967,4369
+Itabela(BA),30584,996
+Itaberaba(BA),64489,2839
+Itabuna(BA),213223,16007
+Itacaré(BA),28296,564
+Itaeté(BA),16056,178
+Itagi(BA),12351,506
+Itagibá(BA),14579,557
+Itagimirim(BA),6869,235
+Itaguaçu da Bahia(BA),14429,174
+Itaju do Colônia(BA),6682,276
+Itajuípe(BA),20491,1249
+Itamaraju(BA),64486,2818
+Itamari(BA),8035,327
+Itambé(BA),23049,866
+Itanagra(BA),6441,48
+Itanhém(BA),19405,907
+Itaparica(BA),22228,487
+Itapebi(BA),10259,224
+Itapetinga(BA),76147,2766
+Itapicuru(BA),35576,818
+Itapitanga(BA),10313,454
+Itapé(BA),8761,509
+Itaquara(BA),8319,135
+Itarantim(BA),19747,404
+Itatim(BA),14487,294
+Itiruçu(BA),12576,183
+Itiúba(BA),36089,648
+Itororó(BA),20382,1580
+Ituaçu(BA),18962,510
+Ituberá(BA),28602,733
+Iuiu(BA),10994,142
+Jaborandi(BA),8385,335
+Jacaraci(BA),14842,102
+Jacobina(BA),80518,2561
+Jaguaquara(BA),54423,2812
+Jaguarari(BA),33570,1101
+Jaguaripe(BA),18788,492
+Jandaíra(BA),10709,289
+Jequié(BA),155966,7661
+Jeremoabo(BA),40463,474
+Jiquiriçá(BA),14537,195
+Jitaúna(BA),11166,386
+João Dourado(BA),25188,716
+Juazeiro(BA),216707,7721
+Jucuruçu(BA),9126,714
+Jussara(BA),15284,349
+Jussari(BA),5833,240
+Jussiape(BA),6186,80
+Lafaiete Coutinho(BA),3724,178
+Lagoa Real(BA),15665,70
+Laje(BA),23840,526
+Lajedinho(BA),3783,63
+Lajedo do Tabocal(BA),8562,128
+Lajedão(BA),3955,192
+Lamarão(BA),8307,96
+Lapão(BA),27223,779
+Lauro de Freitas(BA),198440,9185
+Lençóis(BA),11409,379
+Licínio de Almeida(BA),12388,108
+Livramento de Nossa Senhora(BA),45732,1019
+Luís Eduardo Magalhães(BA),87519,4276
+Macajuba(BA),11348,260
+Macarani(BA),18755,601
+Macaúbas(BA),49826,356
+Macururé(BA),7824,146
+Madre de Deus(BA),21093,1516
+Maetinga(BA),3161,108
+Maiquinique(BA),10112,170
+Mairi(BA),18676,528
+Malhada(BA),16845,152
+Malhada de Pedras(BA),8393,163
+Manoel Vitorino(BA),13240,357
+Mansidão(BA),13643,86
+Maracás(BA),20834,1203
+Maragogipe(BA),44677,988
+Maraú(BA),20570,564
+Marcionílio Souza(BA),10406,251
+Mascote(BA),13822,310
+Mata de São João(BA),46583,911
+Matina(BA),12201,31
+Medeiros Neto(BA),22688,1296
+Miguel Calmon(BA),26023,515
+Milagres(BA),10950,134
+Mirangaba(BA),18338,281
+Mirante(BA),8641,167
+Monte Santo(BA),49418,330
+Morpará(BA),8519,81
+Morro do Chapéu(BA),35413,910
+Mortugaba(BA),12042,53
+Mucugê(BA),9062,190
+Mucuri(BA),41748,1263
+Mulungu do Morro(BA),10889,425
+Mundo Novo(BA),26776,254
+Muniz Ferreira(BA),7422,601
+Muquém do São Francisco(BA),11348,151
+Muritiba(BA),29399,491
+Mutuípe(BA),22221,580
+Nazaré(BA),28525,974
+Nilo Peçanha(BA),13997,381
+Nordestina(BA),13130,179
+Nova Canaã(BA),16462,291
+Nova Fátima(BA),7812,331
+Nova Ibiá(BA),6591,291
+Nova Itarana(BA),8226,195
+Nova Redenção(BA),9118,117
+Nova Soure(BA),26947,347
+Nova Viçosa(BA),43376,881
+Novo Horizonte(BA),12385,39
+Novo Triunfo(BA),15440,255
+Olindina(BA),28229,334
+Oliveira dos Brejinhos(BA),21825,245
+Ouriçangas(BA),8564,168
+Ourolândia(BA),17451,936
+Palmas de Monte Alto(BA),21750,155
+Palmeiras(BA),9019,77
+Paramirim(BA),21607,124
+Paratinga(BA),32000,198
+Paripiranga(BA),28989,301
+Pau Brasil(BA),9831,555
+Paulo Afonso(BA),117782,1706
+Pedro Alexandre(BA),16667,61
+Pedrão(BA),7347,148
+Piatã(BA),17123,75
+Pilão Arcado(BA),35048,191
+Pindaí(BA),16260,118
+Pindobaçu(BA),20150,1205
+Pintadas(BA),10437,820
+Piraí do Norte(BA),10023,562
+Piripá(BA),10707,730
+Piritiba(BA),24755,337
+Planaltino(BA),9322,179
+Planalto(BA),26265,582
+Pojuca(BA),39519,1096
+Ponto Novo(BA),14914,372
+Porto Seguro(BA),148686,4234
+Potiraguá(BA),7224,343
+Poções(BA),46871,1224
+Prado(BA),28174,704
+Presidente Dutra(BA),15142,683
+Presidente Jânio Quadros(BA),12338,422
+Presidente Tancredo Neves(BA),27719,1009
+Pé de Serra(BA),13578,989
+Queimadas(BA),25439,660
+Quijingue(BA),27580,151
+Quixabeira(BA),8972,367
+Rafael Jambeiro(BA),22621,298
+Remanso(BA),41008,753
+Retirolândia(BA),14396,852
+Riacho de Santana(BA),35421,300
+Riachão das Neves(BA),22339,549
+Riachão do Jacuípe(BA),33436,1067
+Ribeira do Amparo(BA),14592,255
+Ribeira do Pombal(BA),53807,1350
+Ribeirão do Largo(BA),5812,83
+Rio Real(BA),40732,632
+Rio de Contas(BA),12989,115
+Rio do Antônio(BA),15371,66
+Rio do Pires(BA),11655,50
+Rodelas(BA),9331,54
+Ruy Barbosa(BA),30814,537
+Salinas da Margarida(BA),15667,817
+Salvador(BA),2872347,106101
+Santa Brígida(BA),14213,283
+Santa Bárbara(BA),20791,553
+Santa Cruz Cabrália(BA),27778,1136
+Santa Cruz da Vitória(BA),6315,243
+Santa Inês(BA),10631,164
+Santa Luzia(BA),12597,560
+Santa Maria da Vitória(BA),39845,769
+Santa Rita de Cássia(BA),28338,1257
+Santa Teresinha(BA),10405,167
+Santaluz(BA),37348,750
+Santana(BA),26614,102
+Santanópolis(BA),8943,269
+Santo Amaro(BA),60069,1119
+Santo Antônio de Jesus(BA),101512,4144
+Santo Estêvão(BA),52850,1179
+Sapeaçu(BA),17398,575
+Saubara(BA),12043,104
+Saúde(BA),12913,224
+Seabra(BA),44091,1660
+Sebastião Laranjeiras(BA),11434,79
+Senhor do Bonfim(BA),79015,1592
+Sento Sé(BA),40684,545
+Serra Dourada(BA),17386,343
+Serra Preta(BA),14878,277
+Serra do Ramalho(BA),31472,167
+Serrinha(BA),80861,2058
+Serrolândia(BA),13397,457
+Simões Filho(BA),134377,2849
+Sobradinho(BA),23191,582
+Souto Soares(BA),16979,588
+Sátiro Dias(BA),17273,129
+São Desidério(BA),33742,934
+São Domingos(BA),9058,537
+São Felipe(BA),21074,715
+São Francisco do Conde(BA),39802,1396
+São Félix(BA),14740,454
+São Félix do Coribe(BA),15391,440
+São Gabriel(BA),18793,523
+São Gonçalo dos Campos(BA),37550,1058
+São José da Vitória(BA),5657,408
+São José do Jacuípe(BA),10462,188
+São Miguel das Matas(BA),11675,192
+São Sebastião do Passé(BA),44300,1286
+Sítio do Mato(BA),13012,58
+Sítio do Quinto(BA),9986,169
+Tabocas do Brejo Velho(BA),12518,54
+Tanhaçu(BA),20403,285
+Tanque Novo(BA),17366,28
+Tanquinho(BA),7918,424
+Taperoá(BA),21074,655
+Tapiramutá(BA),17010,318
+Teixeira de Freitas(BA),160487,8450
+Teodoro Sampaio(BA),7425,72
+Teofilândia(BA),22518,487
+Teolândia(BA),14943,611
+Terra Nova(BA),13033,227
+Tremedal(BA),16394,151
+Tucano(BA),50687,993
+Uauá(BA),24240,869
+Ubaitaba(BA),19056,531
+Ubatã(BA),27035,1220
+Ubaíra(BA),19895,221
+Uibaí(BA),13887,198
+Umburanas(BA),19222,412
+Una(BA),19002,480
+Urandi(BA),16658,317
+Uruçuca(BA),20519,763
+Utinga(BA),19178,229
+Valente(BA),28473,1012
+Valença(BA),96562,2582
+Varzedo(BA),8838,157
+Vera Cruz(BA),43223,492
+Vereda(BA),6205,245
+Vitória da Conquista(BA),338480,13979
+Várzea Nova(BA),12697,207
+Várzea da Roça(BA),14104,501
+Várzea do Poço(BA),9170,192
+Wagner(BA),9345,62
+Wanderley(BA),12238,89
+Wenceslau Guimarães(BA),21101,1086
+Xique-Xique(BA),46483,982
+Água Fria(BA),16970,83
+Érico Cardoso(BA),10610,56
+Alcinópolis(MS),5343,38
+Amambai(MS),39396,928
+Anastácio(MS),25135,1011
+Anaurilândia(MS),9035,73
+Angélica(MS),10780,192
+Antônio João(MS),8956,113
+Aparecida do Taboado(MS),25745,1104
+Aquidauana(MS),47871,2517
+Aral Moreira(MS),12149,186
+Bandeirantes(MS),6788,187
+Bataguassu(MS),23024,1247
+Batayporã(MS),11329,310
+Bela Vista(MS),24629,132
+Bodoquena(MS),7875,82
+Bonito(MS),21976,1005
+Brasilândia(MS),11872,151
+Caarapó(MS),30174,1114
+Camapuã(MS),13711,178
+Campo Grande(MS),895982,56790
+Caracol(MS),6116,70
+Cassilândia(MS),21939,1133
+Chapadão do Sul(MS),25218,1652
+Corguinho(MS),5947,85
+Coronel Sapucaia(MS),15253,269
+Corumbá(MS),111435,6241
+Costa Rica(MS),20823,722
+Coxim(MS),33543,1004
+Deodápolis(MS),12924,308
+Dois Irmãos do Buriti(MS),11385,613
+Douradina(MS),5924,194
+Dourados(MS),222949,12535
+Eldorado(MS),12353,202
+Figueirão(MS),3051,34
+Fátima do Sul(MS),19189,925
+Glória de Dourados(MS),9965,268
+Guia Lopes da Laguna(MS),9895,423
+Iguatemi(MS),16078,393
+Inocência(MS),7610,150
+Itaporã(MS),24839,547
+Itaquiraí(MS),21142,416
+Ivinhema(MS),23187,530
+Japorã(MS),9110,20
+Jaraguari(MS),7187,93
+Jardim(MS),26097,470
+Jateí(MS),4027,178
+Juti(MS),6712,239
+Ladário(MS),23331,1200
+Laguna Carapã(MS),7341,71
+Maracaju(MS),47083,1715
+Miranda(MS),28013,1495
+Mundo Novo(MS),18366,497
+Naviraí(MS),54878,2167
+Nioaque(MS),13930,407
+Nova Alvorada do Sul(MS),21882,688
+Nova Andradina(MS),54374,775
+Novo Horizonte do Sul(MS),3814,28
+Paranaíba(MS),42148,1147
+Paranhos(MS),14228,79
+Paraíso das Águas(MS),5555,128
+Pedro Gomes(MS),7674,95
+Ponta Porã(MS),92526,2109
+Porto Murtinho(MS),17131,455
+Ribas do Rio Pardo(MS),24615,344
+Rio Brilhante(MS),37514,1630
+Rio Negro(MS),4831,194
+Rio Verde de Mato Grosso(MS),19746,461
+Rochedo(MS),5499,200
+Santa Rita do Pardo(MS),7851,98
+Selvíria(MS),6529,75
+Sete Quedas(MS),10791,205
+Sidrolândia(MS),57665,2403
+Sonora(MS),19274,516
+São Gabriel do Oeste(MS),26771,1617
+Tacuru(MS),11552,354
+Taquarussu(MS),3588,123
+Terenos(MS),21806,473
+Três Lagoas(MS),121388,3971
+Vicentina(MS),6102,235
+Água Clara(MS),15522,502
+Afonso Cunha(MA),6524,152
+Alcântara(MA),22097,202
+Aldeias Altas(MA),26532,947
+Altamira do Maranhão(MA),8128,274
+Alto Alegre do Maranhão(MA),27053,396
+Alto Alegre do Pindaré(MA),31919,1575
+Alto Parnaíba(MA),11190,517
+Amapá do Maranhão(MA),6962,5
+Amarante do Maranhão(MA),41435,1156
+Anajatuba(MA),26803,363
+Anapurus(MA),15732,790
+Apicum-Açu(MA),17239,199
+Araguanã(MA),15426,569
+Araioses(MA),46440,589
+Arame(MA),32701,955
+Arari(MA),29848,358
+Axixá(MA),12130,142
+Açailândia(MA),112445,3730
+Bacabal(MA),104949,3653
+Bacabeira(MA),17055,157
+Bacuri(MA),18582,426
+Bacurituba(MA),5644,93
+Balsas(MA),94887,6928
+Barra do Corda(MA),88212,4084
+Barreirinhas(MA),62528,1353
+Barão de Grajaú(MA),18820,27
+Bela Vista do Maranhão(MA),11209,154
+Belágua(MA),7469,279
+Benedito Leite(MA),5632,203
+Bequimão(MA),21280,246
+Bernardo do Mearim(MA),6043,140
+Boa Vista do Gurupi(MA),9287,14
+Bom Jardim(MA),41630,998
+Bom Jesus das Selvas(MA),34028,1910
+Bom Lugar(MA),16294,305
+Brejo(MA),36397,701
+Brejo de Areia(MA),9188,228
+Buriti(MA),28678,700
+Buriti Bravo(MA),23884,993
+Buriticupu(MA),72358,2592
+Buritirana(MA),15430,242
+Cachoeira Grande(MA),9431,187
+Cajapió(MA),11177,51
+Cajari(MA),19379,132
+Campestre do Maranhão(MA),14374,549
+Cantanhede(MA),21995,381
+Capinzal do Norte(MA),10934,397
+Carolina(MA),24322,445
+Carutapera(MA),23807,421
+Caxias(MA),164880,5498
+Cedral(MA),10675,148
+Central do Maranhão(MA),8673,30
+Centro Novo do Maranhão(MA),21622,634
+Centro do Guilherme(MA),13458,352
+Chapadinha(MA),79675,2909
+Cidelândia(MA),14697,427
+Codó(MA),122859,1828
+Coelho Neto(MA),49435,1580
+Colinas(MA),41178,2313
+Conceição do Lago-Açu(MA),16237,172
+Coroatá(MA),65296,2099
+Cururupu(MA),32695,639
+Cândido Mendes(MA),20178,92
+Davinópolis(MA),12908,293
+Dom Pedro(MA),23350,526
+Duque Bacelar(MA),11349,569
+Esperantinópolis(MA),17241,632
+Estreito(MA),41946,3100
+Feira Nova do Maranhão(MA),8504,1229
+Fernando Falcão(MA),10360,780
+Formosa da Serra Negra(MA),19089,964
+Fortaleza dos Nogueiras(MA),12631,700
+Fortuna(MA),15552,968
+Godofredo Viana(MA),11819,90
+Gonçalves Dias(MA),17934,546
+Governador Archer(MA),10840,263
+Governador Edison Lobão(MA),18296,514
+Governador Eugênio Barros(MA),16828,282
+Governador Luiz Rocha(MA),7807,166
+Governador Newton Bello(MA),10180,557
+Governador Nunes Freire(MA),25577,730
+Grajaú(MA),69527,3090
+Graça Aranha(MA),6262,122
+Guimarães(MA),12030,230
+Humberto de Campos(MA),28717,1133
+Icatu(MA),27113,214
+Igarapé Grande(MA),11320,1142
+Igarapé do Meio(MA),14177,332
+Imperatriz(MA),258682,8467
+Itaipava do Grajaú(MA),16057,522
+Itapecuru Mirim(MA),68203,1037
+Itinga do Maranhão(MA),26000,650
+Jatobá(MA),10153,84
+Jenipapo dos Vieiras(MA),16515,943
+Joselândia(MA),16168,479
+João Lisboa(MA),23632,339
+Junco do Maranhão(MA),3432,251
+Lago Verde(MA),16257,517
+Lago da Pedra(MA),50266,1335
+Lago do Junco(MA),10840,246
+Lago dos Rodrigues(MA),8873,432
+Lagoa Grande do Maranhão(MA),11394,132
+Lagoa do Mato(MA),11250,40
+Lajeado Novo(MA),7550,320
+Lima Campos(MA),11893,778
+Loreto(MA),12157,404
+Luís Domingues(MA),6951,292
+Magalhães de Almeida(MA),19826,423
+Maracaçumé(MA),21395,539
+Marajá do Sena(MA),7792,169
+Maranhãozinho(MA),16265,451
+Mata Roma(MA),16829,346
+Matinha(MA),23370,264
+Matões(MA),33782,607
+Matões do Norte(MA),16745,235
+Milagres do Maranhão(MA),8464,233
+Mirador(MA),21015,858
+Miranda do Norte(MA),28381,228
+Mirinzal(MA),14962,133
+Montes Altos(MA),9160,515
+Monção(MA),33434,1059
+Morros(MA),19433,152
+Nina Rodrigues(MA),14454,296
+Nova Colinas(MA),5384,157
+Nova Iorque(MA),4683,62
+Nova Olinda do Maranhão(MA),20928,326
+Olho d'Água das Cunhãs(MA),19505,533
+Olinda Nova do Maranhão(MA),14701,306
+Palmeirândia(MA),19722,32
+Paraibano(MA),21386,580
+Parnarama(MA),34907,731
+Passagem Franca(MA),19019,892
+Pastos Bons(MA),19472,636
+Paulino Neves(MA),16035,163
+Paulo Ramos(MA),21040,916
+Paço do Lumiar(MA),122197,722
+Pedreiras(MA),39229,1865
+Pedro do Rosário(MA),25144,89
+Penalva(MA),38470,266
+Peri Mirim(MA),14318,164
+Peritoró(MA),23196,372
+Pindaré-Mirim(MA),32941,688
+Pinheiro(MA),83387,2221
+Pio XII(MA),21485,938
+Pirapemas(MA),18625,257
+Porto Franco(MA),23885,886
+Porto Rico do Maranhão(MA),5975,166
+Poção de Pedras(MA),17873,1117
+Presidente Dutra(MA),47804,1559
+Presidente Juscelino(MA),12734,29
+Presidente Médici(MA),7015,264
+Presidente Sarney(MA),18918,171
+Presidente Vargas(MA),11193,102
+Primeira Cruz(MA),15315,49
+Raposa(MA),30761,256
+Riachão(MA),20195,1186
+Ribamar Fiquene(MA),7791,232
+Rosário(MA),42740,386
+Sambaíba(MA),5671,294
+Santa Filomena do Maranhão(MA),7773,50
+Santa Helena(MA),42130,1523
+Santa Inês(MA),89044,4842
+Santa Luzia(MA),72667,2839
+Santa Luzia do Paruá(MA),25254,669
+Santa Quitéria do Maranhão(MA),25642,458
+Santa Rita(MA),37855,331
+Santana do Maranhão(MA),13386,182
+Santo Amaro do Maranhão(MA),15846,124
+Santo Antônio dos Lopes(MA),14528,910
+Satubinha(MA),13914,152
+Senador Alexandre Costa(MA),11141,435
+Senador La Rocque(MA),14293,239
+Serrano do Maranhão(MA),10253,206
+Sucupira do Norte(MA),10636,143
+Sucupira do Riachão(MA),5660,170
+São Benedito do Rio Preto(MA),18663,1019
+São Bento(MA),45211,681
+São Bernardo(MA),28507,868
+São Domingos do Azeitão(MA),7392,157
+São Domingos do Maranhão(MA),34376,1566
+São Francisco do Brejão(MA),11798,373
+São Francisco do Maranhão(MA),12210,265
+São Félix de Balsas(MA),4585,200
+São José de Ribamar(MA),177687,1588
+São José dos Basílios(MA),7641,414
+São João Batista(MA),20665,147
+São João do Carú(MA),15808,422
+São João do Paraíso(MA),11177,167
+São João do Soter(MA),18543,648
+São João dos Patos(MA),25929,1572
+São Luís(MA),1101884,26171
+São Luís Gonzaga do Maranhão(MA),18856,680
+São Mateus do Maranhão(MA),41529,1223
+São Pedro da Água Branca(MA),12690,518
+São Pedro dos Crentes(MA),4668,270
+São Raimundo das Mangabeiras(MA),18868,1760
+São Raimundo do Doca Bezerra(MA),5237,75
+São Roberto(MA),6719,280
+São Vicente Ferrer(MA),22247,209
+Sítio Novo(MA),18081,1229
+Tasso Fragoso(MA),8521,569
+Timbiras(MA),29124,466
+Timon(MA),169107,5222
+Trizidela do Vale(MA),21998,651
+Tufilândia(MA),5840,157
+Tuntum(MA),41832,1432
+Turiaçu(MA),35604,256
+Turilândia(MA),25619,324
+Tutóia(MA),58860,1060
+Urbano Santos(MA),33122,1711
+Vargem Grande(MA),56510,827
+Viana(MA),52441,284
+Vila Nova dos Martírios(MA),13392,344
+Vitorino Freire(MA),31523,1681
+Vitória do Mearim(MA),32764,747
+Zé Doca(MA),51714,3845
+Água Doce do Maranhão(MA),12571,657
+Acorizal(MT),5399,201
+Alta Floresta(MT),51782,1763
+Alto Araguaia(MT),19044,449
+Alto Boa Vista(MT),6822,96
+Alto Garças(MT),12030,304
+Alto Paraguai(MT),11356,333
+Alto Taquari(MT),10847,518
+Apiacás(MT),10133,77
+Araguaiana(MT),3100,60
+Araguainha(MT),935,5
+Araputanga(MT),16822,604
+Arenápolis(MT),9607,491
+Aripuanã(MT),22354,893
+Barra do Bugres(MT),34966,1154
+Barra do Garças(MT),61012,3060
+Barão de Melgaço(MT),8564,140
+Bom Jesus do Araguaia(MT),6580,219
+Brasnorte(MT),19695,352
+Campinápolis(MT),15980,486
+Campo Novo do Parecis(MT),35360,3109
+Campo Verde(MT),44041,2797
+Campos de Júlio(MT),6891,457
+Canabrava do Norte(MT),4743,86
+Canarana(MT),21579,927
+Carlinda(MT),10305,156
+Castanheira(MT),8729,111
+Chapada dos Guimarães(MT),19752,431
+Cláudia(MT),12149,570
+Cocalinho(MT),5700,158
+Colniza(MT),38582,381
+Colíder(MT),33438,1792
+Comodoro(MT),20763,401
+Confresa(MT),30933,1085
+Conquista D'Oeste(MT),4038,82
+Cotriguaçu(MT),19750,45
+Cuiabá(MT),612547,38878
+Curvelândia(MT),5219,137
+Cáceres(MT),94376,3783
+Denise(MT),9462,187
+Diamantino(MT),22041,746
+Dom Aquino(MT),8178,215
+Feliz Natal(MT),14192,382
+Figueirópolis D'Oeste(MT),3494,63
+Gaúcha do Norte(MT),7648,441
+General Carneiro(MT),5540,412
+Glória D'Oeste(MT),3026,23
+Guarantã do Norte(MT),35816,1164
+Guiratinga(MT),15141,142
+Indiavaí(MT),2752,57
+Ipiranga do Norte(MT),7667,592
+Itanhangá(MT),6737,64
+Itaúba(MT),3802,103
+Itiquira(MT),13345,131
+Jaciara(MT),27776,1875
+Jangada(MT),8409,252
+Jauru(MT),8793,134
+Juara(MT),34974,855
+Juruena(MT),15865,342
+Juscimeira(MT),11221,305
+Juína(MT),40997,1210
+Lambari D'Oeste(MT),6121,172
+Lucas do Rio Verde(MT),65534,7179
+Luciara(MT),2077,32
+Marcelândia(MT),10499,430
+Matupá(MT),16566,808
+Mirassol d'Oeste(MT),27739,1247
+Nobres(MT),15336,612
+Nortelândia(MT),5989,260
+Nossa Senhora do Livramento(MT),13216,560
+Nova Bandeirantes(MT),15288,276
+Nova Brasilândia(MT),3829,87
+Nova Canaã do Norte(MT),12787,281
+Nova Guarita(MT),4519,152
+Nova Lacerda(MT),6640,189
+Nova Marilândia(MT),3278,140
+Nova Maringá(MT),8641,80
+Nova Monte Verde(MT),9178,163
+Nova Mutum(MT),45378,3621
+Nova Nazaré(MT),3849,97
+Nova Olímpia(MT),20301,531
+Nova Santa Helena(MT),3718,205
+Nova Ubiratã(MT),11982,331
+Nova Xavantina(MT),21374,755
+Novo Horizonte do Norte(MT),4004,55
+Novo Mundo(MT),9178,230
+Novo Santo Antônio(MT),2640,75
+Novo São Joaquim(MT),5074,174
+Paranatinga(MT),22563,1698
+Paranaíta(MT),11225,526
+Pedra Preta(MT),17626,999
+Peixoto de Azevedo(MT),34976,1515
+Planalto da Serra(MT),2662,66
+Poconé(MT),32843,914
+Pontal do Araguaia(MT),6711,327
+Ponte Branca(MT),1576,44
+Pontes e Lacerda(MT),45436,1562
+Porto Alegre do Norte(MT),12517,97
+Porto Esperidião(MT),12017,600
+Porto Estrela(MT),2963,133
+Porto dos Gaúchos(MT),5410,161
+Poxoréu(MT),16219,642
+Primavera do Leste(MT),62019,5570
+Querência(MT),17479,1165
+Reserva do Cabaçal(MT),2732,39
+Ribeirão Cascalheira(MT),10206,366
+Ribeirãozinho(MT),2405,40
+Rio Branco(MT),5156,128
+Rondolândia(MT),4001,91
+Rondonópolis(MT),232491,12741
+Rosário Oeste(MT),17151,460
+Salto do Céu(MT),3365,24
+Santa Carmem(MT),4525,233
+Santa Cruz do Xingu(MT),2564,38
+Santa Rita do Trivelato(MT),3429,35
+Santa Terezinha(MT),8371,105
+Santo Afonso(MT),3146,133
+Santo Antônio do Leste(MT),5174,154
+Santo Antônio do Leverger(MT),16628,379
+Sapezal(MT),25881,1984
+Serra Nova Dourada(MT),1650,26
+Sinop(MT),142996,9477
+Sorriso(MT),90313,7629
+São Félix do Araguaia(MT),11708,482
+São José do Povo(MT),4063,101
+São José do Rio Claro(MT),20664,677
+São José do Xingu(MT),5595,114
+São José dos Quatro Marcos(MT),18906,1017
+São Pedro da Cipa(MT),4727,267
+Tabaporã(MT),9489,455
+Tangará da Serra(MT),103750,7045
+Tapurah(MT),13705,975
+Terra Nova do Norte(MT),9667,299
+Tesouro(MT),3805,19
+Torixoréu(MT),3609,99
+União do Sul(MT),3525,125
+Vale de São Domingos(MT),3127,43
+Vera(MT),11309,593
+Vila Bela da Santíssima Trindade(MT),16128,1355
+Vila Rica(MT),26037,423
+Várzea Grande(MT),284971,12102
+Água Boa(MT),25721,906
+Abaetetuba(PA),157698,4722
+Abel Figueiredo(PA),7434,435
+Acará(PA),55591,871
+Afuá(PA),39218,2470
+Alenquer(PA),56789,1590
+Almeirim(PA),34109,271
+Altamira(PA),114594,5521
+Anajás(PA),29277,879
+Ananindeua(PA),530598,10661
+Anapu(PA),27890,1082
+Augusto Corrêa(PA),45998,1446
+Aurora do Pará(PA),31338,693
+Aveiro(PA),16388,452
+Bagre(PA),30673,478
+Baião(PA),47446,426
+Bannach(PA),3286,121
+Barcarena(PA),124680,4613
+Belterra(PA),17732,562
+Belém(PA),1492745,54217
+Benevides(PA),62737,2220
+Bom Jesus do Tocantins(PA),16981,418
+Bonito(PA),16286,293
+Bragança(PA),127686,2916
+Brasil Novo(PA),15086,792
+Brejo Grande do Araguaia(PA),7380,558
+Breu Branco(PA),66046,374
+Breves(PA),102701,3422
+Bujaru(PA),29132,724
+Cachoeira do Arari(PA),23767,328
+Cachoeira do Piriá(PA),33900,541
+Cametá(PA),137890,5536
+Canaã dos Carajás(PA),37085,4534
+Capanema(PA),69027,1470
+Capitão Poço(PA),54303,1130
+Castanhal(PA),200793,3108
+Chaves(PA),23717,304
+Colares(PA),12085,127
+Conceição do Araguaia(PA),47864,2027
+Concórdia do Pará(PA),33318,1424
+Cumaru do Norte(PA),13473,553
+Curionópolis(PA),17929,1549
+Curralinho(PA),34448,456
+Curuá(PA),14393,1034
+Curuçá(PA),40066,1795
+Dom Eliseu(PA),59719,1097
+Eldorado do Carajás(PA),33808,325
+Faro(PA),7194,407
+Floresta do Araguaia(PA),20304,415
+Garrafão do Norte(PA),26066,961
+Goianésia do Pará(PA),40475,346
+Gurupá(PA),33376,1399
+Igarapé-Açu(PA),38807,949
+Igarapé-Miri(PA),62698,1306
+Inhangapi(PA),11711,100
+Ipixuna do Pará(PA),64053,785
+Irituia(PA),32550,828
+Itaituba(PA),101247,6772
+Itupiranga(PA),53269,681
+Jacareacanga(PA),8239,1734
+Jacundá(PA),59155,929
+Juruti(PA),57943,2490
+Limoeiro do Ajuru(PA),28935,947
+Magalhães Barata(PA),8548,201
+Marabá(PA),279349,9692
+Maracanã(PA),29473,371
+Marapanim(PA),28336,652
+Marituba(PA),131521,1421
+Medicilândia(PA),31597,1879
+Melgaço(PA),27654,423
+Mocajuba(PA),31136,1616
+Moju(PA),82094,1306
+Mojuí dos Campos(PA),16084,636
+Monte Alegre(PA),58032,1705
+Muaná(PA),40349,442
+Mãe do Rio(PA),30077,739
+Nova Esperança do Piriá(PA),21368,1057
+Nova Ipixuna(PA),16678,384
+Nova Timboteua(PA),15363,505
+Novo Progresso(PA),25762,950
+Novo Repartimento(PA),75919,474
+Oeiras do Pará(PA),32512,749
+Oriximiná(PA),73096,5443
+Ourilândia do Norte(PA),32832,3152
+Ourém(PA),17842,370
+Pacajá(PA),47706,1060
+Palestina do Pará(PA),7589,361
+Paragominas(PA),113145,3897
+Parauapebas(PA),208273,29707
+Pau D'Arco(PA),5483,327
+Peixe-Boi(PA),8077,197
+Piçarra(PA),12981,460
+Placas(PA),30982,585
+Ponta de Pedras(PA),31082,1041
+Portel(PA),62043,2017
+Porto de Moz(PA),41135,1116
+Prainha(PA),29866,614
+Primavera(PA),10825,439
+Quatipuru(PA),13608,421
+Redenção(PA),84787,4310
+Rio Maria(PA),18193,1064
+Rondon do Pará(PA),52357,623
+Rurópolis(PA),50510,1824
+Salinópolis(PA),40675,594
+Salvaterra(PA),23752,542
+Santa Bárbara do Pará(PA),21079,396
+Santa Cruz do Arari(PA),10128,157
+Santa Izabel do Pará(PA),70801,743
+Santa Luzia do Pará(PA),19848,999
+Santa Maria das Barreiras(PA),21449,403
+Santa Maria do Pará(PA),24861,724
+Santana do Araguaia(PA),72817,1717
+Santarém(PA),304589,11872
+Santarém Novo(PA),6709,249
+Santo Antônio do Tauá(PA),31482,536
+Sapucaia(PA),5930,216
+Senador José Porfírio(PA),11658,645
+Soure(PA),25374,418
+São Caetano de Odivelas(PA),18050,701
+São Domingos do Araguaia(PA),25557,1227
+São Domingos do Capim(PA),31989,409
+São Francisco do Pará(PA),15882,188
+São Félix do Xingu(PA),128481,2588
+São Geraldo do Araguaia(PA),24847,675
+São João da Ponta(PA),6139,50
+São João de Pirabas(PA),23045,245
+São João do Araguaia(PA),13996,43
+São Miguel do Guamá(PA),58986,1751
+São Sebastião da Boa Vista(PA),26640,442
+Tailândia(PA),106339,2456
+Terra Alta(PA),11720,353
+Terra Santa(PA),18769,499
+Tomé-Açu(PA),63447,1110
+Tracuateua(PA),30959,589
+Trairão(PA),18989,371
+Tucumã(PA),39602,3172
+Tucuruí(PA),113659,2421
+Ulianópolis(PA),59210,1213
+Uruará(PA),45476,1259
+Vigia(PA),53686,699
+Viseu(PA),61403,1152
+Vitória do Xingu(PA),15134,1074
+Xinguara(PA),44751,2742
+Água Azul do Norte(PA),27430,859
+Óbidos(PA),52137,3192
+Abreu e Lima(PE),99990,1091
+Afogados da Ingazeira(PE),37259,1607
+Afrânio(PE),19635,369
+Agrestina(PE),24885,644
+Alagoinha(PE),14636,271
+Aliança(PE),38386,404
+Altinho(PE),22972,591
+Amaraji(PE),22829,364
+Angelim(PE),11150,86
+Araripina(PE),84418,2840
+Araçoiaba(PE),20524,190
+Arcoverde(PE),74338,2755
+Barra de Guabiraba(PE),14385,205
+Barreiros(PE),42659,359
+Belo Jardim(PE),76439,1368
+Belém de Maria(PE),12073,106
+Belém do São Francisco(PE),20729,165
+Betânia(PE),12719,136
+Bezerros(PE),60798,1672
+Bodocó(PE),38146,599
+Bom Conselho(PE),48554,929
+Bom Jardim(PE),39184,786
+Bonito(PE),38134,405
+Brejinho(PE),7487,267
+Brejo da Madre de Deus(PE),50742,1092
+Brejão(PE),8993,47
+Buenos Aires(PE),13155,63
+Buíque(PE),58378,783
+Cabo de Santo Agostinho(PE),207048,2494
+Cabrobó(PE),34221,551
+Cachoeirinha(PE),20380,298
+Caetés(PE),28739,826
+Calumbi(PE),5750,266
+Calçado(PE),11053,166
+Camaragibe(PE),157828,2592
+Camocim de São Félix(PE),18765,295
+Camutanga(PE),8551,286
+Canhotinho(PE),24804,450
+Capoeiras(PE),20048,744
+Carnaubeira da Penha(PE),12932,51
+Carnaíba(PE),19551,541
+Carpina(PE),83641,917
+Caruaru(PE),361118,11973
+Casinhas(PE),14341,111
+Catende(PE),42892,630
+Cedro(PE),11807,704
+Chã Grande(PE),21698,246
+Chã de Alegria(PE),13518,221
+Condado(PE),26421,944
+Correntes(PE),18207,138
+Cortês(PE),12578,194
+Cumaru(PE),10906,207
+Cupira(PE),24107,1048
+Custódia(PE),37111,249
+Dormentes(PE),18908,775
+Escada(PE),68875,482
+Exu(PE),31825,1411
+Feira Nova(PE),22131,594
+Fernando de Noronha(PE),3061,132
+Ferreiros(PE),12123,258
+Flores(PE),22624,444
+Floresta(PE),32873,514
+Frei Miguelinho(PE),15457,395
+Gameleira(PE),31052,275
+Garanhuns(PE),139788,4140
+Glória do Goitá(PE),30604,427
+Goiana(PE),79758,2027
+Granito(PE),7486,95
+Gravatá(PE),84074,1047
+Iati(PE),19197,370
+Ibimirim(PE),29235,261
+Ibirajuba(PE),7762,78
+Igarassu(PE),117019,1160
+Iguaracy(PE),12228,246
+Ilha de Itamaracá(PE),26258,437
+Inajá(PE),23247,159
+Ingazeira(PE),4548,109
+Ipojuca(PE),96204,1118
+Ipubi(PE),30854,491
+Itacuruba(PE),4918,20
+Itambé(PE),36447,741
+Itapetim(PE),13616,425
+Itapissuma(PE),26651,463
+Itaquitinga(PE),16955,195
+Itaíba(PE),26349,315
+Jaboatão dos Guararapes(PE),702298,12848
+Jaqueira(PE),11656,270
+Jataúba(PE),17150,433
+Jatobá(PE),14796,191
+Joaquim Nabuco(PE),16023,318
+João Alfredo(PE),33822,308
+Jucati(PE),11424,270
+Jupi(PE),14836,404
+Jurema(PE),15378,186
+Lagoa Grande(PE),25601,413
+Lagoa de Itaenga(PE),21429,253
+Lagoa do Carro(PE),18071,158
+Lagoa do Ouro(PE),13145,120
+Lagoa dos Gatos(PE),16290,378
+Lajedo(PE),40288,659
+Limoeiro(PE),56250,1151
+Macaparana(PE),25376,336
+Machados(PE),16088,244
+Manari(PE),21434,69
+Maraial(PE),11345,275
+Mirandiba(PE),15390,293
+Moreilândia(PE),11270,137
+Moreno(PE),62784,605
+Nazaré da Mata(PE),32471,302
+Olinda(PE),392482,8723
+Orobó(PE),23884,376
+Orocó(PE),14991,97
+Ouricuri(PE),69459,803
+Palmares(PE),63250,1715
+Palmeirina(PE),7693,34
+Panelas(PE),26474,429
+Paranatama(PE),11523,248
+Parnamirim(PE),22010,393
+Passira(PE),28933,736
+Paudalho(PE),56506,846
+Paulista(PE),331774,5320
+Pedra(PE),22617,440
+Pesqueira(PE),67395,1686
+Petrolina(PE),349145,10389
+Petrolândia(PE),36548,569
+Pombos(PE),27091,788
+Poção(PE),11302,98
+Primavera(PE),14966,121
+Quipapá(PE),26037,420
+Quixaba(PE),6813,155
+Recife(PE),1645727,46414
+Riacho das Almas(PE),20546,477
+Ribeirão(PE),47415,242
+Rio Formoso(PE),23535,327
+Sairé(PE),9932,193
+Salgadinho(PE),10919,108
+Salgueiro(PE),60930,2706
+Saloá(PE),15843,172
+Sanharó(PE),26462,597
+Santa Cruz(PE),15398,223
+Santa Cruz da Baixa Verde(PE),12592,147
+Santa Cruz do Capibaribe(PE),107937,3396
+Santa Filomena(PE),14477,219
+Santa Maria da Boa Vista(PE),41931,327
+Santa Maria do Cambucá(PE),14137,335
+Santa Terezinha(PE),11815,518
+Serra Talhada(PE),86350,5724
+Serrita(PE),19165,229
+Sertânia(PE),35907,1115
+Sirinhaém(PE),45865,476
+Solidão(PE),6007,181
+Surubim(PE),65089,1424
+São Benedito do Sul(PE),15895,169
+São Bento do Una(PE),59504,853
+São Caitano(PE),37245,683
+São Joaquim do Monte(PE),21356,394
+São José da Coroa Grande(PE),21298,495
+São José do Belmonte(PE),33959,1123
+São José do Egito(PE),33951,1078
+São João(PE),22793,215
+São Lourenço da Mata(PE),113230,1590
+São Vicente Férrer(PE),18018,593
+Tabira(PE),28534,1498
+Tacaimbó(PE),12874,210
+Tacaratu(PE),25765,640
+Tamandaré(PE),23388,390
+Taquaritinga do Norte(PE),28775,239
+Terezinha(PE),7169,97
+Terra Nova(PE),10096,289
+Timbaúba(PE),53022,1741
+Toritama(PE),45219,739
+Tracunhaém(PE),13769,61
+Trindade(PE),30521,636
+Triunfo(PE),15254,448
+Tupanatinga(PE),27304,412
+Tuparetama(PE),8202,137
+Venturosa(PE),18482,548
+Verdejante(PE),9534,125
+Vertente do Lério(PE),7618,82
+Vertentes(PE),20731,229
+Vicência(PE),32643,304
+Vitória de Santo Antão(PE),138757,2296
+Xexéu(PE),14725,294
+Água Preta(PE),36771,1097
+Águas Belas(PE),43443,933
+Aguiar(PB),5640,49
+Alagoa Grande(PB),28496,1727
+Alagoa Nova(PB),20849,446
+Alagoinha(PB),14489,1111
+Alcantil(PB),5492,90
+Algodão de Jandaíra(PB),2567,31
+Alhandra(PB),19588,773
+Amparo(PB),2238,26
+Aparecida(PB),8347,530
+Arara(PB),13470,267
+Araruna(PB),20312,475
+Araçagi(PB),16987,605
+Areia(PB),22819,581
+Areia de Baraúnas(PB),2128,13
+Areial(PB),6998,102
+Aroeiras(PB),19153,270
+Assunção(PB),3990,48
+Bananeiras(PB),21318,515
+Baraúna(PB),4892,145
+Barra de Santa Rosa(PB),15384,240
+Barra de Santana(PB),8359,172
+Barra de São Miguel(PB),6036,124
+Bayeux(PB),96880,2619
+Baía da Traição(PB),8993,895
+Belém(PB),17676,1178
+Belém do Brejo do Cruz(PB),7342,262
+Bernardino Batista(PB),3501,149
+Boa Ventura(PB),5366,140
+Boa Vista(PB),7051,159
+Bom Jesus(PB),2561,71
+Bom Sucesso(PB),4975,54
+Bonito de Santa Fé(PB),11917,310
+Boqueirão(PB),17804,835
+Borborema(PB),5263,96
+Brejo do Cruz(PB),14122,886
+Brejo dos Santos(PB),6449,91
+Caaporã(PB),21828,1086
+Cabaceiras(PB),5611,178
+Cabedelo(PB),67736,3930
+Cachoeira dos Índios(PB),10244,296
+Cacimba de Areia(PB),3682,17
+Cacimba de Dentro(PB),17187,609
+Cacimbas(PB),7173,83
+Caiçara(PB),7201,462
+Cajazeiras(PB),61993,3296
+Cajazeirinhas(PB),3193,57
+Caldas Brandão(PB),6014,348
+Camalaú(PB),6013,59
+Campina Grande(PB),409731,15016
+Capim(PB),6523,166
+Caraúbas(PB),4162,79
+Carrapateira(PB),2659,107
+Casserengue(PB),7468,496
+Catingueira(PB),4932,28
+Catolé do Rocha(PB),30546,1094
+Caturité(PB),4852,129
+Conceição(PB),18982,794
+Condado(PB),6654,246
+Conde(PB),24670,984
+Congo(PB),4786,111
+Coremas(PB),15445,422
+Coxixola(PB),1921,65
+Cruz do Espírito Santo(PB),17319,674
+Cubati(PB),7797,116
+Cuitegi(PB),6803,425
+Cuité(PB),20338,563
+Cuité de Mamanguape(PB),6353,198
+Curral Velho(PB),2516,44
+Curral de Cima(PB),5227,128
+Damião(PB),5330,88
+Desterro(PB),8297,119
+Diamante(PB),6552,317
+Dona Inês(PB),10453,151
+Duas Estradas(PB),3596,107
+Emas(PB),3522,74
+Esperança(PB),33007,1011
+Fagundes(PB),11253,141
+Frei Martinho(PB),2989,26
+Gado Bravo(PB),8316,129
+Guarabira(PB),58833,5144
+Gurinhém(PB),14129,477
+Gurjão(PB),3428,63
+Ibiara(PB),5929,249
+Igaracy(PB),6117,41
+Imaculada(PB),11819,215
+Ingá(PB),18103,1742
+Itabaiana(PB),24477,1447
+Itaporanga(PB),24692,1201
+Itapororoca(PB),18664,1054
+Itatuba(PB),10962,401
+Jacaraú(PB),14431,372
+Jericó(PB),7739,225
+Joca Claudino(PB),2636,25
+João Pessoa(PB),809015,39885
+Juarez Távora(PB),7936,469
+Juazeirinho(PB),18171,310
+Junco do Seridó(PB),7150,128
+Juripiranga(PB),10756,646
+Juru(PB),9867,319
+Lagoa(PB),4666,30
+Lagoa Seca(PB),27503,822
+Lagoa de Dentro(PB),7719,227
+Lastro(PB),2737,63
+Livramento(PB),7256,121
+Logradouro(PB),4332,210
+Lucena(PB),13080,568
+Malta(PB),5759,144
+Mamanguape(PB),44882,2870
+Manaíra(PB),10955,61
+Marcação(PB),8558,565
+Mari(PB),21837,1255
+Marizópolis(PB),6617,104
+Massaranduba(PB),13918,436
+Mataraca(PB),8434,295
+Matinhas(PB),4500,90
+Mato Grosso(PB),2908,22
+Maturéia(PB),6569,53
+Mogeiro(PB),13284,436
+Montadas(PB),5669,87
+Monte Horebe(PB),4816,114
+Monteiro(PB),33222,1473
+Mulungu(PB),9902,473
+Mãe d'Água(PB),4009,54
+Natuba(PB),10454,97
+Nazarezinho(PB),7301,131
+Nova Floresta(PB),10638,234
+Nova Olinda(PB),5949,54
+Nova Palmeira(PB),4906,116
+Olho d'Água(PB),6526,143
+Olivedos(PB),3932,173
+Ouro Velho(PB),3039,35
+Parari(PB),1771,20
+Passagem(PB),2419,31
+Patos(PB),107605,6632
+Paulista(PB),12347,421
+Pedra Branca(PB),3801,126
+Pedra Lavrada(PB),7843,53
+Pedras de Fogo(PB),28458,1425
+Pedro Régis(PB),6089,127
+Piancó(PB),16075,295
+Picuí(PB),18703,539
+Pilar(PB),11917,612
+Pilões(PB),6635,149
+Pilõezinhos(PB),4976,378
+Pirpirituba(PB),10579,423
+Pitimbu(PB),19065,839
+Pocinhos(PB),18564,364
+Pombal(PB),32801,1261
+Poço Dantas(PB),3888,54
+Poço de José de Moura(PB),4307,96
+Prata(PB),4209,25
+Princesa Isabel(PB),23345,380
+Puxinanã(PB),13680,354
+Queimadas(PB),43967,1625
+Quixaba(PB),1956,50
+Remígio(PB),19621,483
+Riacho de Santo Antônio(PB),1948,39
+Riacho dos Cavalos(PB),8526,128
+Riachão(PB),3588,91
+Riachão do Bacamarte(PB),4521,247
+Riachão do Poço(PB),4509,104
+Rio Tinto(PB),24176,1494
+Salgadinho(PB),3885,40
+Salgado de São Félix(PB),12140,453
+Santa Cecília(PB),6558,97
+Santa Cruz(PB),6583,99
+Santa Helena(PB),5889,60
+Santa Inês(PB),3595,100
+Santa Luzia(PB),15382,429
+Santa Rita(PB),136586,4002
+Santa Teresinha(PB),4573,85
+Santana de Mangueira(PB),5162,118
+Santana dos Garrotes(PB),7031,142
+Santo André(PB),2521,128
+Sapé(PB),52625,1405
+Serra Branca(PB),13699,298
+Serra Grande(PB),2909,123
+Serra Redonda(PB),7041,327
+Serra da Raiz(PB),3148,133
+Serraria(PB),6099,213
+Sertãozinho(PB),5024,347
+Sobrado(PB),7783,234
+Soledade(PB),14989,267
+Solânea(PB),26407,925
+Sossêgo(PB),3555,36
+Sousa(PB),69444,3391
+Sumé(PB),16966,997
+São Bentinho(PB),4529,145
+São Bento(PB),34031,3677
+São Domingos(PB),3073,30
+São Domingos do Cariri(PB),2615,66
+São Francisco(PB),3392,49
+São José da Lagoa Tapada(PB),7630,230
+São José de Caiana(PB),6359,158
+São José de Espinharas(PB),4682,126
+São José de Piranhas(PB),20251,756
+São José de Princesa(PB),4003,35
+São José do Bonfim(PB),3557,65
+São José do Brejo do Cruz(PB),1801,71
+São José do Sabugi(PB),4141,327
+São José dos Cordeiros(PB),3628,51
+São José dos Ramos(PB),5957,280
+São João do Cariri(PB),4199,194
+São João do Rio do Peixe(PB),18034,490
+São João do Tigre(PB),4422,38
+São Mamede(PB),7724,89
+São Miguel de Taipu(PB),7368,167
+São Sebastião de Lagoa de Roça(PB),11661,317
+São Sebastião do Umbuzeiro(PB),3489,34
+São Vicente do Seridó(PB),10775,64
+Tacima(PB),10911,137
+Taperoá(PB),15376,219
+Tavares(PB),14726,330
+Teixeira(PB),15161,264
+Tenório(PB),3058,56
+Triunfo(PB),9455,238
+Uiraúna(PB),15242,234
+Umbuzeiro(PB),9907,111
+Vieirópolis(PB),5348,26
+Vista Serrana(PB),3798,53
+Várzea(PB),2810,60
+Zabelê(PB),2240,40
+Água Branca(PB),10234,372
+Abadia dos Dourados(MG),6989,109
+Abaeté(MG),23237,207
+Abre Campo(MG),13454,174
+Acaiaca(MG),3994,83
+Aguanil(MG),4486,118
+Aimorés(MG),25167,661
+Aiuruoca(MG),6003,27
+Alagoa(MG),2674,78
+Albertina(MG),3007,52
+Alfenas(MG),79996,2392
+Alfredo Vasconcelos(MG),6907,56
+Almenara(MG),41896,1327
+Alpercata(MG),7424,275
+Alpinópolis(MG),19853,149
+Alterosa(MG),14466,34
+Alto Caparaó(MG),5847,176
+Alto Jequitibá(MG),8317,254
+Alto Rio Doce(MG),11000,131
+Alvarenga(MG),3907,166
+Alvinópolis(MG),15203,129
+Alvorada de Minas(MG),3606,60
+Além Paraíba(MG),35362,885
+Amparo do Serra(MG),4713,54
+Andradas(MG),41077,651
+Andrelândia(MG),12224,110
+Angelândia(MG),8520,19
+Antônio Carlos(MG),11445,102
+Antônio Dias(MG),9318,132
+Antônio Prado de Minas(MG),1598,103
+Aracitaba(MG),2063,61
+Araguari(MG),117267,5088
+Arantina(MG),2795,28
+Araponga(MG),8439,44
+Araporã(MG),6869,1011
+Arapuá(MG),2834,46
+Araxá(MG),106229,3176
+Araçaí(MG),2347,5
+Araçuaí(MG),36708,181
+Araújos(MG),9273,118
+Arceburgo(MG),10772,172
+Arcos(MG),40092,815
+Areado(MG),15070,28
+Argirita(MG),2727,104
+Aricanduva(MG),5231,12
+Arinos(MG),17875,157
+Astolfo Dutra(MG),14179,570
+Ataléia(MG),12868,238
+Augusto de Lima(MG),4869,83
+Açucena(MG),9470,150
+Baependi(MG),19148,201
+Baldim(MG),7826,178
+Bambuí(MG),23829,103
+Bandeira(MG),4795,331
+Bandeira do Sul(MG),5746,68
+Barbacena(MG),137313,1605
+Barra Longa(MG),5131,102
+Barroso(MG),20810,257
+Barão de Cocais(MG),32485,1014
+Barão de Monte Alto(MG),5397,88
+Bela Vista de Minas(MG),10255,181
+Belmiro Braga(MG),3429,46
+Belo Horizonte(MG),2512070,59589
+Belo Oriente(MG),26700,1022
+Belo Vale(MG),7715,149
+Berilo(MG),11932,9
+Berizal(MG),4735,20
+Bertópolis(MG),4604,170
+Betim(MG),439340,9588
+Bias Fortes(MG),3379,46
+Bicas(MG),14494,192
+Biquinhas(MG),2515,28
+Boa Esperança(MG),40127,479
+Bocaina de Minas(MG),5090,42
+Bocaiúva(MG),49979,562
+Bom Despacho(MG),50605,1039
+Bom Jardim de Minas(MG),6474,40
+Bom Jesus da Penha(MG),4217,115
+Bom Jesus do Amparo(MG),6083,72
+Bom Jesus do Galho(MG),14935,216
+Bom Repouso(MG),10547,190
+Bom Sucesso(MG),17603,74
+Bonfim(MG),6868,104
+Bonfinópolis de Minas(MG),5493,176
+Bonito de Minas(MG),11230,6
+Borda da Mata(MG),19412,435
+Botelhos(MG),14971,178
+Botumirim(MG),6319,7
+Brasilândia de Minas(MG),16538,450
+Brasília de Minas(MG),32347,307
+Brazópolis(MG),14459,289
+Braúnas(MG),4801,24
+Brumadinho(MG),40103,1569
+Brás Pires(MG),4333,54
+Bueno Brandão(MG),11001,109
+Buenópolis(MG),10365,96
+Bugre(MG),3982,213
+Buritis(MG),24841,491
+Buritizeiro(MG),28056,384
+Cabeceira Grande(MG),6949,69
+Cabo Verde(MG),14075,93
+Cachoeira Dourada(MG),2692,19
+Cachoeira da Prata(MG),3603,120
+Cachoeira de Minas(MG),11547,236
+Cachoeira de Pajeú(MG),9412,265
+Caetanópolis(MG),11624,171
+Caeté(MG),44718,659
+Caiana(MG),5496,49
+Cajuri(MG),3987,74
+Caldas(MG),14480,236
+Camacho(MG),2901,20
+Camanducaia(MG),21770,865
+Cambuquira(MG),12814,88
+Cambuí(MG),29551,589
+Campanha(MG),16665,333
+Campanário(MG),3721,29
+Campestre(MG),21055,389
+Campina Verde(MG),19745,174
+Campo Azul(MG),3817,52
+Campo Belo(MG),54029,1353
+Campo Florido(MG),8151,236
+Campo do Meio(MG),11655,170
+Campos Altos(MG),15461,200
+Campos Gerais(MG),28774,288
+Cana Verde(MG),5603,94
+Canaã(MG),4563,6
+Candeias(MG),14886,135
+Cantagalo(MG),4525,45
+Canápolis(MG),12150,442
+Caparaó(MG),5438,231
+Capela Nova(MG),4653,21
+Capelinha(MG),37784,305
+Capetinga(MG),6920,68
+Capim Branco(MG),9754,118
+Capinópolis(MG),16173,712
+Capitão Andrade(MG),5468,167
+Capitão Enéas(MG),15234,183
+Capitólio(MG),8632,148
+Caputira(MG),9298,110
+Caranaíba(MG),3183,8
+Carandaí(MG),25501,209
+Carangola(MG),33000,943
+Caratinga(MG),92062,3441
+Caraí(MG),23685,271
+Carbonita(MG),9405,30
+Careaçu(MG),6757,176
+Carlos Chagas(MG),18837,540
+Carmo da Cachoeira(MG),12170,82
+Carmo da Mata(MG),11476,80
+Carmo de Minas(MG),14859,206
+Carmo do Cajuru(MG),22478,158
+Carmo do Paranaíba(MG),30329,429
+Carmo do Rio Claro(MG),21225,139
+Carmésia(MG),2632,12
+Carmópolis de Minas(MG),19355,392
+Carneirinho(MG),10027,214
+Carrancas(MG),4047,45
+Carvalhos(MG),4478,35
+Carvalhópolis(MG),3579,44
+Casa Grande(MG),2257,17
+Cascalho Rico(MG),3075,26
+Cataguases(MG),75123,1499
+Catas Altas(MG),5376,100
+Catas Altas da Noruega(MG),3641,22
+Catuji(MG),6311,313
+Catuti(MG),4986,44
+Caxambu(MG),21656,276
+Cedro do Abaeté(MG),1164,4
+Central de Minas(MG),7032,132
+Centralina(MG),10350,275
+Chalé(MG),5704,276
+Chapada Gaúcha(MG),13680,87
+Chapada do Norte(MG),15356,5
+Chiador(MG),2687,97
+Chácara(MG),3154,54
+Cipotânea(MG),6787,36
+Claraval(MG),4843,61
+Claro dos Poções(MG),7551,98
+Cláudio(MG),28617,570
+Coimbra(MG),7556,92
+Coluna(MG),8873,111
+Comendador Gomes(MG),3111,168
+Comercinho(MG),6929,42
+Conceição da Aparecida(MG),10292,92
+Conceição da Barra de Minas(MG),3954,62
+Conceição das Alagoas(MG),27893,1080
+Conceição das Pedras(MG),2812,31
+Conceição de Ipanema(MG),4574,74
+Conceição do Mato Dentro(MG),17842,851
+Conceição do Pará(MG),5507,80
+Conceição do Rio Verde(MG),13638,93
+Conceição dos Ouros(MG),11638,148
+Confins(MG),6730,131
+Congonhal(MG),11950,228
+Congonhas(MG),54762,2110
+Congonhas do Norte(MG),5045,58
+Conquista(MG),6939,219
+Conselheiro Lafaiete(MG),128589,2229
+Conselheiro Pena(MG),22921,499
+Consolação(MG),1783,11
+Contagem(MG),663855,12761
+Coqueiral(MG),9159,106
+Coração de Jesus(MG),26602,208
+Cordisburgo(MG),8890,93
+Cordislândia(MG),3538,59
+Corinto(MG),23731,459
+Coroaci(MG),9991,236
+Coromandel(MG),27974,316
+Coronel Fabriciano(MG),109855,5482
+Coronel Murta(MG),9222,16
+Coronel Pacheco(MG),3086,78
+Coronel Xavier Chaves(MG),3434,70
+Couto de Magalhães de Minas(MG),4410,19
+Cristais(MG),12798,189
+Cristiano Otoni(MG),5150,59
+Cristina(MG),10242,52
+Cristália(MG),5971,52
+Crisólita(MG),6704,56
+Crucilândia(MG),5034,126
+Cruzeiro da Fortaleza(MG),3626,14
+Cruzília(MG),15417,192
+Cuparaque(MG),4982,137
+Curral de Dentro(MG),7729,113
+Curvelo(MG),80129,1442
+Cássia(MG),17740,240
+Córrego Danta(MG),3215,15
+Córrego Fundo(MG),6337,122
+Córrego Novo(MG),2771,32
+Córrego do Bom Jesus(MG),3704,95
+Cônego Marinho(MG),7642,9
+Datas(MG),5410,49
+Delfim Moreira(MG),8025,75
+Delfinópolis(MG),7114,38
+Delta(MG),10533,503
+Descoberto(MG),5013,123
+Desterro de Entre Rios(MG),7243,61
+Desterro do Melo(MG),2901,16
+Diamantina(MG),47723,292
+Diogo de Vasconcelos(MG),3802,24
+Dionísio(MG),7729,210
+Divino(MG),19931,195
+Divino das Laranjeiras(MG),4979,148
+Divinolândia de Minas(MG),7571,21
+Divinésia(MG),3417,103
+Divinópolis(MG),238230,3290
+Divisa Alegre(MG),6786,98
+Divisa Nova(MG),6011,85
+Divisópolis(MG),11019,135
+Dom Bosco(MG),3677,81
+Dom Cavati(MG),5072,115
+Dom Joaquim(MG),4195,143
+Dom Silvério(MG),5237,60
+Dom Viçoso(MG),3001,34
+Dona Euzébia(MG),6572,229
+Dores de Campos(MG),10153,210
+Dores de Guanhães(MG),5169,60
+Dores do Indaiá(MG),13483,252
+Dores do Turvo(MG),4259,18
+Doresópolis(MG),1527,70
+Douradoquara(MG),1908,26
+Durandé(MG),7841,290
+Elói Mendes(MG),28076,244
+Engenheiro Caldas(MG),11134,245
+Engenheiro Navarro(MG),7242,35
+Entre Folhas(MG),5370,169
+Entre Rios de Minas(MG),15298,91
+Ervália(MG),18895,243
+Esmeraldas(MG),70552,604
+Espera Feliz(MG),24951,804
+Espinosa(MG),31617,305
+Espírito Santo do Dourado(MG),4692,83
+Estiva(MG),11354,217
+Estrela Dalva(MG),2343,38
+Estrela do Indaiá(MG),3500,5
+Estrela do Sul(MG),7978,92
+Eugenópolis(MG),11275,242
+Ewbank da Câmara(MG),3913,75
+Extrema(MG),36225,3323
+Fama(MG),2377,33
+Faria Lemos(MG),3241,73
+Felisburgo(MG),7457,97
+Felixlândia(MG),15336,127
+Felício dos Santos(MG),4753,14
+Fernandes Tourinho(MG),3431,43
+Ferros(MG),9820,126
+Fervedouro(MG),11006,149
+Florestal(MG),7461,111
+Formiga(MG),67683,1662
+Formoso(MG),9562,141
+Fortaleza de Minas(MG),4412,33
+Fortuna de Minas(MG),2947,19
+Francisco Badaró(MG),10332,27
+Francisco Dumont(MG),5215,25
+Francisco Sá(MG),26277,304
+Franciscópolis(MG),5391,35
+Frei Gaspar(MG),5880,165
+Frei Inocêncio(MG),9611,363
+Frei Lagonegro(MG),3478,86
+Fronteira(MG),18103,444
+Fronteira dos Vales(MG),4581,36
+Fruta de Leite(MG),5369,31
+Frutal(MG),59496,2326
+Funilândia(MG),4349,35
+Galiléia(MG),6817,186
+Gameleiras(MG),5109,121
+Glaucilândia(MG),3150,21
+Goiabeira(MG),3353,68
+Goianá(MG),3966,107
+Gonzaga(MG),6158,65
+Gonçalves(MG),4350,51
+Gouveia(MG),11825,143
+Governador Valadares(MG),279885,12068
+Grupiara(MG),1388,13
+Grão Mogol(MG),15836,93
+Guanhães(MG),34319,497
+Guapé(MG),14245,87
+Guaraciaba(MG),10324,45
+Guaraciama(MG),4972,12
+Guarani(MG),8911,30
+Guaranésia(MG),19021,374
+Guarará(MG),3796,40
+Guarda-Mor(MG),6580,124
+Guaxupé(MG),51917,1231
+Guidoval(MG),7078,120
+Guimarânia(MG),8039,194
+Guiricema(MG),8392,198
+Gurinhatã(MG),5639,57
+Heliodora(MG),6558,81
+Iapu(MG),11004,231
+Ibertioga(MG),5021,5
+Ibiaí(MG),8395,47
+Ibiracatu(MG),5400,28
+Ibiraci(MG),13828,131
+Ibirité(MG),180204,3601
+Ibitiúra de Minas(MG),3488,120
+Ibituruna(MG),2989,7
+Ibiá(MG),25199,418
+Icaraí de Minas(MG),11990,104
+Igarapé(MG),43045,755
+Igaratinga(MG),10860,83
+Iguatama(MG),7947,127
+Ijaci(MG),6550,33
+Ilicínea(MG),12375,51
+Imbé de Minas(MG),6903,104
+Inconfidentes(MG),7328,125
+Indaiabira(MG),7351,53
+Indianópolis(MG),6891,152
+Ingaí(MG),2767,19
+Inhapim(MG),24140,856
+Inhaúma(MG),6271,136
+Inimutaba(MG),7515,85
+Ipaba(MG),18607,558
+Ipanema(MG),19861,612
+Ipatinga(MG),263410,13646
+Ipiaçu(MG),4221,58
+Ipuiúna(MG),10079,192
+Iraí de Minas(MG),6987,85
+Itabira(MG),120060,4942
+Itabirinha(MG),11512,163
+Itabirito(MG),51875,3908
+Itacambira(MG),5385,9
+Itacarambi(MG),18153,248
+Itaguara(MG),13358,372
+Itaipé(MG),12760,201
+Itajubá(MG),96869,1860
+Itamarandiba(MG),34735,238
+Itamarati de Minas(MG),4355,61
+Itambacuri(MG),23211,180
+Itambé do Mato Dentro(MG),2081,6
+Itamogi(MG),10192,291
+Itamonte(MG),15579,449
+Itanhandu(MG),15331,412
+Itanhomi(MG),12228,329
+Itaobim(MG),21062,473
+Itapagipe(MG),15243,306
+Itapecerica(MG),21762,323
+Itapeva(MG),9783,707
+Itatiaiuçu(MG),11146,458
+Itaverava(MG),5419,22
+Itaú de Minas(MG),16108,439
+Itaúna(MG),93214,2788
+Itinga(MG),14990,47
+Itueta(MG),6051,644
+Ituiutaba(MG),104671,4205
+Itumirim(MG),6023,17
+Iturama(MG),39263,1320
+Itutinga(MG),3788,17
+Jaboticatubas(MG),20143,433
+Jacinto(MG),12326,456
+Jacutinga(MG),25979,425
+Jacuí(MG),7686,203
+Jaguaraçu(MG),3133,107
+Jampruca(MG),5404,70
+Janaúba(MG),71648,1541
+Januária(MG),67742,498
+Japaraíba(MG),4350,66
+Japonvar(MG),7969,94
+Jaíba(MG),38909,601
+Jeceaba(MG),4912,35
+Jenipapo de Minas(MG),7692,8
+Jequeri(MG),12386,62
+Jequitaí(MG),7531,75
+Jequitibá(MG),5211,110
+Jequitinhonha(MG),25391,240
+Jesuânia(MG),4787,89
+Joanésia(MG),4573,143
+Joaquim Felício(MG),4695,26
+Joaíma(MG),15432,271
+Jordânia(MG),10812,202
+Josenópolis(MG),4867,273
+José Gonçalves de Minas(MG),4501,8
+José Raydan(MG),4995,105
+João Monlevade(MG),79910,2428
+João Pinheiro(MG),47452,1263
+Juatuba(MG),26946,696
+Juiz de Fora(MG),568873,12314
+Juramento(MG),4331,29
+Juruaia(MG),10563,309
+Juvenília(MG),5724,154
+Ladainha(MG),18111,183
+Lagamar(MG),7613,122
+Lagoa Dourada(MG),13009,93
+Lagoa Formosa(MG),18052,601
+Lagoa Grande(MG),9532,55
+Lagoa Santa(MG),64527,1272
+Lagoa da Prata(MG),52165,1236
+Lagoa dos Patos(MG),4102,21
+Lajinha(MG),19923,878
+Lambari(MG),20814,355
+Lamim(MG),3391,6
+Laranjal(MG),6810,52
+Lassance(MG),6512,51
+Lavras(MG),103773,709
+Leandro Ferreira(MG),3229,53
+Leme do Prado(MG),4918,9
+Leopoldina(MG),52587,1225
+Liberdade(MG),5069,12
+Lima Duarte(MG),16698,261
+Limeira do Oeste(MG),7536,304
+Lontra(MG),9661,70
+Luisburgo(MG),6266,117
+Luislândia(MG),6699,14
+Luminárias(MG),5446,43
+Luz(MG),18215,222
+Machacalis(MG),7111,177
+Machado(MG),42133,337
+Madre de Deus de Minas(MG),5098,68
+Malacacheta(MG),18650,342
+Mamonas(MG),6543,30
+Manga(MG),18407,233
+Manhuaçu(MG),90229,2473
+Manhumirim(MG),22707,762
+Mantena(MG),27644,1288
+Mar de Espanha(MG),12814,158
+Maravilhas(MG),7976,58
+Maria da Fé(MG),14095,167
+Mariana(MG),60724,2987
+Marilac(MG),4115,112
+Maripá de Minas(MG),2973,95
+Marliéria(MG),4039,60
+Marmelópolis(MG),2755,5
+Martinho Campos(MG),13388,236
+Martins Soares(MG),8417,77
+Mata Verde(MG),8586,226
+Materlândia(MG),4459,6
+Mateus Leme(MG),31086,617
+Mathias Lobato(MG),3203,133
+Matias Barbosa(MG),14468,426
+Matias Cardoso(MG),11157,75
+Matipó(MG),18908,468
+Mato Verde(MG),12459,205
+Matozinhos(MG),37820,761
+Matutina(MG),3749,93
+Medeiros(MG),3802,36
+Medina(MG),20820,306
+Mendes Pimentel(MG),6446,127
+Mercês(MG),10739,229
+Mesquita(MG),5605,90
+Minas Novas(MG),31484,109
+Minduri(MG),3894,6
+Mirabela(MG),13589,174
+Miradouro(MG),10754,253
+Miravânia(MG),4888,5
+Miraí(MG),15014,387
+Moeda(MG),4919,122
+Moema(MG),7517,194
+Monjolos(MG),2220,13
+Monsenhor Paulo(MG),8688,30
+Montalvânia(MG),14877,354
+Monte Alegre de Minas(MG),21120,594
+Monte Azul(MG),20854,523
+Monte Belo(MG),13166,33
+Monte Carmelo(MG),47809,627
+Monte Formoso(MG),4906,28
+Monte Santo de Minas(MG),21524,201
+Monte Sião(MG),23803,486
+Montes Claros(MG),409341,13973
+Montezuma(MG),8249,61
+Morada Nova de Minas(MG),8863,37
+Morro da Garça(MG),2462,23
+Morro do Pilar(MG),3182,18
+Munhoz(MG),6029,166
+Muriaé(MG),108763,4751
+Mutum(MG),26979,595
+Muzambinho(MG),20569,189
+Mário Campos(MG),15416,194
+Nacip Raydan(MG),3220,110
+Nanuque(MG),40750,1714
+Naque(MG),6996,217
+Natalândia(MG),3311,19
+Natércia(MG),4730,68
+Nazareno(MG),8608,22
+Nepomuceno(MG),26769,227
+Ninheira(MG),10295,52
+Nova Belém(MG),3190,70
+Nova Era(MG),17578,310
+Nova Lima(MG),94889,6694
+Nova Módica(MG),3600,93
+Nova Ponte(MG),15545,414
+Nova Porteirinha(MG),7500,76
+Nova Resende(MG),16723,249
+Nova Serrana(MG),102693,1471
+Nova União(MG),5725,40
+Novo Cruzeiro(MG),31331,720
+Novo Oriente de Minas(MG),10755,202
+Novorizonte(MG),5299,30
+Olaria(MG),1747,8
+Olhos-d'Água(MG),6096,15
+Oliveira(MG),41687,610
+Oliveira Fortes(MG),2133,6
+Olímpio Noronha(MG),2787,53
+Onça de Pitangui(MG),3148,26
+Oratórios(MG),4655,37
+Orizânia(MG),8018,207
+Ouro Branco(MG),39500,863
+Ouro Fino(MG),33639,354
+Ouro Preto(MG),74281,1140
+Ouro Verde de Minas(MG),5934,72
+Padre Carvalho(MG),6378,92
+Padre Paraíso(MG),20154,432
+Pai Pedro(MG),6089,33
+Paineiras(MG),4486,9
+Pains(MG),8283,215
+Paiva(MG),1529,20
+Palma(MG),6616,67
+Palmópolis(MG),5507,87
+Papagaios(MG),15674,263
+Paracatu(MG),93158,2842
+Paraguaçu(MG),21513,371
+Paraisópolis(MG),21083,255
+Paraopeba(MG),24540,472
+Pará de Minas(MG),93969,1188
+Passa Quatro(MG),16344,284
+Passa Tempo(MG),8084,117
+Passa Vinte(MG),2039,12
+Passabém(MG),1649,31
+Passos(MG),114679,1686
+Patis(MG),5972,63
+Patos de Minas(MG),152488,3865
+Patrocínio(MG),90757,2439
+Patrocínio do Muriaé(MG),5684,78
+Paula Cândido(MG),9571,63
+Paulistas(MG),4830,10
+Pavão(MG),8450,42
+Pedra Azul(MG),24324,584
+Pedra Bonita(MG),7097,210
+Pedra Dourada(MG),2504,35
+Pedra do Anta(MG),3052,36
+Pedra do Indaiá(MG),3972,116
+Pedralva(MG),11195,36
+Pedras de Maria da Cruz(MG),12107,105
+Pedrinópolis(MG),3635,73
+Pedro Leopoldo(MG),64258,1278
+Pedro Teixeira(MG),1807,6
+Pequeri(MG),3320,63
+Pequi(MG),4406,44
+Perdigão(MG),11506,195
+Perdizes(MG),16168,438
+Perdões(MG),21390,278
+Periquito(MG),6810,239
+Pescador(MG),4252,75
+Peçanha(MG),17541,198
+Piau(MG),2748,33
+Piedade de Caratinga(MG),8566,155
+Piedade de Ponte Nova(MG),4140,62
+Piedade do Rio Grande(MG),4497,33
+Piedade dos Gerais(MG),4982,83
+Pimenta(MG),8660,92
+Pingo-d'Água(MG),4941,51
+Pintópolis(MG),7507,20
+Piracema(MG),6409,72
+Pirajuba(MG),6199,180
+Piranga(MG),17626,100
+Piranguinho(MG),8596,166
+Piranguçu(MG),5472,67
+Pirapetinga(MG),10752,874
+Pirapora(MG),56428,1802
+Piraúba(MG),10787,276
+Pitangui(MG),27989,306
+Piumhi(MG),34691,634
+Planura(MG),12133,359
+Pocrane(MG),8432,115
+Pompéu(MG),31812,749
+Ponte Nova(MG),59742,2030
+Ponto Chique(MG),4261,49
+Ponto dos Volantes(MG),12121,112
+Porteirinha(MG),37906,651
+Porto Firme(MG),11279,132
+Poté(MG),16555,232
+Pouso Alegre(MG),150737,3966
+Pouso Alto(MG),5940,154
+Poço Fundo(MG),16791,194
+Poços de Caldas(MG),167397,2491
+Prados(MG),9031,60
+Prata(MG),27856,751
+Pratinha(MG),3603,50
+Pratápolis(MG),8603,140
+Presidente Bernardes(MG),5369,8
+Presidente Juscelino(MG),3641,48
+Presidente Kubitschek(MG),3002,22
+Presidente Olegário(MG),19573,202
+Prudente de Morais(MG),10733,93
+Quartel Geral(MG),3563,15
+Queluzito(MG),1939,13
+Raposos(MG),16354,455
+Raul Soares(MG),23762,291
+Recreio(MG),10517,142
+Reduto(MG),7154,177
+Resende Costa(MG),11500,78
+Resplendor(MG),17397,963
+Ressaquinha(MG),4808,14
+Riachinho(MG),8136,161
+Riacho dos Machados(MG),9481,62
+Ribeirão Vermelho(MG),4033,22
+Ribeirão das Neves(MG),334858,5310
+Rio Acima(MG),10312,370
+Rio Casca(MG),13564,195
+Rio Doce(MG),2610,72
+Rio Espera(MG),5474,24
+Rio Manso(MG),5832,115
+Rio Novo(MG),8949,119
+Rio Paranaíba(MG),12313,772
+Rio Pardo de Minas(MG),30914,243
+Rio Piracicaba(MG),14339,467
+Rio Pomba(MG),17910,257
+Rio Preto(MG),5476,126
+Rio Vermelho(MG),12846,9
+Rio do Prado(MG),5150,36
+Ritápolis(MG),4604,20
+Rochedo de Minas(MG),2305,89
+Rodeiro(MG),8109,256
+Romaria(MG),3533,55
+Rosário da Limeira(MG),4594,89
+Rubelita(MG),5995,34
+Rubim(MG),10241,107
+Sabará(MG),136344,1999
+Sabinópolis(MG),15470,31
+Sacramento(MG),26185,995
+Salinas(MG),41527,1002
+Salto da Divisa(MG),7009,108
+Santa Bárbara(MG),31324,770
+Santa Bárbara do Leste(MG),8147,205
+Santa Bárbara do Monte Verde(MG),3150,91
+Santa Bárbara do Tugúrio(MG),4430,15
+Santa Cruz de Minas(MG),8604,169
+Santa Cruz de Salinas(MG),4142,22
+Santa Cruz do Escalvado(MG),4758,97
+Santa Efigênia de Minas(MG),4409,118
+Santa Fé de Minas(MG),3846,198
+Santa Helena de Minas(MG),6366,110
+Santa Juliana(MG),14003,518
+Santa Luzia(MG),219134,3309
+Santa Margarida(MG),16208,379
+Santa Maria de Itabira(MG),10847,170
+Santa Maria do Salto(MG),5232,12
+Santa Maria do Suaçuí(MG),14615,566
+Santa Rita de Caldas(MG),8949,231
+Santa Rita de Ibitipoca(MG),3425,14
+Santa Rita de Jacutinga(MG),4884,83
+Santa Rita de Minas(MG),7212,451
+Santa Rita do Itueto(MG),5489,624
+Santa Rita do Sapucaí(MG),43260,650
+Santa Rosa da Serra(MG),3350,25
+Santa Vitória(MG),19742,450
+Santana da Vargem(MG),7100,62
+Santana de Cataguases(MG),3872,177
+Santana de Pirapama(MG),7642,177
+Santana do Deserto(MG),3976,103
+Santana do Garambéu(MG),2458,5
+Santana do Jacaré(MG),4821,24
+Santana do Manhuaçu(MG),8674,194
+Santana do Paraíso(MG),34663,3036
+Santana do Riacho(MG),4295,42
+Santana dos Montes(MG),3777,12
+Santo Antônio do Amparo(MG),18525,129
+Santo Antônio do Aventureiro(MG),3602,35
+Santo Antônio do Grama(MG),3911,28
+Santo Antônio do Itambé(MG),3838,27
+Santo Antônio do Jacinto(MG),11640,524
+Santo Antônio do Monte(MG),28243,645
+Santo Antônio do Retiro(MG),7277,85
+Santo Antônio do Rio Abaixo(MG),1765,42
+Santo Hipólito(MG),3087,32
+Santos Dumont(MG),46487,593
+Sapucaí-Mirim(MG),6930,51
+Sardoá(MG),6300,151
+Sarzedo(MG),32752,553
+Sem-Peixe(MG),2633,27
+Senador Amaral(MG),5356,94
+Senador Cortes(MG),2005,28
+Senador Firmino(MG),7812,56
+Senador José Bento(MG),1502,32
+Senador Modestino Gonçalves(MG),4156,3
+Senhora de Oliveira(MG),5786,16
+Senhora do Porto(MG),3523,19
+Senhora dos Remédios(MG),10459,62
+Sericita(MG),7326,30
+Seritinga(MG),1851,3
+Serra Azul de Minas(MG),4293,5
+Serra da Saudade(MG),781,8
+Serra do Salitre(MG),11582,244
+Serra dos Aimorés(MG),8699,328
+Serrania(MG),7669,51
+Serranos(MG),1963,8
+Serranópolis de Minas(MG),4781,45
+Serro(MG),20966,179
+Sete Lagoas(MG),239639,5033
+Setubinha(MG),12258,64
+Silveirânia(MG),2261,32
+Silvianópolis(MG),6238,49
+Simonésia(MG),19633,257
+Simão Pereira(MG),2615,47
+Sobrália(MG),5553,89
+Soledade de Minas(MG),6151,72
+São Bento Abade(MG),5286,5
+São Brás do Suaçuí(MG),3738,43
+São Domingos das Dores(MG),5644,49
+São Domingos do Prata(MG),17359,146
+São Francisco(MG),56323,502
+São Francisco de Paula(MG),6527,59
+São Francisco de Sales(MG),6238,153
+São Francisco do Glória(MG),4844,40
+São Félix de Minas(MG),3369,58
+São Geraldo(MG),12366,290
+São Geraldo da Piedade(MG),3962,115
+São Geraldo do Baixio(MG),4012,49
+São Gonçalo do Abaeté(MG),8389,44
+São Gonçalo do Pará(MG),12411,104
+São Gonçalo do Rio Abaixo(MG),10920,507
+São Gonçalo do Rio Preto(MG),3167,4
+São Gonçalo do Sapucaí(MG),25449,164
+São Gotardo(MG),35469,1591
+São Joaquim de Bicas(MG),31578,576
+São José da Barra(MG),7426,108
+São José da Lapa(MG),23766,679
+São José da Safira(MG),4268,202
+São José da Varginha(MG),5004,27
+São José do Alegre(MG),4196,33
+São José do Divino(MG),3860,64
+São José do Goiabal(MG),5420,102
+São José do Jacuri(MG),6453,119
+São José do Mantimento(MG),2791,127
+São João Batista do Glória(MG),7453,202
+São João Evangelista(MG),15774,150
+São João Nepomuceno(MG),26361,535
+São João da Lagoa(MG),4915,33
+São João da Mata(MG),2749,35
+São João da Ponte(MG),25165,208
+São João das Missões(MG),13014,93
+São João del Rei(MG),90082,1662
+São João do Manhuaçu(MG),11559,349
+São João do Manteninha(MG),5859,191
+São João do Oriente(MG),7498,436
+São João do Pacuí(MG),4419,7
+São João do Paraíso(MG),23618,167
+São Lourenço(MG),45851,1258
+São Miguel do Anta(MG),6938,57
+São Pedro da União(MG),4659,35
+São Pedro do Suaçuí(MG),5246,76
+São Pedro dos Ferros(MG),7781,57
+São Romão(MG),12337,70
+São Roque de Minas(MG),7051,35
+São Sebastião da Bela Vista(MG),5504,87
+São Sebastião da Vargem Alegre(MG),3007,89
+São Sebastião do Anta(MG),6555,52
+São Sebastião do Maranhão(MG),10044,87
+São Sebastião do Oeste(MG),6775,117
+São Sebastião do Paraíso(MG),70956,1498
+São Sebastião do Rio Preto(MG),1506,45
+São Sebastião do Rio Verde(MG),2241,12
+São Tiago(MG),10941,42
+São Tomás de Aquino(MG),7021,81
+São Tomé das Letras(MG),7089,2
+São Vicente de Minas(MG),7753,33
+Tabuleiro(MG),3750,33
+Taiobeiras(MG),34132,549
+Taparuba(MG),3110,138
+Tapira(MG),4773,72
+Tapiraí(MG),1875,33
+Taquaraçu de Minas(MG),4077,82
+Tarumirim(MG),14326,130
+Teixeiras(MG),11661,88
+Teófilo Otoni(MG),140592,4046
+Timóteo(MG),89842,3729
+Tiradentes(MG),7981,91
+Tiros(MG),6480,91
+Tocantins(MG),16659,447
+Tocos do Moji(MG),4101,30
+Toledo(MG),6258,127
+Tombos(MG),8022,356
+Três Corações(MG),79482,1354
+Três Marias(MG),32356,492
+Três Pontas(MG),56746,1128
+Tumiritinga(MG),6732,148
+Tupaciguara(MG),25327,750
+Turmalina(MG),19964,218
+Turvolândia(MG),5040,21
+Ubaporanga(MG),12471,857
+Ubaí(MG),12533,56
+Uberaba(MG),333783,9585
+Uberlândia(MG),691305,41098
+Ubá(MG),115552,3667
+Umburatiba(MG),2611,62
+Unaí(MG),84378,3493
+União de Minas(MG),4304,116
+Uruana de Minas(MG),3264,29
+Urucuia(MG),16865,75
+Urucânia(MG),10358,211
+Vargem Alegre(MG),6480,225
+Vargem Bonita(MG),2153,29
+Vargem Grande do Rio Pardo(MG),5007,46
+Varginha(MG),135558,1986
+Varjão de Minas(MG),7036,112
+Varzelândia(MG),19320,162
+Vazante(MG),20590,837
+Verdelândia(MG),9355,62
+Veredinha(MG),5720,23
+Vermelho Novo(MG),4839,93
+Veríssimo(MG),3999,55
+Vespasiano(MG),127601,1388
+Vieiras(MG),3608,70
+Virgem da Lapa(MG),13752,155
+Virginópolis(MG),10510,89
+Virgolândia(MG),5380,78
+Virgínia(MG),8674,46
+Visconde do Rio Branco(MG),42564,1144
+Viçosa(MG),78846,1300
+Volta Grande(MG),5252,39
+Várzea da Palma(MG),39493,727
+Wenceslau Braz(MG),2552,48
+Água Boa(MG),13735,144
+Água Comprida(MG),1999,23
+Águas Formosas(MG),19207,342
+Águas Vermelhas(MG),13539,119
+Angra dos Reis(RJ),203785,7778
+Aperibé(RJ),11759,238
+Araruama(RJ),132400,2154
+Areal(RJ),12572,312
+Armação dos Búzios(RJ),33870,1144
+Arraial do Cabo(RJ),30349,333
+Barra Mansa(RJ),184412,5291
+Barra do Piraí(RJ),100374,1795
+Belford Roxo(RJ),510906,12266
+Bom Jardim(RJ),27446,318
+Bom Jesus do Itabapoana(RJ),37096,1009
+Cabo Frio(RJ),226525,4351
+Cachoeiras de Macacu(RJ),58937,949
+Cambuci(RJ),15505,333
+Campos dos Goytacazes(RJ),507548,11068
+Cantagalo(RJ),20172,838
+Carapebus(RJ),16301,799
+Cardoso Moreira(RJ),12823,576
+Carmo(RJ),18895,609
+Casimiro de Abreu(RJ),44184,1707
+Comendador Levy Gasparian(RJ),8561,177
+Conceição de Macabu(RJ),23228,1093
+Cordeiro(RJ),21926,687
+Duas Barras(RJ),11492,95
+Duque de Caxias(RJ),919596,12803
+Engenheiro Paulo de Frontin(RJ),14002,531
+Guapimirim(RJ),60517,2782
+Iguaba Grande(RJ),28310,1366
+Itaboraí(RJ),240592,5391
+Itaguaí(RJ),133019,3172
+Italva(RJ),15207,374
+Itaocara(RJ),23234,719
+Itaperuna(RJ),103224,4162
+Itatiaia(RJ),31805,520
+Japeri(RJ),104768,670
+Laje do Muriaé(RJ),7355,392
+Macaé(RJ),256672,12196
+Macuco(RJ),5599,215
+Magé(RJ),245071,5240
+Mangaratiba(RJ),44468,1465
+Maricá(RJ),161207,5002
+Mendes(RJ),18614,687
+Mesquita(RJ),176103,2054
+Miguel Pereira(RJ),25538,647
+Miracema(RJ),27174,816
+Natividade(RJ),15317,772
+Nilópolis(RJ),162485,2023
+Niterói(RJ),513584,21970
+Nova Friburgo(RJ),190631,6039
+Nova Iguaçu(RJ),821128,9326
+Paracambi(RJ),52257,1150
+Paraty(RJ),43165,1129
+Paraíba do Sul(RJ),44285,1508
+Paty do Alferes(RJ),27769,332
+Petrópolis(RJ),306191,3728
+Pinheiral(RJ),25156,909
+Piraí(RJ),29277,1455
+Porciúncula(RJ),18847,1182
+Porto Real(RJ),19683,615
+Quatis(RJ),14302,257
+Queimados(RJ),150319,3060
+Quissamã(RJ),24700,915
+Resende(RJ),131341,4025
+Rio Bonito(RJ),60201,2752
+Rio Claro(RJ),18529,558
+Rio das Flores(RJ),9284,33
+Rio das Ostras(RJ),150674,3443
+Rio de Janeiro(RJ),6718903,156818
+Santa Maria Madalena(RJ),10404,167
+Santo Antônio de Pádua(RJ),42479,1614
+Sapucaia(RJ),18228,922
+Saquarema(RJ),89170,1488
+Seropédica(RJ),82312,1106
+Silva Jardim(RJ),21774,494
+Sumidouro(RJ),15623,326
+São Fidélis(RJ),38669,330
+São Francisco de Itabapoana(RJ),42205,886
+São Gonçalo(RJ),1084839,17709
+São José de Ubá(RJ),7171,207
+São José do Vale do Rio Preto(RJ),21795,1021
+São João da Barra(RJ),36102,1858
+São João de Meriti(RJ),472406,4800
+São Pedro da Aldeia(RJ),104476,1659
+São Sebastião do Alto(RJ),9357,148
+Tanguá(RJ),34309,1330
+Teresópolis(RJ),182594,11374
+Trajano de Moraes(RJ),10626,161
+Três Rios(RJ),81804,4215
+Valença(RJ),76523,1091
+Varre-Sai(RJ),11000,1221
+Vassouras(RJ),36896,1130
+Volta Redonda(RJ),273012,11195
+Acari(RN),11136,246
+Afonso Bezerra(RN),11035,202
+Alexandria(RN),13577,313
+Almino Afonso(RN),4735,85
+Alto do Rodrigues(RN),14529,627
+Angicos(RN),11714,186
+Antônio Martins(RN),7145,70
+Apodi(RN),35845,3012
+Areia Branca(RN),27774,938
+Arês(RN),14306,358
+Açu(RN),58017,2193
+Baraúna(RN),28374,623
+Barcelona(RN),3998,39
+Baía Formosa(RN),9271,195
+Bento Fernandes(RN),5497,37
+Bodó(RN),2223,48
+Bom Jesus(RN),10210,262
+Brejinho(RN),12699,355
+Caicó(RN),67952,4674
+Caiçara do Norte(RN),6549,125
+Caiçara do Rio do Vento(RN),3684,106
+Campo Grande(RN),9655,173
+Campo Redondo(RN),11217,260
+Canguaretama(RN),34276,453
+Caraúbas(RN),20493,924
+Carnaubais(RN),10759,228
+Carnaúba dos Dantas(RN),8180,86
+Ceará-Mirim(RN),73497,1003
+Cerro Corá(RN),11179,124
+Coronel Ezequiel(RN),5506,130
+Coronel João Pessoa(RN),4912,47
+Cruzeta(RN),7998,576
+Currais Novos(RN),44786,1262
+Doutor Severiano(RN),7076,359
+Encanto(RN),5638,241
+Equador(RN),6045,52
+Espírito Santo(RN),10505,210
+Extremoz(RN),28583,768
+Felipe Guerra(RN),5985,424
+Fernando Pedroza(RN),3054,137
+Florânia(RN),9116,247
+Francisco Dantas(RN),2824,105
+Frutuoso Gomes(RN),4068,140
+Galinhos(RN),2786,145
+Goianinha(RN),26328,771
+Governador Dix-Sept Rosado(RN),13037,577
+Grossos(RN),10383,406
+Guamaré(RN),15659,710
+Ielmo Marinho(RN),13766,172
+Ipanguaçu(RN),15491,325
+Ipueira(RN),2241,52
+Itajá(RN),7548,288
+Itaú(RN),5878,99
+Jandaíra(RN),6878,222
+Janduís(RN),5268,176
+Januário Cicco(RN),10181,92
+Japi(RN),5055,37
+Jardim de Angicos(RN),2612,23
+Jardim de Piranhas(RN),14837,960
+Jardim do Seridó(RN),12396,313
+Jaçanã(RN),9133,289
+José da Penha(RN),5951,125
+João Câmara(RN),34955,559
+João Dias(RN),2654,61
+Jucurutu(RN),18295,1226
+Jundiá(RN),3898,121
+Lagoa Nova(RN),15614,132
+Lagoa Salgada(RN),8245,147
+Lagoa d'Anta(RN),6769,147
+Lagoa de Pedras(RN),7544,66
+Lagoa de Velhos(RN),2732,75
+Lajes(RN),11277,261
+Lajes Pintadas(RN),4759,108
+Lucrécia(RN),3996,113
+Luís Gomes(RN),10116,145
+Macau(RN),31814,377
+Macaíba(RN),80792,1258
+Major Sales(RN),4020,107
+Marcelino Vieira(RN),8347,203
+Martins(RN),8725,116
+Maxaranguape(RN),12371,193
+Messias Targino(RN),4601,209
+Montanhas(RN),11251,144
+Monte Alegre(RN),22451,298
+Monte das Gameleiras(RN),2105,55
+Mossoró(RN),297378,10227
+Natal(RN),884122,32783
+Nova Cruz(RN),37343,540
+Nísia Floresta(RN),27602,794
+Olho-d'Água do Borges(RN),4258,361
+Ouro Branco(RN),4812,109
+Paraná(RN),4254,128
+Parazinho(RN),5237,133
+Paraú(RN),3768,214
+Parelhas(RN),21477,256
+Parnamirim(RN),261469,9631
+Passa e Fica(RN),13277,328
+Passagem(RN),3089,78
+Patu(RN),12755,557
+Pau dos Ferros(RN),30394,1607
+Pedra Grande(RN),3237,153
+Pedra Preta(RN),2458,13
+Pedro Avelino(RN),6716,73
+Pedro Velho(RN),14806,160
+Pendências(RN),15129,420
+Pilões(RN),3838,120
+Portalegre(RN),7867,137
+Porto do Mangue(RN),6437,124
+Poço Branco(RN),15413,321
+Pureza(RN),9621,128
+Rafael Fernandes(RN),5098,229
+Rafael Godeiro(RN),3201,145
+Riacho da Cruz(RN),3579,133
+Riacho de Santana(RN),4204,82
+Riachuelo(RN),8128,215
+Rio do Fogo(RN),10848,94
+Rodolfo Fernandes(RN),4467,132
+Ruy Barbosa(RN),3600,72
+Santa Cruz(RN),39674,1183
+Santa Maria(RN),5551,105
+Santana do Matos(RN),12791,161
+Santana do Seridó(RN),2680,69
+Santo Antônio(RN),24136,526
+Senador Elói de Souza(RN),6086,76
+Senador Georgino Avelino(RN),4440,51
+Serra Caiada(RN),10395,251
+Serra Negra do Norte(RN),8078,271
+Serra de São Bento(RN),5762,55
+Serra do Mel(RN),11938,227
+Serrinha(RN),6229,51
+Serrinha dos Pintos(RN),4800,115
+Severiano Melo(RN),2440,260
+São Bento do Norte(RN),2747,79
+São Bento do Trairí(RN),4449,66
+São Fernando(RN),3584,143
+São Francisco do Oeste(RN),4228,186
+São Gonçalo do Amarante(RN),102400,2742
+São José de Mipibu(RN),43899,1588
+São José do Campestre(RN),12856,474
+São José do Seridó(RN),4634,191
+São João do Sabugi(RN),6193,198
+São Miguel(RN),23519,788
+São Miguel do Gostoso(RN),10282,237
+São Paulo do Potengi(RN),17579,391
+São Pedro(RN),5971,186
+São Rafael(RN),8202,291
+São Tomé(RN),11055,252
+São Vicente(RN),6424,138
+Sítio Novo(RN),5522,64
+Taboleiro Grande(RN),2566,69
+Taipu(RN),12279,234
+Tangará(RN),15727,134
+Tenente Ananias(RN),10786,326
+Tenente Laurentino Cruz(RN),5952,81
+Tibau(RN),4106,216
+Tibau do Sul(RN),14180,614
+Timbaúba dos Batistas(RN),2414,83
+Touros(RN),33287,472
+Triunfo Potiguar(RN),3237,142
+Umarizal(RN),10555,528
+Upanema(RN),14659,394
+Venha-Ver(RN),4177,22
+Vera Cruz(RN),12481,218
+Vila Flor(RN),3170,121
+Viçosa(RN),1718,98
+Várzea(RN),5500,122
+Água Nova(RN),3252,173
+Acauã(PI),7084,81
+Agricolândia(PI),5139,68
+Alagoinha do Piauí(PI),7651,155
+Alegrete do Piauí(PI),4915,348
+Alto Longá(PI),14304,275
+Altos(PI),40524,2152
+Alvorada do Gurguéia(PI),5419,101
+Amarante(PI),17598,648
+Angical do Piauí(PI),6788,200
+Antônio Almeida(PI),3164,244
+Anísio de Abreu(PI),9880,190
+Aroazes(PI),5835,152
+Aroeiras do Itaim(PI),2551,91
+Arraial(PI),4727,74
+Assunção do Piauí(PI),7846,149
+Avelino Lopes(PI),11289,147
+Baixa Grande do Ribeiro(PI),11586,1537
+Barra D'Alcântara(PI),3951,49
+Barras(PI),47066,3156
+Barreiras do Piauí(PI),3348,40
+Barro Duro(PI),7032,460
+Batalha(PI),26857,466
+Bela Vista do Piauí(PI),4015,78
+Belém do Piauí(PI),3566,171
+Beneditinos(PI),10467,363
+Bertolínia(PI),5501,542
+Betânia do Piauí(PI),6205,79
+Boa Hora(PI),6781,172
+Bocaina(PI),4500,163
+Bom Jesus(PI),25179,1905
+Bom Princípio do Piauí(PI),5630,44
+Bonfim do Piauí(PI),5670,138
+Boqueirão do Piauí(PI),6407,208
+Brasileira(PI),8329,242
+Brejo do Piauí(PI),3875,26
+Buriti dos Lopes(PI),19781,814
+Buriti dos Montes(PI),8244,302
+Cabeceiras do Piauí(PI),10586,245
+Cajazeiras do Piauí(PI),3559,22
+Cajueiro da Praia(PI),7642,421
+Caldeirão Grande do Piauí(PI),5776,159
+Campinas do Piauí(PI),5613,79
+Campo Alegre do Fidalgo(PI),5045,45
+Campo Grande do Piauí(PI),5943,338
+Campo Largo do Piauí(PI),7279,228
+Campo Maior(PI),46833,2746
+Canavieira(PI),3950,17
+Canto do Buriti(PI),21187,597
+Capitão Gervásio Oliveira(PI),4100,33
+Capitão de Campos(PI),11417,248
+Caracol(PI),10916,214
+Caraúbas do Piauí(PI),5868,163
+Caridade do Piauí(PI),5067,59
+Castelo do Piauí(PI),19716,507
+Caxingó(PI),5424,123
+Cocal(PI),27787,717
+Cocal de Telha(PI),4891,128
+Cocal dos Alves(PI),6153,225
+Coivaras(PI),4020,141
+Colônia do Gurguéia(PI),6484,66
+Colônia do Piauí(PI),7656,132
+Conceição do Canindé(PI),4803,35
+Coronel José Dias(PI),4682,56
+Corrente(PI),26644,1017
+Cristalândia do Piauí(PI),8294,35
+Cristino Castro(PI),10423,202
+Curimatá(PI),11388,277
+Currais(PI),4954,179
+Curral Novo do Piauí(PI),5343,76
+Curralinhos(PI),4443,192
+Demerval Lobão(PI),13817,1461
+Dirceu Arcoverde(PI),7011,176
+Dom Expedito Lopes(PI),6904,142
+Dom Inocêncio(PI),9556,113
+Domingos Mourão(PI),4355,73
+Elesbão Veloso(PI),14602,572
+Eliseu Martins(PI),4915,100
+Esperantina(PI),39737,1138
+Fartura do Piauí(PI),5307,157
+Flores do Piauí(PI),4463,66
+Floresta do Piauí(PI),2558,96
+Floriano(PI),59935,4197
+Francinópolis(PI),5348,48
+Francisco Ayres(PI),4348,99
+Francisco Macedo(PI),3184,283
+Francisco Santos(PI),9319,157
+Fronteiras(PI),11625,214
+Geminiano(PI),5442,180
+Gilbués(PI),10690,272
+Guadalupe(PI),10499,211
+Guaribas(PI),4562,52
+Hugo Napoleão(PI),3877,343
+Ilha Grande(PI),9426,278
+Inhuma(PI),15308,410
+Ipiranga do Piauí(PI),9811,234
+Isaías Coelho(PI),8549,133
+Itainópolis(PI),11530,249
+Itaueira(PI),11019,40
+Jacobina do Piauí(PI),5741,171
+Jaicós(PI),19104,401
+Jardim do Mulato(PI),4504,133
+Jatobá do Piauí(PI),4865,70
+Jerumenha(PI),4452,118
+Joaquim Pires(PI),14354,786
+Joca Marques(PI),5443,334
+José de Freitas(PI),39208,1628
+João Costa(PI),3008,118
+Juazeiro do Piauí(PI),5478,168
+Jurema(PI),4763,57
+Júlio Borges(PI),5627,56
+Lagoa Alegre(PI),8542,238
+Lagoa de São Francisco(PI),6758,134
+Lagoa do Barro do Piauí(PI),4655,494
+Lagoa do Piauí(PI),4064,348
+Lagoa do Sítio(PI),5177,65
+Lagoinha do Piauí(PI),2845,166
+Landri Sales(PI),5295,100
+Luzilândia(PI),25486,1644
+Luís Correia(PI),30311,404
+Madeiro(PI),8310,368
+Manoel Emídio(PI),5349,152
+Marcolândia(PI),8492,340
+Marcos Parente(PI),4549,87
+Massapê do Piauí(PI),6441,88
+Matias Olímpio(PI),10936,360
+Miguel Alves(PI),33760,1120
+Miguel Leão(PI),1246,48
+Milton Brandão(PI),6613,81
+Monsenhor Gil(PI),10564,720
+Monsenhor Hipólito(PI),7749,224
+Monte Alegre do Piauí(PI),10613,453
+Morro Cabeça no Tempo(PI),4532,50
+Morro do Chapéu do Piauí(PI),6796,467
+Murici dos Portelas(PI),9159,85
+Nazaré do Piauí(PI),7339,106
+Nazária(PI),8570,214
+Nossa Senhora de Nazaré(PI),4870,67
+Nossa Senhora dos Remédios(PI),8692,573
+Nova Santa Rita(PI),4374,72
+Novo Oriente do Piauí(PI),6565,163
+Novo Santo Antônio(PI),2991,151
+Oeiras(PI),37029,2045
+Olho D'Água do Piauí(PI),2459,99
+Padre Marcos(PI),6868,259
+Paes Landim(PI),4129,26
+Pajeú do Piauí(PI),3389,71
+Palmeira do Piauí(PI),5043,101
+Palmeirais(PI),14539,234
+Paquetá(PI),3945,99
+Parnaguá(PI),10791,136
+Parnaíba(PI),153078,7767
+Passagem Franca do Piauí(PI),4313,191
+Patos do Piauí(PI),6392,129
+Pau D'Arco do Piauí(PI),4045,153
+Paulistana(PI),20523,371
+Pavussu(PI),3677,128
+Pedro II(PI),38742,1446
+Pedro Laurentino(PI),2536,29
+Picos(PI),78222,4842
+Pimenteiras(PI),12127,403
+Pio IX(PI),18425,203
+Piracuruca(PI),28791,742
+Piripiri(PI),63742,3386
+Porto(PI),12568,494
+Porto Alegre do Piauí(PI),2710,136
+Prata do Piauí(PI),3151,128
+Queimada Nova(PI),8992,348
+Redenção do Gurguéia(PI),8778,166
+Regeneração(PI),17978,613
+Riacho Frio(PI),4312,97
+Ribeira do Piauí(PI),4477,22
+Ribeiro Gonçalves(PI),7341,448
+Rio Grande do Piauí(PI),6432,140
+Santa Cruz do Piauí(PI),6240,720
+Santa Cruz dos Milagres(PI),4019,71
+Santa Filomena(PI),6253,48
+Santa Luz(PI),5860,163
+Santa Rosa do Piauí(PI),5257,53
+Santana do Piauí(PI),4634,110
+Santo Antônio de Lisboa(PI),6415,23
+Santo Antônio dos Milagres(PI),2161,70
+Santo Inácio do Piauí(PI),3798,127
+Sebastião Barros(PI),3469,19
+Sebastião Leal(PI),4294,201
+Sigefredo Pacheco(PI),10041,153
+Simplício Mendes(PI),12711,359
+Simões(PI),14633,317
+Socorro do Piauí(PI),4569,61
+Sussuapara(PI),6730,258
+São Braz do Piauí(PI),4448,34
+São Francisco de Assis do Piauí(PI),5755,19
+São Francisco do Piauí(PI),6423,52
+São Félix do Piauí(PI),2942,58
+São Gonçalo do Gurguéia(PI),3041,77
+São Gonçalo do Piauí(PI),5015,132
+São José do Divino(PI),5346,57
+São José do Peixe(PI),3745,33
+São José do Piauí(PI),6705,120
+São João da Canabrava(PI),4608,173
+São João da Fronteira(PI),6042,137
+São João da Serra(PI),6139,170
+São João da Varjota(PI),4840,54
+São João do Arraial(PI),7989,300
+São João do Piauí(PI),20601,611
+São Julião(PI),6363,180
+São Lourenço do Piauí(PI),4573,33
+São Luis do Piauí(PI),2644,82
+São Miguel da Baixa Grande(PI),2452,10
+São Miguel do Fidalgo(PI),3039,4
+São Miguel do Tapuio(PI),17662,261
+São Pedro do Piauí(PI),14291,616
+São Raimundo Nonato(PI),34710,2537
+Tamboril do Piauí(PI),2919,19
+Tanque do Piauí(PI),2765,30
+Teresina(PI),864845,47647
+União(PI),44485,1368
+Uruçuí(PI),21558,1876
+Valença do Piauí(PI),20918,1139
+Vera Mendes(PI),3077,30
+Vila Nova do Piauí(PI),2971,99
+Várzea Branca(PI),4947,61
+Várzea Grande(PI),4391,162
+Wall Ferraz(PI),4462,300
+Água Branca(PI),17411,1032
+Abatiá(PR),7457,96
+Adrianópolis(PR),5919,340
+Agudos do Sul(PR),9371,187
+Almirante Tamandaré(PR),118623,3512
+Altamira do Paraná(PR),1942,25
+Alto Paraná(PR),14770,227
+Alto Paraíso(PR),2741,20
+Alto Piquiri(PR),9836,174
+Altônia(PR),22056,304
+Alvorada do Sul(PR),11406,168
+Amaporã(PR),6257,40
+Ampére(PR),19152,306
+Anahy(PR),2801,60
+Andirá(PR),20031,479
+Antonina(PR),18980,1098
+Antônio Olinto(PR),7434,128
+Apucarana(PR),134996,1479
+Arapongas(PR),123027,4526
+Arapoti(PR),28115,680
+Arapuã(PR),3068,50
+Araruna(PR),13970,373
+Araucária(PR),143843,9256
+Ariranha do Ivaí(PR),2108,31
+Assaí(PR),15119,392
+Assis Chateaubriand(PR),33362,919
+Astorga(PR),26111,840
+Atalaia(PR),3892,118
+Balsa Nova(PR),12941,381
+Bandeirantes(PR),31367,1304
+Barbosa Ferraz(PR),11568,248
+Barra do Jacaré(PR),2781,37
+Barracão(PR),10275,226
+Bela Vista da Caroba(PR),3511,51
+Bela Vista do Paraíso(PR),15397,322
+Bituruna(PR),16389,97
+Boa Esperança(PR),4105,73
+Boa Esperança do Iguaçu(PR),2503,75
+Boa Ventura de São Roque(PR),6387,38
+Boa Vista da Aparecida(PR),7591,209
+Bocaiúva do Sul(PR),12944,462
+Bom Jesus do Sul(PR),3541,61
+Bom Sucesso(PR),7032,167
+Bom Sucesso do Sul(PR),3264,102
+Borrazópolis(PR),6592,293
+Braganey(PR),5427,63
+Brasilândia do Sul(PR),2651,68
+Cafeara(PR),2934,93
+Cafelândia(PR),18120,607
+Cafezal do Sul(PR),4044,51
+Califórnia(PR),8570,276
+Cambará(PR),25360,445
+Cambira(PR),7865,181
+Cambé(PR),106533,3534
+Campina Grande do Sul(PR),43288,2335
+Campina da Lagoa(PR),14202,187
+Campina do Simão(PR),3887,14
+Campo Bonito(PR),3833,58
+Campo Largo(PR),132002,6119
+Campo Magro(PR),29318,818
+Campo Mourão(PR),94859,2894
+Campo do Tenente(PR),7971,193
+Candói(PR),15979,219
+Cantagalo(PR),13317,225
+Capanema(PR),19124,696
+Capitão Leônidas Marques(PR),15780,371
+Carambeí(PR),23415,692
+Carlópolis(PR),14320,174
+Cascavel(PR),328454,14042
+Castro(PR),71484,2326
+Catanduvas(PR),10189,176
+Centenário do Sul(PR),10827,207
+Cerro Azul(PR),17779,297
+Chopinzinho(PR),19254,842
+Cianorte(PR),82620,2440
+Cidade Gaúcha(PR),12652,445
+Clevelândia(PR),16559,546
+Colombo(PR),243726,6387
+Colorado(PR),24012,487
+Congonhinhas(PR),8818,47
+Conselheiro Mairinck(PR),3860,97
+Contenda(PR),18584,652
+Corbélia(PR),17071,486
+Cornélio Procópio(PR),47845,1186
+Coronel Domingos Soares(PR),7497,325
+Coronel Vivida(PR),20734,713
+Corumbataí do Sul(PR),3219,87
+Cruz Machado(PR),18708,138
+Cruzeiro do Iguaçu(PR),4252,187
+Cruzeiro do Oeste(PR),20932,791
+Cruzeiro do Sul(PR),4469,57
+Cruzmaltina(PR),2950,63
+Curitiba(PR),1933105,66300
+Curiúva(PR),15101,279
+Cândido de Abreu(PR),15018,126
+Céu Azul(PR),11765,287
+Diamante D'Oeste(PR),5253,187
+Diamante do Norte(PR),5087,69
+Diamante do Sul(PR),3439,92
+Dois Vizinhos(PR),40641,2788
+Douradina(PR),8747,146
+Doutor Camargo(PR),5979,270
+Doutor Ulysses(PR),5580,102
+Engenheiro Beltrão(PR),14000,381
+Entre Rios do Oeste(PR),4539,119
+Enéas Marques(PR),5961,298
+Esperança Nova(PR),1698,126
+Espigão Alto do Iguaçu(PR),4117,101
+Farol(PR),3089,31
+Faxinal(PR),17251,445
+Fazenda Rio Grande(PR),100209,4488
+Fernandes Pinheiro(PR),5646,165
+Figueira(PR),7770,74
+Flor da Serra do Sul(PR),4624,129
+Floraí(PR),4929,123
+Floresta(PR),6774,319
+Florestópolis(PR),10548,420
+Flórida(PR),2689,109
+Formosa do Oeste(PR),6578,92
+Foz do Iguaçu(PR),258532,16712
+Foz do Jordão(PR),4650,231
+Francisco Alves(PR),6046,154
+Francisco Beltrão(PR),91093,4592
+Fênix(PR),4762,118
+General Carneiro(PR),13710,120
+Godoy Moreira(PR),2946,8
+Goioerê(PR),28884,252
+Goioxim(PR),7111,165
+Grandes Rios(PR),5618,92
+Guairaçá(PR),6581,109
+Guamiranga(PR),8739,79
+Guapirama(PR),3802,66
+Guaporema(PR),2243,68
+Guaraci(PR),5502,119
+Guaraniaçu(PR),12472,244
+Guarapuava(PR),181504,4247
+Guaraqueçaba(PR),7636,161
+Guaratuba(PR),37067,1346
+Guaíra(PR),33119,714
+Honório Serpa(PR),5211,148
+Ibaiti(PR),31364,564
+Ibema(PR),6352,88
+Ibiporã(PR),54558,1773
+Icaraíma(PR),7904,151
+Iguaraçu(PR),4404,79
+Iguatu(PR),2256,57
+Imbaú(PR),13111,548
+Imbituva(PR),32564,779
+Inajá(PR),3109,61
+Indianópolis(PR),4457,231
+Inácio Martins(PR),11125,168
+Ipiranga(PR),15172,184
+Iporã(PR),13926,185
+Iracema do Oeste(PR),2288,57
+Irati(PR),60727,2279
+Iretama(PR),10169,169
+Itaguajé(PR),4466,86
+Itaipulândia(PR),11176,483
+Itambaracá(PR),6582,125
+Itambé(PR),6108,340
+Itapejara d'Oeste(PR),11964,468
+Itaperuçu(PR),28634,1444
+Itaúna do Sul(PR),2865,61
+Ivaiporã(PR),31984,999
+Ivatuba(PR),3259,124
+Ivaté(PR),8185,101
+Ivaí(PR),13879,222
+Jaboti(PR),5274,65
+Jacarezinho(PR),39378,1352
+Jaguapitã(PR),13620,574
+Jaguariaíva(PR),34857,717
+Jandaia do Sul(PR),21176,792
+Janiópolis(PR),5245,118
+Japira(PR),4994,82
+Japurá(PR),9425,241
+Jardim Alegre(PR),11328,166
+Jardim Olinda(PR),1331,9
+Jataizinho(PR),12588,613
+Jesuítas(PR),8412,217
+Joaquim Távora(PR),11908,246
+Jundiaí do Sul(PR),3292,62
+Juranda(PR),7340,132
+Jussara(PR),7013,194
+Kaloré(PR),4100,234
+Lapa(PR),48163,1671
+Laranjal(PR),5852,13
+Laranjeiras do Sul(PR),32073,501
+Leópolis(PR),3954,159
+Lidianópolis(PR),3310,51
+Lindoeste(PR),4676,177
+Loanda(PR),23086,867
+Lobato(PR),4787,97
+Londrina(PR),569733,20632
+Luiziana(PR),7262,87
+Lunardelli(PR),4794,60
+Lupionópolis(PR),4920,66
+Mallet(PR),13630,120
+Mamborê(PR),13132,252
+Mandaguari(PR),34400,801
+Mandaguaçu(PR),22819,946
+Mandirituba(PR),26869,931
+Manfrinópolis(PR),2571,62
+Mangueirinha(PR),16714,588
+Manoel Ribas(PR),13502,274
+Marechal Cândido Rondon(PR),52944,1936
+Maria Helena(PR),5677,128
+Marialva(PR),35496,1240
+Marilena(PR),7076,89
+Mariluz(PR),10345,294
+Marilândia do Sul(PR),8836,208
+Maringá(PR),423666,19871
+Maripá(PR),5603,99
+Mariópolis(PR),6610,95
+Marmeleiro(PR),14367,609
+Marquinho(PR),4405,31
+Marumbi(PR),4679,112
+Matelândia(PR),17943,1059
+Matinhos(PR),34720,769
+Mato Rico(PR),3272,15
+Mauá da Serra(PR),10601,380
+Medianeira(PR),46198,2715
+Mercedes(PR),5536,83
+Mirador(PR),2213,25
+Miraselva(PR),1806,47
+Missal(PR),10702,350
+Moreira Sales(PR),12121,224
+Morretes(PR),16406,980
+Munhoz de Melo(PR),3984,93
+Nossa Senhora das Graças(PR),4008,94
+Nova Aliança do Ivaí(PR),1543,19
+Nova América da Colina(PR),3445,50
+Nova Aurora(PR),10472,393
+Nova Cantu(PR),5302,39
+Nova Esperança(PR),27904,662
+Nova Esperança do Sudoeste(PR),5046,165
+Nova Fátima(PR),8153,74
+Nova Laranjeiras(PR),11554,95
+Nova Londrina(PR),13213,334
+Nova Olímpia(PR),5806,94
+Nova Prata do Iguaçu(PR),10548,270
+Nova Santa Bárbara(PR),4249,91
+Nova Santa Rosa(PR),8219,175
+Nova Tebas(PR),5649,59
+Novo Itacolomi(PR),2844,120
+Ortigueira(PR),22141,672
+Ourizona(PR),3428,51
+Ouro Verde do Oeste(PR),5996,186
+Paiçandu(PR),41281,1313
+Palmas(PR),50986,1235
+Palmeira(PR),33877,422
+Palmital(PR),13172,139
+Palotina(PR),31846,1685
+Paranacity(PR),11472,87
+Paranaguá(PR),154936,7043
+Paranapoema(PR),3203,36
+Paranavaí(PR),88374,1706
+Paraíso do Norte(PR),13830,265
+Pato Bragado(PR),5610,132
+Pato Branco(PR),82881,1987
+Paula Freitas(PR),5873,55
+Paulo Frontin(PR),7354,29
+Peabiru(PR),13996,344
+Perobal(PR),6127,161
+Pinhais(PR),132157,6333
+Pinhal de São Bento(PR),2731,16
+Pinhalão(PR),6326,29
+Pinhão(PR),32391,467
+Piraquara(PR),113036,4879
+Piraí do Sul(PR),25463,505
+Pitanga(PR),30310,597
+Pitangueiras(PR),3224,92
+Piên(PR),12746,255
+Planaltina do Paraná(PR),4263,103
+Planalto(PR),13479,356
+Ponta Grossa(PR),351736,10084
+Pontal do Paraná(PR),27284,990
+Porecatu(PR),12914,362
+Porto Amazonas(PR),4848,88
+Porto Barreiro(PR),3237,45
+Porto Rico(PR),2559,97
+Porto Vitória(PR),4065,26
+Prado Ferreira(PR),3753,93
+Pranchita(PR),5157,116
+Presidente Castelo Branco(PR),5306,174
+Primeiro de Maio(PR),11123,92
+Prudentópolis(PR),52241,441
+Pérola(PR),11234,526
+Pérola d'Oeste(PR),6347,110
+Quarto Centenário(PR),4512,64
+Quatiguá(PR),7449,143
+Quatro Barras(PR),23559,1179
+Quatro Pontes(PR),4015,152
+Quedas do Iguaçu(PR),34103,876
+Querência do Norte(PR),12206,94
+Quinta do Sol(PR),4573,201
+Quitandinha(PR),19049,598
+Ramilândia(PR),4451,155
+Rancho Alegre(PR),3808,112
+Rancho Alegre D'Oeste(PR),2655,11
+Realeza(PR),16922,454
+Rebouças(PR),14899,133
+Renascença(PR),6802,195
+Reserva(PR),26715,383
+Reserva do Iguaçu(PR),8010,109
+Ribeirão Claro(PR),10668,230
+Ribeirão do Pinhal(PR),13029,333
+Rio Azul(PR),15236,80
+Rio Bom(PR),3203,84
+Rio Bonito do Iguaçu(PR),13269,192
+Rio Branco do Ivaí(PR),4096,48
+Rio Branco do Sul(PR),32397,1910
+Rio Negro(PR),34170,595
+Rolândia(PR),66580,2185
+Roncador(PR),9849,109
+Rondon(PR),9579,345
+Rosário do Ivaí(PR),4786,38
+Sabáudia(PR),6827,287
+Salgado Filho(PR),3580,85
+Salto do Itararé(PR),4935,96
+Salto do Lontra(PR),14785,412
+Santa Amélia(PR),3324,26
+Santa Cecília do Pavão(PR),3334,66
+Santa Cruz de Monte Castelo(PR),7800,98
+Santa Fé(PR),12037,238
+Santa Helena(PR),26490,1240
+Santa Inês(PR),1596,44
+Santa Isabel do Ivaí(PR),8562,222
+Santa Izabel do Oeste(PR),14659,217
+Santa Lúcia(PR),3813,69
+Santa Maria do Oeste(PR),9615,89
+Santa Mariana(PR),11724,249
+Santa Mônica(PR),3981,13
+Santa Tereza do Oeste(PR),10139,294
+Santa Terezinha de Itaipu(PR),23465,898
+Santana do Itararé(PR),4992,83
+Santo Antônio da Platina(PR),45993,840
+Santo Antônio do Caiuá(PR),2641,39
+Santo Antônio do Paraíso(PR),2106,22
+Santo Antônio do Sudoeste(PR),20166,363
+Santo Inácio(PR),5438,201
+Sapopema(PR),6736,86
+Sarandi(PR),96688,2775
+Saudade do Iguaçu(PR),5500,176
+Sengés(PR),19327,373
+Serranópolis do Iguaçu(PR),4495,226
+Sertaneja(PR),5284,159
+Sertanópolis(PR),16369,529
+Siqueira Campos(PR),21016,230
+Sulina(PR),2981,153
+São Carlos do Ivaí(PR),6878,89
+São Jerônimo da Serra(PR),11170,72
+São Jorge d'Oeste(PR),9050,485
+São Jorge do Ivaí(PR),5551,205
+São Jorge do Patrocínio(PR),5641,102
+São José da Boa Vista(PR),6206,178
+São José das Palmeiras(PR),3654,85
+São José dos Pinhais(PR),323340,9502
+São João(PR),10241,370
+São João do Caiuá(PR),5855,63
+São João do Ivaí(PR),10219,279
+São João do Triunfo(PR),15120,39
+São Manoel do Paraná(PR),2160,37
+São Mateus do Sul(PR),46261,780
+São Miguel do Iguaçu(PR),27452,1376
+São Pedro do Iguaçu(PR),5897,143
+São Pedro do Ivaí(PR),10981,222
+São Pedro do Paraná(PR),2313,66
+São Sebastião da Amoreira(PR),8853,195
+São Tomé(PR),5722,159
+Tamarana(PR),14797,334
+Tamboara(PR),5120,81
+Tapejara(PR),16205,344
+Tapira(PR),5539,129
+Teixeira Soares(PR),12367,96
+Telêmaco Borba(PR),78974,4266
+Terra Boa(PR),17094,398
+Terra Rica(PR),16789,132
+Terra Roxa(PR),17481,280
+Tibagi(PR),20522,511
+Tijucas do Sul(PR),16868,480
+Toledo(PR),140635,6734
+Tomazina(PR),7918,109
+Três Barras do Paraná(PR),12040,261
+Tunas do Paraná(PR),8769,154
+Tuneiras do Oeste(PR),8566,233
+Tupãssi(PR),8124,192
+Turvo(PR),13215,261
+Ubiratã(PR),21013,304
+Umuarama(PR),111557,4938
+Uniflor(PR),2605,27
+União da Vitória(PR),57517,1002
+Uraí(PR),11314,197
+Ventania(PR),11892,255
+Vera Cruz do Oeste(PR),8521,281
+Verê(PR),7257,347
+Virmond(PR),4023,55
+Vitorino(PR),6838,196
+Wenceslau Braz(PR),19414,433
+Xambrê(PR),5679,123
+Ângulo(PR),2928,102
+Alto Alegre(RR),15510,829
+Amajari(RR),12796,571
+Boa Vista(RR),399213,50757
+Bonfim(RR),12409,1338
+Cantá(RR),18335,1426
+Caracaraí(RR),21926,1381
+Caroebe(RR),10169,1204
+Iracema(RR),11950,586
+Mucajaí(RR),17853,1486
+Normandia(RR),11290,393
+Pacaraima(RR),17401,1767
+Rorainópolis(RR),30163,1954
+São João da Baliza(RR),8201,906
+São Luiz(RR),7986,278
+Uiramutã(RR),10559,1003
+Alta Floresta D'Oeste(RO),22945,1117
+Alto Alegre dos Parecis(RO),13241,234
+Alto Paraíso(RO),21428,476
+Alvorada D'Oeste(RO),14411,205
+Ariquemes(RO),107863,7241
+Buritis(RO),39654,949
+Cabixi(RO),5312,162
+Cacaulândia(RO),6230,110
+Cacoal(RO),85359,3588
+Campo Novo de Rondônia(RO),14139,264
+Candeias do Jamari(RO),26693,1883
+Castanheiras(RO),3052,96
+Cerejeiras(RO),16323,304
+Chupinguaia(RO),11182,822
+Colorado do Oeste(RO),15882,349
+Corumbiara(RO),7391,55
+Costa Marques(RO),18331,347
+Cujubim(RO),25215,612
+Espigão D'Oeste(RO),32374,680
+Governador Jorge Teixeira(RO),7767,135
+Guajará-Mirim(RO),46174,3543
+Itapuã do Oeste(RO),10458,534
+Jaru(RO),51775,2433
+Ji-Paraná(RO),128969,4456
+Machadinho D'Oeste(RO),39991,1896
+Ministro Andreazza(RO),9660,67
+Mirante da Serra(RO),10947,144
+Monte Negro(RO),15852,321
+Nova Brasilândia D'Oeste(RO),20474,426
+Nova Mamoré(RO),30583,1329
+Nova União(RO),6970,300
+Novo Horizonte do Oeste(RO),8538,74
+Ouro Preto do Oeste(RO),36035,1559
+Parecis(RO),6074,66
+Pimenta Bueno(RO),36660,905
+Pimenteiras do Oeste(RO),2169,212
+Porto Velho(RO),529544,41477
+Presidente Médici(RO),18986,667
+Primavera de Rondônia(RO),2856,27
+Rio Crespo(RO),3764,136
+Rolim de Moura(RO),55058,2138
+Santa Luzia D'Oeste(RO),6495,221
+Seringueiras(RO),11856,139
+São Felipe D'Oeste(RO),5172,106
+São Francisco do Guaporé(RO),20266,384
+São Miguel do Guaporé(RO),23005,987
+Teixeirópolis(RO),4308,92
+Theobroma(RO),10444,122
+Urupá(RO),11467,283
+Vale do Anari(RO),11204,187
+Vale do Paraíso(RO),6825,312
+Vilhena(RO),99854,4461
+Abdon Batista(SC),2563,153
+Abelardo Luz(SC),17904,604
+Agrolândia(SC),10864,337
+Agronômica(SC),5448,195
+Alfredo Wagner(SC),10036,397
+Alto Bela Vista(SC),1937,36
+Anchieta(SC),5638,115
+Angelina(SC),4801,208
+Anita Garibaldi(SC),7133,490
+Anitápolis(SC),3232,126
+Antônio Carlos(SC),8513,739
+Apiúna(SC),10743,326
+Arabutã(SC),4267,105
+Araquari(SC),38129,1499
+Araranguá(SC),68228,5214
+Armazém(SC),8674,576
+Arroio Trinta(SC),3550,180
+Arvoredo(SC),2240,78
+Ascurra(SC),7934,484
+Atalanta(SC),3210,74
+Aurora(SC),5679,201
+Balneário Arroio do Silva(SC),13071,904
+Balneário Barra do Sul(SC),10795,727
+Balneário Camboriú(SC),142295,13934
+Balneário Gaivota(SC),10979,650
+Balneário Piçarras(SC),23147,1824
+Balneário Rincão(SC),12760,703
+Bandeirante(SC),2678,28
+Barra Bonita(SC),1677,38
+Barra Velha(SC),29168,1566
+Bela Vista do Toldo(SC),6337,18
+Belmonte(SC),2706,35
+Benedito Novo(SC),11652,410
+Biguaçu(SC),68481,5732
+Blumenau(SC),357199,24926
+Bocaina do Sul(SC),3474,271
+Bom Jardim da Serra(SC),4743,454
+Bom Jesus(SC),3010,131
+Bom Jesus do Oeste(SC),2142,43
+Bom Retiro(SC),9966,197
+Bombinhas(SC),19769,2212
+Botuverá(SC),5246,304
+Braço do Norte(SC),33450,4140
+Braço do Trombudo(SC),3743,235
+Brunópolis(SC),2420,51
+Brusque(SC),134723,12240
+Caibi(SC),6148,136
+Calmon(SC),3346,14
+Camboriú(SC),82989,6254
+Campo Alegre(SC),11978,387
+Campo Belo do Sul(SC),7016,312
+Campo Erê(SC),8526,418
+Campos Novos(SC),36244,1900
+Canelinha(SC),12240,807
+Canoinhas(SC),54401,1611
+Capinzal(SC),22848,2310
+Capivari de Baixo(SC),24871,2224
+Capão Alto(SC),2525,71
+Catanduvas(SC),10861,580
+Caxambu do Sul(SC),3642,158
+Caçador(SC),78595,2017
+Celso Ramos(SC),2728,134
+Cerro Negro(SC),3124,55
+Chapadão do Lageado(SC),2988,75
+Chapecó(SC),220367,12814
+Cocal do Sul(SC),16684,1427
+Concórdia(SC),74641,4928
+Cordilheira Alta(SC),4453,153
+Coronel Freitas(SC),9981,499
+Coronel Martins(SC),2549,32
+Correia Pinto(SC),12795,708
+Corupá(SC),15909,790
+Criciúma(SC),215186,17554
+Cunha Porã(SC),11086,253
+Cunhataí(SC),1962,20
+Curitibanos(SC),39745,1196
+Descanso(SC),8250,162
+Dionísio Cerqueira(SC),15498,185
+Dona Emma(SC),4146,200
+Doutor Pedrinho(SC),4064,125
+Entre Rios(SC),3203,407
+Ermo(SC),2063,186
+Erval Velho(SC),4412,282
+Faxinal dos Guedes(SC),10667,519
+Flor do Sertão(SC),1582,27
+Florianópolis(SC),500973,40065
+Formosa do Sul(SC),2510,146
+Forquilhinha(SC),26793,1908
+Fraiburgo(SC),36443,1255
+Frei Rogério(SC),2023,69
+Galvão(SC),2873,72
+Garopaba(SC),23078,1201
+Garuva(SC),18145,830
+Gaspar(SC),69639,4734
+Governador Celso Ramos(SC),14471,1273
+Gravatal(SC),11501,1224
+Grão Pará(SC),6569,638
+Guabiruba(SC),23832,1456
+Guaraciaba(SC),10090,327
+Guaramirim(SC),44819,2406
+Guarujá do Sul(SC),5160,35
+Guatambú(SC),4704,257
+Herval d'Oeste(SC),22606,1536
+Ibiam(SC),1957,65
+Ibicaré(SC),3202,106
+Ibirama(SC),18950,889
+Ilhota(SC),14184,875
+Imaruí(SC),10135,695
+Imbituba(SC),44853,2785
+Imbuia(SC),6197,217
+Indaial(SC),69425,4164
+Iomerê(SC),2945,65
+Ipira(SC),4446,124
+Iporã do Oeste(SC),8996,127
+Ipuaçu(SC),7514,560
+Ipumirim(SC),7593,248
+Iraceminha(SC),3976,181
+Irani(SC),10419,385
+Irati(SC),1930,95
+Irineópolis(SC),11222,90
+Itaiópolis(SC),21669,771
+Itajaí(SC),219536,14002
+Itapema(SC),65312,6262
+Itapiranga(SC),16872,470
+Itapoá(SC),20576,901
+Ituporanga(SC),25086,1168
+Itá(SC),6169,264
+Içara(SC),56421,3555
+Jaborá(SC),3936,259
+Jacinto Machado(SC),10416,634
+Jaguaruna(SC),20024,1833
+Jaraguá do Sul(SC),177697,7574
+Jardinópolis(SC),1570,141
+Joaçaba(SC),30118,2143
+Joinville(SC),590466,40795
+José Boiteux(SC),4997,455
+Jupiá(SC),2101,82
+Lacerdópolis(SC),2246,121
+Lages(SC),157544,9713
+Laguna(SC),45814,2507
+Lajeado Grande(SC),1427,61
+Laurentino(SC),6970,519
+Lauro Müller(SC),15244,1172
+Lebon Régis(SC),12107,98
+Leoberto Leal(SC),3041,76
+Lindóia do Sul(SC),4563,311
+Lontras(SC),12130,472
+Luiz Alves(SC),12859,975
+Luzerna(SC),5685,344
+Macieira(SC),1775,15
+Mafra(SC),56292,1363
+Major Gercino(SC),3442,183
+Major Vieira(SC),8103,116
+Maracajá(SC),7293,553
+Maravilha(SC),25762,1390
+Marema(SC),1797,77
+Massaranduba(SC),16916,1044
+Matos Costa(SC),2520,38
+Meleiro(SC),7015,664
+Mirim Doce(SC),2309,88
+Modelo(SC),4209,122
+Mondaí(SC),11742,139
+Monte Carlo(SC),9866,332
+Monte Castelo(SC),8275,92
+Morro Grande(SC),2893,263
+Morro da Fumaça(SC),17796,1831
+Navegantes(SC),81475,3826
+Nova Erechim(SC),5019,238
+Nova Itaberaba(SC),4331,128
+Nova Trento(SC),14549,1126
+Nova Veneza(SC),15166,1352
+Novo Horizonte(SC),2442,53
+Orleans(SC),22912,2340
+Otacílio Costa(SC),18744,1586
+Ouro(SC),7295,589
+Ouro Verde(SC),2217,116
+Paial(SC),1505,57
+Painel(SC),2359,84
+Palhoça(SC),171797,14385
+Palma Sola(SC),7423,251
+Palmeira(SC),2627,117
+Palmitos(SC),16169,575
+Papanduva(SC),19320,265
+Paraíso(SC),3437,18
+Passo de Torres(SC),8823,446
+Passos Maia(SC),4147,123
+Paulo Lopes(SC),7494,604
+Pedras Grandes(SC),3976,199
+Penha(SC),32531,2238
+Peritiba(SC),2787,137
+Pescaria Brava(SC),10091,784
+Petrolândia(SC),5937,146
+Pinhalzinho(SC),20313,1048
+Pinheiro Preto(SC),3555,92
+Piratuba(SC),3854,259
+Planalto Alegre(SC),2870,111
+Pomerode(SC),33447,2264
+Ponte Alta(SC),4682,225
+Ponte Alta do Norte(SC),3414,140
+Ponte Serrada(SC),11593,399
+Porto Belo(SC),21388,1629
+Porto União(SC),35398,546
+Pouso Redondo(SC),17453,759
+Praia Grande(SC),7319,377
+Presidente Castello Branco(SC),1568,195
+Presidente Getúlio(SC),17471,938
+Presidente Nereu(SC),2287,51
+Princesa(SC),2924,38
+Quilombo(SC),9887,454
+Rancho Queimado(SC),2878,155
+Rio Fortuna(SC),4611,331
+Rio Negrinho(SC),42302,1114
+Rio Rufino(SC),2483,88
+Rio das Antas(SC),6205,35
+Rio do Campo(SC),5940,179
+Rio do Oeste(SC),7489,354
+Rio do Sul(SC),71061,3347
+Rio dos Cedros(SC),11676,217
+Riqueza(SC),4598,132
+Rodeio(SC),11551,624
+Romelândia(SC),4786,104
+Salete(SC),7642,356
+Saltinho(SC),3781,67
+Salto Veloso(SC),4718,88
+Sangão(SC),12678,1136
+Santa Cecília(SC),16830,639
+Santa Helena(SC),2223,45
+Santa Rosa de Lima(SC),2142,153
+Santa Rosa do Sul(SC),8358,668
+Santa Terezinha(SC),8787,98
+Santa Terezinha do Progresso(SC),2428,99
+Santiago do Sul(SC),1260,78
+Santo Amaro da Imperatriz(SC),23245,1840
+Saudades(SC),9745,340
+Schroeder(SC),21365,1202
+Seara(SC),17541,868
+Serra Alta(SC),3263,104
+Siderópolis(SC),14007,719
+Sombrio(SC),30374,1752
+Sul Brasil(SC),2461,106
+São Bento do Sul(SC),84507,1790
+São Bernardino(SC),2336,89
+São Bonifácio(SC),2838,273
+São Carlos(SC),11281,207
+São Cristóvão do Sul(SC),5549,97
+São Domingos(SC),9445,476
+São Francisco do Sul(SC),52721,2977
+São Joaquim(SC),26952,797
+São José(SC),246586,21310
+São José do Cedro(SC),13829,248
+São José do Cerrito(SC),8295,255
+São João Batista(SC),37424,2543
+São João do Itaperiú(SC),3733,339
+São João do Oeste(SC),6381,185
+São João do Sul(SC),7297,422
+São Lourenço do Oeste(SC),24076,435
+São Ludgero(SC),13410,1263
+São Martinho(SC),3180,390
+São Miguel da Boa Vista(SC),1820,125
+São Miguel do Oeste(SC),40482,1503
+São Pedro de Alcântara(SC),5823,522
+Taió(SC),18395,910
+Tangará(SC),8676,414
+Tigrinhos(SC),1633,153
+Tijucas(SC),38407,3443
+Timbé do Sul(SC),5348,405
+Timbó(SC),44238,2905
+Timbó Grande(SC),7877,231
+Treviso(SC),3929,375
+Treze Tílias(SC),7840,261
+Treze de Maio(SC),7081,667
+Trombudo Central(SC),7360,447
+Três Barras(SC),19275,663
+Tubarão(SC),105686,10935
+Tunápolis(SC),4543,564
+Turvo(SC),12899,1151
+União do Oeste(SC),2464,86
+Urubici(SC),11235,337
+Urupema(SC),2465,20
+Urussanga(SC),21268,1908
+Vargem(SC),2477,102
+Vargem Bonita(SC),4492,323
+Vargeão(SC),3573,91
+Vidal Ramos(SC),6338,166
+Videira(SC),53065,3040
+Vitor Meireles(SC),4979,146
+Witmarsum(SC),3965,101
+Xanxerê(SC),50982,3595
+Xavantina(SC),3933,163
+Xaxim(SC),28706,1629
+Zortéa(SC),3363,405
+Água Doce(SC),7145,227
+Águas Frias(SC),2366,164
+Águas Mornas(SC),6469,438
+Águas de Chapecó(SC),6486,93
+Aceguá(RS),4901,35
+Agudo(RS),16461,176
+Ajuricaba(RS),7024,367
+Alecrim(RS),5950,46
+Alegrete(RS),73589,1930
+Alegria(RS),3464,141
+Almirante Tamandaré do Sul(RS),1964,54
+Alpestre(RS),6258,92
+Alto Alegre(RS),1638,18
+Alto Feliz(RS),3028,67
+Alvorada(RS),210305,7659
+Amaral Ferrador(RS),7031,106
+Ametista do Sul(RS),7409,117
+André da Rocha(RS),1333,45
+Anta Gorda(RS),5981,238
+Antônio Prado(RS),13050,942
+Arambaré(RS),3581,52
+Araricá(RS),5698,265
+Aratiba(RS),6235,186
+Arroio Grande(RS),18293,294
+Arroio do Meio(RS),20805,958
+Arroio do Padre(RS),2937,68
+Arroio do Sal(RS),10065,347
+Arroio do Tigre(RS),13373,174
+Arroio dos Ratos(RS),14151,287
+Arvorezinha(RS),10424,281
+Augusto Pestana(RS),6661,76
+Bagé(RS),121143,2481
+Balneário Pinhal(RS),14068,349
+Barra Funda(RS),2539,184
+Barra do Guarita(RS),3248,63
+Barra do Quaraí(RS),4215,144
+Barra do Ribeiro(RS),13491,268
+Barra do Rio Azul(RS),1690,20
+Barracão(RS),5275,129
+Barros Cassal(RS),11199,213
+Barão(RS),6171,171
+Barão de Cotegipe(RS),6623,295
+Barão do Triunfo(RS),7487,149
+Benjamin Constant do Sul(RS),1994,118
+Bento Gonçalves(RS),120454,6463
+Boa Vista das Missões(RS),2098,11
+Boa Vista do Buricá(RS),6712,251
+Boa Vista do Cadeado(RS),2470,20
+Boa Vista do Incra(RS),2603,41
+Boa Vista do Sul(RS),2783,101
+Bom Jesus(RS),11349,336
+Bom Princípio(RS),14055,573
+Bom Progresso(RS),1942,21
+Bom Retiro do Sul(RS),12328,379
+Boqueirão do Leão(RS),7714,140
+Bossoroca(RS),6279,105
+Bozano(RS),2123,43
+Braga(RS),3353,26
+Brochier(RS),5074,81
+Butiá(RS),20941,580
+Cacequi(RS),12561,78
+Cachoeira do Sul(RS),82201,1455
+Cachoeirinha(RS),130293,5309
+Cacique Doble(RS),5065,159
+Caibaté(RS),4846,19
+Caiçara(RS),4743,141
+Camaquã(RS),66261,2406
+Camargo(RS),2733,117
+Cambará do Sul(RS),6431,224
+Campestre da Serra(RS),3388,73
+Campina das Missões(RS),5474,102
+Campinas do Sul(RS),5454,213
+Campo Bom(RS),66712,4826
+Campo Novo(RS),4484,54
+Campos Borges(RS),3320,84
+Candelária(RS),31365,479
+Candiota(RS),9584,204
+Canela(RS),44998,1973
+Canguçu(RS),56045,807
+Canoas(RS),346616,13737
+Canudos do Vale(RS),1716,17
+Capela de Santana(RS),11940,84
+Capitão(RS),2757,161
+Capivari do Sul(RS),4660,255
+Capão Bonito do Sul(RS),1654,38
+Capão da Canoa(RS),53049,2055
+Capão do Cipó(RS),3651,27
+Capão do Leão(RS),25354,654
+Carazinho(RS),62110,2480
+Caraá(RS),8270,271
+Carlos Barbosa(RS),29833,1598
+Carlos Gomes(RS),1377,48
+Casca(RS),9031,562
+Caseiros(RS),3202,88
+Catuípe(RS),8774,221
+Caxias do Sul(RS),510906,18173
+Caçapava do Sul(RS),33624,847
+Centenário(RS),2891,39
+Cerrito(RS),6091,120
+Cerro Branco(RS),4691,14
+Cerro Grande(RS),2311,20
+Cerro Grande do Sul(RS),12239,103
+Cerro Largo(RS),14133,257
+Chapada(RS),9269,213
+Charqueadas(RS),40789,1444
+Charrua(RS),3279,228
+Chiapetta(RS),3756,88
+Chuvisca(RS),5441,24
+Chuí(RS),6704,83
+Cidreira(RS),16254,461
+Ciríaco(RS),4747,219
+Colinas(RS),2438,166
+Colorado(RS),3175,127
+Condor(RS),6753,280
+Constantina(RS),9911,325
+Coqueiro Baixo(RS),1501,27
+Coqueiros do Sul(RS),2306,20
+Coronel Barros(RS),2519,65
+Coronel Bicaco(RS),7325,189
+Coronel Pilar(RS),1628,41
+Cotiporã(RS),3853,245
+Coxilha(RS),2756,139
+Crissiumal(RS),13448,165
+Cristal(RS),8009,223
+Cristal do Sul(RS),2847,48
+Cruz Alta(RS),60299,2635
+Cruzaltense(RS),1833,55
+Cruzeiro do Sul(RS),12348,406
+Cândido Godói(RS),6198,106
+David Canabarro(RS),4740,186
+Derrubadas(RS),2805,95
+Dezesseis de Novembro(RS),2427,12
+Dilermando de Aguiar(RS),3014,25
+Dois Irmãos(RS),32671,1063
+Dois Irmãos das Missões(RS),2026,52
+Dois Lajeados(RS),3400,106
+Dom Feliciano(RS),15414,120
+Dom Pedrito(RS),38461,438
+Dom Pedro de Alcântara(RS),2534,18
+Dona Francisca(RS),3041,23
+Doutor Maurício Cardoso(RS),4549,85
+Doutor Ricardo(RS),1983,73
+Eldorado do Sul(RS),41285,1671
+Encantado(RS),22706,773
+Encruzilhada do Sul(RS),25877,341
+Engenho Velho(RS),1034,31
+Entre Rios do Sul(RS),2792,80
+Entre-Ijuís(RS),8475,443
+Erebango(RS),2991,110
+Erechim(RS),105862,5769
+Ernestina(RS),3168,48
+Erval Grande(RS),4859,85
+Erval Seco(RS),6912,98
+Esmeralda(RS),3282,65
+Esperança do Sul(RS),2926,103
+Espumoso(RS),15588,663
+Estação(RS),5958,315
+Esteio(RS),83202,4565
+Estrela(RS),34116,1302
+Estrela Velha(RS),3655,18
+Estância Velha(RS),50022,1932
+Eugênio de Castro(RS),2396,85
+Fagundes Varela(RS),2731,69
+Farroupilha(RS),72331,2956
+Faxinal do Soturno(RS),6677,86
+Faxinalzinho(RS),2315,78
+Fazenda Vilanova(RS),4533,93
+Feliz(RS),13547,630
+Flores da Cunha(RS),30745,1123
+Floriano Peixoto(RS),1766,57
+Fontoura Xavier(RS),10304,234
+Formigueiro(RS),6664,160
+Forquetinha(RS),2412,18
+Fortaleza dos Valos(RS),4320,187
+Frederico Westphalen(RS),31313,1418
+Garibaldi(RS),35070,2196
+Garruchos(RS),2924,9
+Gaurama(RS),5534,176
+General Câmara(RS),8385,206
+Gentil(RS),1634,64
+Getúlio Vargas(RS),16212,797
+Giruá(RS),16004,670
+Glorinha(RS),8098,227
+Gramado(RS),36232,3070
+Gramado Xavier(RS),4325,74
+Gramado dos Loureiros(RS),2082,74
+Gravataí(RS),281519,8893
+Guabiju(RS),1503,124
+Guaporé(RS),25727,1443
+Guarani das Missões(RS),7537,75
+Guaíba(RS),98143,2532
+Harmonia(RS),4866,186
+Herval(RS),6821,125
+Herveiras(RS),3018,17
+Horizontina(RS),19329,641
+Hulha Negra(RS),6776,74
+Humaitá(RS),4762,34
+Ibarama(RS),4406,49
+Ibiaçá(RS),4709,273
+Ibiraiaras(RS),7262,342
+Ibirapuitã(RS),4013,102
+Ibirubá(RS),20350,1481
+Igrejinha(RS),36899,1682
+Ijuí(RS),83475,3115
+Ilópolis(RS),4078,48
+Imbé(RS),22800,1107
+Imigrante(RS),3120,133
+Independência(RS),6167,177
+Inhacorá(RS),2226,49
+Ipiranga do Sul(RS),1889,26
+Ipê(RS),6640,299
+Iraí(RS),7241,111
+Itaara(RS),5499,163
+Itacurubi(RS),3465,29
+Itapuca(RS),2094,39
+Itaqui(RS),37620,841
+Itati(RS),2419,56
+Itatiba do Sul(RS),3324,94
+Ivorá(RS),1910,7
+Ivoti(RS),24293,969
+Jaboticaba(RS),3810,35
+Jacuizinho(RS),2692,29
+Jacutinga(RS),3561,128
+Jaguari(RS),10848,265
+Jaguarão(RS),26680,338
+Jaquirana(RS),3716,87
+Jari(RS),3503,7
+Jóia(RS),8560,210
+Júlio de Castilhos(RS),19293,482
+Lagoa Bonita do Sul(RS),2903,7
+Lagoa Vermelha(RS),27807,1082
+Lagoa dos Três Cantos(RS),1609,46
+Lagoão(RS),6452,34
+Lajeado(RS),84014,6023
+Lajeado do Bugre(RS),2564,94
+Lavras do Sul(RS),7480,72
+Liberato Salzano(RS),5219,67
+Lindolfo Collor(RS),6054,204
+Linha Nova(RS),1714,39
+Machadinho(RS),5445,282
+Mampituba(RS),2981,145
+Manoel Viana(RS),7299,156
+Maquiné(RS),6714,223
+Maratá(RS),2691,61
+Marau(RS),44161,2978
+Marcelino Ramos(RS),4402,84
+Mariana Pimentel(RS),3885,44
+Mariano Moro(RS),2031,90
+Marques de Souza(RS),4009,80
+Mata(RS),4823,4
+Mato Castelhano(RS),2540,113
+Mato Leitão(RS),4515,161
+Mato Queimado(RS),1648,14
+Maximiliano de Almeida(RS),4377,159
+Maçambará(RS),4587,57
+Minas do Leão(RS),8075,140
+Miraguaí(RS),4925,92
+Montauri(RS),1453,142
+Monte Alegre dos Campos(RS),3226,44
+Monte Belo do Sul(RS),2548,98
+Montenegro(RS),65264,2243
+Mormaço(RS),3085,69
+Morrinhos do Sul(RS),2949,102
+Morro Redondo(RS),6568,66
+Morro Reuter(RS),6407,218
+Mostardas(RS),12804,194
+Muitos Capões(RS),3162,44
+Muliterno(RS),1893,88
+Muçum(RS),4954,318
+Nicolau Vergueiro(RS),1682,16
+Nonoai(RS),11695,417
+Nova Alvorada(RS),3625,181
+Nova Araçá(RS),4759,719
+Nova Bassano(RS),9916,673
+Nova Boa Vista(RS),1775,112
+Nova Bréscia(RS),3330,110
+Nova Candelária(RS),2698,111
+Nova Esperança do Sul(RS),5352,100
+Nova Hartz(RS),21615,860
+Nova Palma(RS),6512,70
+Nova Petrópolis(RS),21353,844
+Nova Prata(RS),27257,1376
+Nova Pádua(RS),2553,114
+Nova Ramada(RS),2242,57
+Nova Roma do Sul(RS),3689,86
+Nova Santa Rita(RS),29300,933
+Novo Barreiro(RS),4164,366
+Novo Cabrais(RS),4196,47
+Novo Hamburgo(RS),246748,11489
+Novo Machado(RS),3323,24
+Novo Tiradentes(RS),2211,10
+Novo Xingu(RS),1719,14
+Não-Me-Toque(RS),17624,764
+Osório(RS),45994,4027
+Paim Filho(RS),3828,197
+Palmares do Sul(RS),11318,182
+Palmeira das Missões(RS),33303,1479
+Palmitinho(RS),7057,111
+Panambi(RS),43667,1078
+Pantano Grande(RS),9174,240
+Paraí(RS),7657,560
+Paraíso do Sul(RS),7611,91
+Pareci Novo(RS),3837,197
+Parobé(RS),58272,2566
+Passa Sete(RS),5702,41
+Passo Fundo(RS),203275,12377
+Passo do Sobrado(RS),6535,80
+Paulo Bento(RS),2293,125
+Paverama(RS),8487,234
+Pedras Altas(RS),1982,5
+Pedro Osório(RS),7730,201
+Pejuçara(RS),3874,121
+Pelotas(RS),342405,8867
+Picada Café(RS),5742,121
+Pinhal(RS),2579,67
+Pinhal Grande(RS),4350,4
+Pinhal da Serra(RS),1941,37
+Pinheirinho do Vale(RS),4871,84
+Pinheiro Machado(RS),12271,209
+Pinto Bandeira(RS),3003,72
+Pirapó(RS),2304,41
+Piratini(RS),20663,126
+Planalto(RS),10084,233
+Ponte Preta(RS),1547,83
+Pontão(RS),3904,67
+Porto Alegre(RS),1483771,64762
+Porto Lucena(RS),4678,102
+Porto Mauá(RS),2374,59
+Porto Vera Cruz(RS),1360,18
+Porto Xavier(RS),10246,439
+Portão(RS),37079,1048
+Pouso Novo(RS),1639,29
+Poço das Antas(RS),2098,112
+Presidente Lucena(RS),2901,133
+Progresso(RS),6244,152
+Protásio Alves(RS),1947,52
+Putinga(RS),3919,106
+Quaraí(RS),22687,101
+Quatro Irmãos(RS),1849,35
+Quevedos(RS),2788,55
+Quinze de Novembro(RS),3796,107
+Redentora(RS),11549,342
+Relvado(RS),2090,34
+Restinga Sêca(RS),15789,206
+Rio Grande(RS),211005,7337
+Rio Pardo(RS),38275,655
+Rio dos Índios(RS),2752,49
+Riozinho(RS),4653,127
+Roca Sales(RS),11393,266
+Rodeio Bonito(RS),5867,97
+Rolador(RS),2323,53
+Rolante(RS),21349,1039
+Ronda Alta(RS),10601,295
+Rondinha(RS),5130,126
+Roque Gonzales(RS),6847,120
+Rosário do Sul(RS),39422,1610
+Sagrada Família(RS),2609,138
+Saldanha Marinho(RS),2650,74
+Salto do Jacuí(RS),12449,341
+Salvador das Missões(RS),2733,82
+Salvador do Sul(RS),7799,157
+Sananduva(RS),16270,865
+Sant'Ana do Livramento(RS),77027,1339
+Santa Bárbara do Sul(RS),7994,404
+Santa Cecília do Sul(RS),1639,288
+Santa Clara do Sul(RS),6603,117
+Santa Cruz do Sul(RS),130416,3378
+Santa Margarida do Sul(RS),2562,34
+Santa Maria(RS),282123,10416
+Santa Maria do Herval(RS),6331,198
+Santa Rosa(RS),73254,3745
+Santa Tereza(RS),1729,94
+Santa Vitória do Palmar(RS),29676,765
+Santana da Boa Vista(RS),8098,26
+Santiago(RS),49425,1377
+Santo Antônio da Patrulha(RS),42894,1812
+Santo Antônio das Missões(RS),10175,79
+Santo Antônio do Palma(RS),2128,57
+Santo Antônio do Planalto(RS),2019,42
+Santo Augusto(RS),13885,311
+Santo Cristo(RS),14257,213
+Santo Expedito do Sul(RS),2324,45
+Santo Ângelo(RS),77593,2713
+Sapiranga(RS),81734,4053
+Sapucaia do Sul(RS),141075,4796
+Sarandi(RS),24489,1408
+Seberi(RS),10750,704
+Sede Nova(RS),2907,32
+Segredo(RS),7421,44
+Selbach(RS),5100,203
+Senador Salgado Filho(RS),2779,138
+Sentinela do Sul(RS),5581,68
+Serafina Corrêa(RS),17502,1176
+Sertão(RS),5415,186
+Sertão Santana(RS),6486,170
+Sete de Setembro(RS),1970,44
+Severiano de Almeida(RS),3657,159
+Silveira Martins(RS),2384,22
+Sinimbu(RS),10172,41
+Sobradinho(RS),14967,275
+Soledade(RS),31002,757
+São Borja(RS),60282,1723
+São Domingos do Sul(RS),3074,147
+São Francisco de Assis(RS),18335,474
+São Francisco de Paula(RS),21710,128
+São Gabriel(RS),62105,2117
+São Jerônimo(RS),24248,408
+São Jorge(RS),2824,167
+São José das Missões(RS),2537,102
+São José do Herval(RS),1971,44
+São José do Hortêncio(RS),4804,167
+São José do Inhacorá(RS),2073,183
+São José do Norte(RS),27568,482
+São José do Ouro(RS),6933,339
+São José do Sul(RS),2408,68
+São José dos Ausentes(RS),3527,189
+São João da Urtiga(RS),4657,239
+São João do Polêsine(RS),2552,27
+São Leopoldo(RS),236835,11420
+São Lourenço do Sul(RS),43582,816
+São Luiz Gonzaga(RS),33468,829
+São Marcos(RS),21556,829
+São Martinho(RS),5426,380
+São Martinho da Serra(RS),3234,26
+São Miguel das Missões(RS),7673,102
+São Nicolau(RS),5265,27
+São Paulo das Missões(RS),5790,91
+São Pedro da Serra(RS),3801,77
+São Pedro das Missões(RS),2009,39
+São Pedro do Butiá(RS),2947,130
+São Pedro do Sul(RS),16198,276
+São Sebastião do Caí(RS),25685,1059
+São Sepé(RS),23621,556
+São Valentim(RS),3299,99
+São Valentim do Sul(RS),2242,65
+São Valério do Sul(RS),2727,10
+São Vendelino(RS),2243,71
+São Vicente do Sul(RS),8721,10
+Sério(RS),1962,30
+Tabaí(RS),4719,249
+Tapejara(RS),24111,1464
+Tapera(RS),10584,370
+Tapes(RS),17300,357
+Taquara(RS),57466,1673
+Taquari(RS),26862,1253
+Taquaruçu do Sul(RS),3072,45
+Tavares(RS),5481,46
+Tenente Portela(RS),13485,582
+Terra de Areia(RS),11204,157
+Teutônia(RS),33232,1800
+Tio Hugo(RS),3030,94
+Tiradentes do Sul(RS),5704,38
+Toropi(RS),2806,33
+Torres(RS),38732,2434
+Tramandaí(RS),51715,1186
+Travesseiro(RS),2336,68
+Trindade do Sul(RS),5802,227
+Triunfo(RS),29538,706
+Três Arroios(RS),2668,71
+Três Cachoeiras(RS),11053,339
+Três Coroas(RS),28220,1011
+Três Forquilhas(RS),2697,212
+Três Palmeiras(RS),4271,128
+Três Passos(RS),23906,1181
+Três de Maio(RS),23906,1042
+Tucunduva(RS),5678,168
+Tunas(RS),4569,44
+Tupanci do Sul(RS),1472,17
+Tupanciretã(RS),23948,380
+Tupandi(RS),4855,184
+Tuparendi(RS),7893,357
+Turuçu(RS),3438,38
+Ubiretama(RS),2015,3
+Unistalda(RS),2338,40
+União da Serra(RS),1154,10
+Uruguaiana(RS),126970,2996
+Vacaria(RS),66218,2198
+Vale Real(RS),5913,186
+Vale Verde(RS),3497,47
+Vale do Sol(RS),11781,50
+Vanini(RS),2113,156
+Venâncio Aires(RS),71554,2688
+Vera Cruz(RS),26863,430
+Veranópolis(RS),26241,1029
+Vespasiano Corrêa(RS),1815,106
+Viadutos(RS),4756,98
+Viamão(RS),255224,3741
+Vicente Dutra(RS),4670,50
+Victor Graeff(RS),2882,98
+Vila Flores(RS),3385,241
+Vila Lângaro(RS),2091,93
+Vila Maria(RS),4358,247
+Vila Nova do Sul(RS),4280,57
+Vista Alegre(RS),2752,45
+Vista Alegre do Prata(RS),1561,44
+Vista Gaúcha(RS),2851,83
+Vitória das Missões(RS),3133,66
+Westfália(RS),3014,118
+Xangri-lá(RS),16408,257
+Água Santa(RS),3748,231
+Áurea(RS),3554,69
+Amparo de São Francisco(SE),2374,76
+Aquidabã(SE),21563,782
+Aracaju(SE),657013,50678
+Arauá(SE),10056,400
+Areia Branca(SE),18542,854
+Barra dos Coqueiros(SE),30407,1904
+Boquim(SE),26816,741
+Brejo Grande(SE),8309,184
+Campo do Brito(SE),18109,1022
+Canhoba(SE),4008,93
+Canindé de São Francisco(SE),29900,754
+Capela(SE),34213,1045
+Carira(SE),22082,1067
+Carmópolis(SE),16634,340
+Cedro de São João(SE),5897,490
+Cristinápolis(SE),17874,398
+Cumbe(SE),3987,91
+Divina Pastora(SE),5138,423
+Estância(SE),69184,3173
+Feira Nova(SE),5584,91
+Frei Paulo(SE),15421,580
+Gararu(SE),11604,80
+General Maynard(SE),3346,149
+Graccho Cardoso(SE),5818,136
+Ilha das Flores(SE),8520,224
+Indiaroba(SE),17957,179
+Itabaiana(SE),95427,5319
+Itabaianinha(SE),41928,1137
+Itabi(SE),4903,45
+Itaporanga d'Ajuda(SE),34356,1264
+Japaratuba(SE),18743,433
+Japoatã(SE),13434,115
+Lagarto(SE),104408,3256
+Laranjeiras(SE),29826,380
+Macambira(SE),6919,204
+Malhada dos Bois(SE),3682,127
+Malhador(SE),12618,475
+Maruim(SE),17213,400
+Moita Bonita(SE),11335,751
+Monte Alegre de Sergipe(SE),15031,333
+Muribeca(SE),7625,93
+Neópolis(SE),18719,479
+Nossa Senhora Aparecida(SE),8796,223
+Nossa Senhora da Glória(SE),36924,1381
+Nossa Senhora das Dores(SE),26629,878
+Nossa Senhora de Lourdes(SE),6483,117
+Nossa Senhora do Socorro(SE),183628,4959
+Pacatuba(SE),14428,357
+Pedra Mole(SE),3261,80
+Pedrinhas(SE),9602,191
+Pinhão(SE),6576,101
+Pirambu(SE),9280,118
+Porto da Folha(SE),28596,745
+Poço Redondo(SE),34775,286
+Poço Verde(SE),23728,781
+Propriá(SE),29626,1453
+Riachuelo(SE),10213,410
+Riachão do Dantas(SE),19805,644
+Ribeirópolis(SE),18652,542
+Rosário do Catete(SE),10855,356
+Salgado(SE),19998,249
+Santa Luzia do Itanhy(SE),14035,288
+Santa Rosa de Lima(SE),3913,146
+Santana do São Francisco(SE),7780,235
+Santo Amaro das Brotas(SE),12102,321
+Simão Dias(SE),40484,1388
+Siriri(SE),8893,423
+São Cristóvão(SE),90072,3079
+São Domingos(SE),11137,304
+São Francisco(SE),3724,104
+São Miguel do Aleixo(SE),3930,219
+Telha(SE),3227,240
+Tobias Barreto(SE),52191,1845
+Tomar do Geru(SE),13536,331
+Umbaúba(SE),25294,867
+Abreulândia(TO),2579,100
+Aguiarnópolis(TO),6733,461
+Aliança do Tocantins(TO),5390,195
+Almas(TO),7055,124
+Alvorada(TO),8412,569
+Ananás(TO),9549,647
+Angico(TO),3433,159
+Aparecida do Rio Negro(TO),4795,114
+Aragominas(TO),5758,309
+Araguacema(TO),7086,71
+Araguanã(TO),5729,179
+Araguatins(TO),35761,1113
+Araguaçu(TO),8517,552
+Araguaína(TO),180470,17475
+Arapoema(TO),6643,153
+Arraias(TO),10567,162
+Augustinópolis(TO),18412,763
+Aurora do Tocantins(TO),3757,58
+Axixá do Tocantins(TO),9756,581
+Babaçulândia(TO),10664,429
+Bandeirantes do Tocantins(TO),3553,100
+Barra do Ouro(TO),4591,79
+Barrolândia(TO),5632,239
+Bernardo Sayão(TO),4459,115
+Bom Jesus do Tocantins(TO),4894,101
+Brasilândia do Tocantins(TO),2201,67
+Brejinho de Nazaré(TO),5497,115
+Buriti do Tocantins(TO),11348,303
+Cachoeirinha(TO),2275,41
+Campos Lindos(TO),10116,292
+Cariri do Tocantins(TO),4382,231
+Carmolândia(TO),2580,98
+Carrasco Bonito(TO),4095,268
+Caseara(TO),5369,132
+Centenário(TO),2905,119
+Chapada da Natividade(TO),3333,64
+Chapada de Areia(TO),1406,82
+Colinas do Tocantins(TO),35424,4887
+Colméia(TO),8205,305
+Combinado(TO),4852,226
+Conceição do Tocantins(TO),4105,36
+Couto Magalhães(TO),5588,132
+Cristalândia(TO),7289,163
+Crixás do Tocantins(TO),1722,68
+Darcinópolis(TO),6097,443
+Dianópolis(TO),22139,484
+Divinópolis do Tocantins(TO),6900,324
+Dois Irmãos do Tocantins(TO),7198,96
+Dueré(TO),4686,122
+Esperantina(TO),10996,353
+Figueirópolis(TO),5263,336
+Filadélfia(TO),8856,332
+Formoso do Araguaia(TO),18440,1332
+Fátima(TO),3835,228
+Goianorte(TO),5123,131
+Goiatins(TO),13019,632
+Guaraí(TO),25923,1613
+Gurupi(TO),86647,4789
+Ipueiras(TO),2015,34
+Itacajá(TO),7433,508
+Itaguatins(TO),5864,171
+Itapiratins(TO),3777,215
+Itaporã do Tocantins(TO),2427,134
+Jaú do Tocantins(TO),3849,86
+Juarina(TO),2193,55
+Lagoa da Confusão(TO),13357,721
+Lagoa do Tocantins(TO),4316,71
+Lajeado(TO),3134,68
+Lavandeira(TO),1923,37
+Lizarda(TO),3740,87
+Luzinópolis(TO),3108,146
+Marianópolis do Tocantins(TO),5175,100
+Mateiros(TO),2684,39
+Maurilândia do Tocantins(TO),3426,115
+Miracema do Tocantins(TO),18248,896
+Miranorte(TO),13434,786
+Monte Santo do Tocantins(TO),2279,57
+Monte do Carmo(TO),7947,138
+Muricilândia(TO),3551,125
+Natividade(TO),9244,403
+Nazaré(TO),3898,257
+Nova Olinda(TO),11819,494
+Nova Rosalândia(TO),4260,151
+Novo Acordo(TO),4342,125
+Novo Alegre(TO),2332,15
+Novo Jardim(TO),2722,70
+Oliveira de Fátima(TO),1112,66
+Palmas(TO),299127,20822
+Palmeirante(TO),6026,384
+Palmeiras do Tocantins(TO),6658,366
+Palmeirópolis(TO),7659,259
+Paranã(TO),10449,157
+Paraíso do Tocantins(TO),51252,2763
+Pau D'Arco(TO),4849,173
+Pedro Afonso(TO),13578,803
+Peixe(TO),11749,291
+Pequizeiro(TO),5477,209
+Pindorama do Tocantins(TO),4447,62
+Piraquê(TO),3028,49
+Pium(TO),7654,222
+Ponte Alta do Bom Jesus(TO),4596,68
+Ponte Alta do Tocantins(TO),8039,296
+Porto Alegre do Tocantins(TO),3139,26
+Porto Nacional(TO),53010,3148
+Praia Norte(TO),8432,181
+Presidente Kennedy(TO),3684,93
+Pugmil(TO),2688,109
+Recursolândia(TO),4293,109
+Riachinho(TO),4645,155
+Rio Sono(TO),6478,198
+Rio da Conceição(TO),2130,53
+Rio dos Bois(TO),2834,150
+Sampaio(TO),4711,368
+Sandolândia(TO),3375,147
+Santa Fé do Araguaia(TO),7512,347
+Santa Maria do Tocantins(TO),3434,33
+Santa Rita do Tocantins(TO),2365,65
+Santa Rosa do Tocantins(TO),4829,52
+Santa Tereza do Tocantins(TO),2866,148
+Santa Terezinha do Tocantins(TO),2529,108
+Silvanópolis(TO),5403,325
+Sucupira(TO),1966,72
+São Bento do Tocantins(TO),5324,627
+São Félix do Tocantins(TO),1585,88
+São Miguel do Tocantins(TO),12139,343
+São Salvador do Tocantins(TO),3082,35
+São Sebastião do Tocantins(TO),4805,278
+São Valério(TO),3960,39
+Sítio Novo do Tocantins(TO),9029,285
+Tabocão(TO),2589,179
+Taguatinga(TO),16683,177
+Taipas do Tocantins(TO),2148,32
+Talismã(TO),2793,105
+Tocantinópolis(TO),22870,1155
+Tocantínia(TO),7545,424
+Tupirama(TO),1891,115
+Tupiratins(TO),2671,25
+Wanderlândia(TO),11683,449
+Xambioá(TO),11540,1041
+Adamantina(SP),35068,578
+Adolfo(SP),3562,139
+Aguaí(SP),36305,478
+Agudos(SP),37214,974
+Alambari(SP),6025,119
+Alfredo Marcondes(SP),4166,100
+Altair(SP),4160,52
+Altinópolis(SP),16184,253
+Alto Alegre(SP),4099,116
+Alumínio(SP),18628,378
+Alvinlândia(SP),3222,31
+Americana(SP),239597,7206
+Amparo(SP),72195,1521
+Américo Brasiliense(SP),40504,991
+Américo de Campos(SP),5969,375
+Analândia(SP),4995,43
+Andradina(SP),57157,2063
+Angatuba(SP),25228,399
+Anhembi(SP),6724,33
+Anhumas(SP),4115,124
+Aparecida(SP),36157,674
+Aparecida d'Oeste(SP),4196,325
+Apiaí(SP),24374,231
+Aramina(SP),5620,136
+Arandu(SP),6357,61
+Arapeí(SP),2469,14
+Araraquara(SP),236072,7422
+Araras(SP),134236,5869
+Araçariguama(SP),22364,506
+Araçatuba(SP),197016,9394
+Araçoiaba da Serra(SP),34146,816
+Arco-Íris(SP),1791,17
+Arealva(SP),8560,200
+Areias(SP),3886,57
+Areiópolis(SP),11129,176
+Ariranha(SP),9668,194
+Artur Nogueira(SP),54408,1398
+Arujá(SP),89824,2757
+Aspásia(SP),1822,51
+Assis(SP),104386,2069
+Atibaia(SP),142761,2964
+Auriflama(SP),15189,652
+Avanhandava(SP),13649,261
+Avaré(SP),90655,1220
+Avaí(SP),5403,132
+Bady Bassitt(SP),17502,1120
+Balbinos(SP),5735,252
+Bananal(SP),10945,186
+Barbosa(SP),7402,150
+Bariri(SP),35264,1281
+Barra Bonita(SP),36126,1175
+Barra do Chapéu(SP),5724,63
+Barra do Turvo(SP),7659,201
+Barretos(SP),122098,5839
+Barrinha(SP),32812,823
+Barueri(SP),274182,10945
+Barão de Antonina(SP),3469,25
+Bastos(SP),20953,231
+Batatais(SP),62508,941
+Bauru(SP),376818,17500
+Bebedouro(SP),77496,1714
+Bento de Abreu(SP),2980,60
+Bernardino de Campos(SP),11148,130
+Bertioga(SP),63249,2399
+Bilac(SP),8034,157
+Birigui(SP),123638,3917
+Biritiba Mirim(SP),32598,549
+Boa Esperança do Sul(SP),14923,264
+Bocaina(SP),12329,237
+Bofete(SP),11730,179
+Boituva(SP),60997,1571
+Bom Jesus dos Perdões(SP),25448,468
+Bom Sucesso de Itararé(SP),3954,11
+Boracéia(SP),4823,168
+Borborema(SP),16046,335
+Borebi(SP),2653,54
+Borá(SP),837,8
+Botucatu(SP),146497,3705
+Bragança Paulista(SP),168668,4882
+Braúna(SP),5686,120
+Brejo Alegre(SP),2865,105
+Brodowski(SP),24939,714
+Brotas(SP),24403,218
+Buri(SP),19878,388
+Buritama(SP),17144,764
+Buritizal(SP),4481,72
+Bálsamo(SP),9068,596
+Cabreúva(SP),49707,1690
+Cabrália Paulista(SP),4264,106
+Cachoeira Paulista(SP),33327,512
+Caconde(SP),18985,279
+Cafelândia(SP),17767,450
+Caiabu(SP),4191,40
+Caieiras(SP),101470,3221
+Caiuá(SP),5874,67
+Cajamar(SP),76801,1823
+Cajati(SP),28549,2058
+Cajobi(SP),10542,264
+Cajuru(SP),26167,498
+Campina do Monte Alegre(SP),6024,95
+Campinas(SP),1204073,41042
+Campo Limpo Paulista(SP),84650,1520
+Campos Novos Paulista(SP),4965,151
+Campos do Jordão(SP),52088,1341
+Cananéia(SP),12540,287
+Canas(SP),5138,53
+Canitar(SP),5216,78
+Capela do Alto(SP),20706,416
+Capivari(SP),55768,1693
+Capão Bonito(SP),47138,1164
+Caraguatatuba(SP),121532,3717
+Carapicuíba(SP),400927,11484
+Cardoso(SP),12326,230
+Casa Branca(SP),30380,792
+Castilho(SP),21006,668
+Catanduva(SP),121862,4839
+Catiguá(SP),7804,326
+Caçapava(SP),94263,1940
+Cedral(SP),9237,326
+Cerqueira César(SP),19985,283
+Cerquilho(SP),48949,1153
+Cesário Lange(SP),18148,249
+Charqueada(SP),17190,399
+Chavantes(SP),12418,212
+Clementina(SP),8617,187
+Colina(SP),18468,336
+Colômbia(SP),6210,120
+Conchal(SP),28050,779
+Conchas(SP),17896,473
+Cordeirópolis(SP),24528,1903
+Coroados(SP),6058,163
+Coronel Macedo(SP),4681,41
+Corumbataí(SP),4055,133
+Cosmorama(SP),7307,348
+Cosmópolis(SP),72252,2074
+Cotia(SP),249210,5586
+Cravinhos(SP),35292,457
+Cristais Paulista(SP),8631,106
+Cruzeiro(SP),82238,1085
+Cruzália(SP),2073,25
+Cubatão(SP),130705,8007
+Cunha(SP),21547,244
+Cássia dos Coqueiros(SP),2523,71
+Cândido Mota(SP),31280,526
+Cândido Rodrigues(SP),2793,54
+Descalvado(SP),33718,777
+Diadema(SP),423884,11028
+Dirce Reis(SP),1793,27
+Divinolândia(SP),11146,170
+Dobrada(SP),8929,191
+Dois Córregos(SP),27315,388
+Dolcinópolis(SP),2115,79
+Dourado(SP),8873,196
+Dracena(SP),46793,1276
+Duartina(SP),12445,289
+Dumont(SP),9868,583
+Echaporã(SP),6102,53
+Eldorado(SP),15494,545
+Elias Fausto(SP),17772,681
+Elisiário(SP),3651,187
+Embaúba(SP),2452,61
+Embu das Artes(SP),273726,4399
+Embu-Guaçu(SP),69385,1663
+Emilianópolis(SP),3214,104
+Engenheiro Coelho(SP),20773,924
+Espírito Santo do Pinhal(SP),44330,1155
+Espírito Santo do Turvo(SP),4829,57
+Estiva Gerbi(SP),11304,187
+Estrela d'Oeste(SP),8419,580
+Estrela do Norte(SP),2766,74
+Euclides da Cunha Paulista(SP),9371,51
+Fartura(SP),16036,214
+Fernando Prestes(SP),5783,156
+Fernandópolis(SP),69116,3907
+Fernão(SP),1716,38
+Ferraz de Vasconcelos(SP),194276,4978
+Flora Rica(SP),1464,55
+Floreal(SP),2917,53
+Florínea(SP),2676,42
+Flórida Paulista(SP),14640,84
+Franca(SP),353187,7450
+Francisco Morato(SP),175844,3648
+Franco da Rocha(SP),154489,3377
+Gabriel Monteiro(SP),2776,56
+Garça(SP),44390,924
+Gastão Vidigal(SP),4808,85
+Gavião Peixoto(SP),4789,285
+General Salgado(SP),10869,329
+Getulina(SP),11409,320
+Glicério(SP),4815,116
+Guaimbê(SP),5765,81
+Guaiçara(SP),12168,580
+Guapiara(SP),17157,281
+Guapiaçu(SP),21454,1109
+Guaraci(SP),11188,283
+Guarani d'Oeste(SP),2000,59
+Guarantã(SP),6664,158
+Guararapes(SP),32939,908
+Guararema(SP),29798,597
+Guaratinguetá(SP),121798,2236
+Guaraçaí(SP),8323,102
+Guareí(SP),18520,2015
+Guariba(SP),40105,1357
+Guarujá(SP),320459,10543
+Guarulhos(SP),1379182,26916
+Guará(SP),21220,621
+Guatapará(SP),7656,136
+Guaíra(SP),40790,1670
+Guzolândia(SP),5267,97
+Gália(SP),6548,112
+Herculândia(SP),9526,106
+Holambra(SP),14930,505
+Hortolândia(SP),230851,7782
+Iacanga(SP),11710,338
+Iacri(SP),6321,78
+Iaras(SP),9240,75
+Ibaté(SP),35104,554
+Ibirarema(SP),7753,199
+Ibirá(SP),12393,497
+Ibitinga(SP),60033,1960
+Ibiúna(SP),78878,574
+Icém(SP),8243,217
+Iepê(SP),8159,137
+Igarapava(SP),30432,731
+Igaratá(SP),9534,1023
+Igaraçu do Tietê(SP),24674,543
+Iguape(SP),30857,713
+Ilha Comprida(SP),11166,205
+Ilha Solteira(SP),26686,584
+Ilhabela(SP),34970,2741
+Indaiatuba(SP),251627,10385
+Indiana(SP),4885,172
+Indiaporã(SP),3897,44
+Inúbia Paulista(SP),3991,35
+Ipaussu(SP),14971,380
+Iperó(SP),37133,329
+Ipeúna(SP),7546,152
+Ipiguá(SP),5392,330
+Iporanga(SP),4218,90
+Ipuã(SP),16409,653
+Iracemápolis(SP),24235,1466
+Irapuru(SP),8294,117
+Irapuã(SP),7993,182
+Itaberá(SP),17556,371
+Itajobi(SP),15262,524
+Itaju(SP),3835,192
+Itanhaém(SP),101816,2099
+Itaoca(SP),3328,42
+Itapecerica da Serra(SP),175693,3264
+Itapetininga(SP),163901,3449
+Itapeva(SP),94354,1450
+Itapevi(SP),237700,3975
+Itapira(SP),74773,2178
+Itapirapuã Paulista(SP),4241,73
+Itaporanga(SP),15149,264
+Itapura(SP),4906,87
+Itapuí(SP),13992,400
+Itaquaquecetuba(SP),370821,5326
+Itararé(SP),50503,880
+Itariri(SP),17436,512
+Itatiba(SP),120858,2593
+Itatinga(SP),20697,361
+Itaí(SP),27125,208
+Itirapina(SP),18157,439
+Itirapuã(SP),6499,57
+Itobi(SP),7841,451
+Itu(SP),173939,4683
+Itupeva(SP),61252,2289
+Ituverava(SP),41824,688
+Itápolis(SP),43120,683
+Jaborandi(SP),6929,161
+Jaboticabal(SP),77263,1021
+Jacareí(SP),233662,5234
+Jaci(SP),7067,381
+Jacupiranga(SP),17866,595
+Jaguariúna(SP),57488,1457
+Jales(SP),49107,2391
+Jambeiro(SP),6602,101
+Jandira(SP),124937,2328
+Jardinópolis(SP),44380,1088
+Jarinu(SP),30044,579
+Jaú(SP),150252,4112
+Jeriquara(SP),3159,71
+Joanópolis(SP),13220,190
+José Bonifácio(SP),37015,1537
+João Ramalho(SP),4523,133
+Jumirim(SP),3367,101
+Jundiaí(SP),418962,16508
+Junqueirópolis(SP),20679,300
+Juquitiba(SP),31444,1290
+Juquiá(SP),18812,570
+Júlio Mesquita(SP),4776,44
+Lagoinha(SP),4896,76
+Laranjal Paulista(SP),28516,1029
+Lavrinhas(SP),7260,83
+Lavínia(SP),11980,474
+Leme(SP),103391,3189
+Lençóis Paulista(SP),68432,3542
+Limeira(SP),306114,10789
+Lindóia(SP),7980,122
+Lins(SP),78013,3340
+Lorena(SP),88706,1374
+Lourdes(SP),2289,67
+Louveira(SP),48885,1140
+Lucianópolis(SP),2394,15
+Lucélia(SP),21747,127
+Luiziânia(SP),5790,103
+Lupércio(SP),4584,44
+Lutécia(SP),2649,9
+Luís Antônio(SP),14947,369
+Macatuba(SP),17163,1053
+Macaubal(SP),8120,121
+Macedônia(SP),3698,108
+Magda(SP),3119,55
+Mairinque(SP),47150,864
+Mairiporã(SP),100179,2510
+Manduri(SP),9846,181
+Marabá Paulista(SP),5853,62
+Maracaí(SP),14002,204
+Marapoama(SP),3031,93
+Marinópolis(SP),2112,63
+Mariápolis(SP),4084,57
+Martinópolis(SP),26461,444
+Marília(SP),238882,5951
+Matão(SP),83170,1094
+Mauá(SP),472912,10651
+Mendonça(SP),5490,187
+Meridiano(SP),3836,147
+Mesópolis(SP),1908,40
+Miguelópolis(SP),22226,593
+Mineiros do Tietê(SP),12908,370
+Mira Estrela(SP),3086,81
+Miracatu(SP),19779,521
+Mirandópolis(SP),29564,643
+Mirante do Paranapanema(SP),18259,219
+Mirassol(SP),59824,2671
+Mirassolândia(SP),4871,197
+Mococa(SP),68885,1667
+Mogi Guaçu(SP),151888,4027
+Mogi Mirim(SP),93189,2534
+Mogi das Cruzes(SP),445842,11003
+Mombuca(SP),3493,57
+Mongaguá(SP),56702,1005
+Monte Alegre do Sul(SP),8038,84
+Monte Alto(SP),50498,1360
+Monte Aprazível(SP),25087,844
+Monte Azul Paulista(SP),19008,280
+Monte Castelo(SP),4166,135
+Monte Mor(SP),59772,1794
+Monteiro Lobato(SP),4653,82
+Monções(SP),2259,87
+Morro Agudo(SP),32968,1427
+Morungaba(SP),13622,170
+Motuca(SP),4758,74
+Murutinga do Sul(SP),4486,81
+Nantes(SP),3141,58
+Narandiba(SP),4857,169
+Natividade da Serra(SP),6661,36
+Nazaré Paulista(SP),18524,322
+Neves Paulista(SP),8930,306
+Nhandeara(SP),11478,302
+Nipoã(SP),5213,131
+Nova Aliança(SP),6973,326
+Nova Campina(SP),9755,101
+Nova Canaã Paulista(SP),1881,81
+Nova Castilho(SP),1267,24
+Nova Europa(SP),11186,332
+Nova Granada(SP),21500,1156
+Nova Guataporanga(SP),2316,35
+Nova Independência(SP),3969,97
+Nova Luzitânia(SP),4101,99
+Nova Odessa(SP),60174,1789
+Novais(SP),5830,198
+Novo Horizonte(SP),41052,1434
+Nuporanga(SP),7432,127
+Ocauçu(SP),4289,47
+Olímpia(SP),54772,3037
+Onda Verde(SP),4381,276
+Oriente(SP),6515,106
+Orindiúva(SP),7066,343
+Orlândia(SP),44028,1174
+Osasco(SP),698418,18271
+Oscar Bressane(SP),2603,40
+Osvaldo Cruz(SP),32879,377
+Ourinhos(SP),113542,2776
+Ouro Verde(SP),8562,97
+Ouroeste(SP),10361,372
+Pacaembu(SP),14197,405
+Palestina(SP),12957,187
+Palmares Paulista(SP),13275,439
+Palmeira d'Oeste(SP),9283,283
+Palmital(SP),22221,578
+Panorama(SP),15777,163
+Paraguaçu Paulista(SP),45703,904
+Paraibuna(SP),18222,219
+Paranapanema(SP),20197,299
+Paranapuã(SP),4078,143
+Parapuã(SP),10964,141
+Paraíso(SP),6454,175
+Pardinho(SP),6435,251
+Pariquera-Açu(SP),19648,956
+Parisi(SP),2161,129
+Patrocínio Paulista(SP),14670,210
+Paulicéia(SP),7366,79
+Paulistânia(SP),1833,12
+Paulo de Faria(SP),8945,233
+Paulínia(SP),109424,6303
+Pederneiras(SP),46687,1072
+Pedra Bela(SP),6093,105
+Pedranópolis(SP),2494,81
+Pedregulho(SP),16744,107
+Pedreira(SP),47919,716
+Pedrinhas Paulista(SP),3093,42
+Pedro de Toledo(SP),11331,115
+Penápolis(SP),63407,1850
+Pereira Barreto(SP),25669,424
+Pereiras(SP),8668,258
+Peruíbe(SP),68284,1593
+Piacatu(SP),5980,153
+Piedade(SP),55348,1119
+Pilar do Sul(SP),29185,413
+Pindamonhangaba(SP),168328,3014
+Pindorama(SP),17049,639
+Pinhalzinho(SP),15207,170
+Piquerobi(SP),3692,57
+Piquete(SP),13657,180
+Piracaia(SP),27303,635
+Piracicaba(SP),404142,18090
+Piraju(SP),29806,384
+Pirajuí(SP),25492,657
+Pirangi(SP),11417,396
+Pirapora do Bom Jesus(SP),18895,741
+Pirapozinho(SP),27527,1148
+Pirassununga(SP),76409,2070
+Piratininga(SP),13636,392
+Pitangueiras(SP),39719,1501
+Planalto(SP),5237,216
+Platina(SP),3550,74
+Poloni(SP),6059,132
+Pompéia(SP),22014,205
+Pongaí(SP),3416,129
+Pontal(SP),49961,1682
+Pontalinda(SP),4628,87
+Pontes Gestal(SP),2577,149
+Populina(SP),4169,66
+Porangaba(SP),9925,70
+Porto Feliz(SP),53098,1792
+Porto Ferreira(SP),56150,1502
+Potim(SP),24643,379
+Potirendaba(SP),17361,737
+Poá(SP),117452,2696
+Pracinha(SP),4093,98
+Pradópolis(SP),21496,834
+Praia Grande(SP),325073,9201
+Pratânia(SP),5261,66
+Presidente Alves(SP),4094,95
+Presidente Bernardes(SP),13106,442
+Presidente Epitácio(SP),44200,709
+Presidente Prudente(SP),228743,8127
+Presidente Venceslau(SP),39516,698
+Promissão(SP),40432,2105
+Quadra(SP),3804,66
+Quatá(SP),14109,272
+Queiroz(SP),3406,39
+Queluz(SP),13420,364
+Quintana(SP),6638,87
+Rafard(SP),9076,241
+Rancharia(SP),29707,1109
+Redenção da Serra(SP),3851,24
+Regente Feijó(SP),20261,214
+Reginópolis(SP),9621,129
+Registro(SP),56322,2178
+Restinga(SP),7593,88
+Ribeira(SP),3340,68
+Ribeirão Bonito(SP),13219,403
+Ribeirão Branco(SP),16444,327
+Ribeirão Corrente(SP),4718,78
+Ribeirão Grande(SP),7673,184
+Ribeirão Pires(SP),123393,2963
+Ribeirão Preto(SP),703293,30083
+Ribeirão do Sul(SP),4541,73
+Ribeirão dos Índios(SP),2225,41
+Rifaina(SP),3629,57
+Rincão(SP),10799,116
+Rinópolis(SP),9981,108
+Rio Claro(SP),206424,4794
+Rio Grande da Serra(SP),50846,828
+Rio das Pedras(SP),35228,841
+Riolândia(SP),12518,383
+Riversul(SP),5524,27
+Rosana(SP),16643,261
+Roseira(SP),10712,287
+Rubinéia(SP),3148,95
+Rubiácea(SP),3128,53
+Sabino(SP),5590,101
+Sagres(SP),2432,17
+Sales(SP),6331,95
+Sales Oliveira(SP),11890,503
+Salesópolis(SP),17139,291
+Salmourão(SP),5300,31
+Saltinho(SP),8286,183
+Salto(SP),118663,3663
+Salto Grande(SP),9331,165
+Salto de Pirapora(SP),45422,1273
+Sandovalina(SP),4302,118
+Santa Adélia(SP),15480,420
+Santa Albertina(SP),6008,246
+Santa Branca(SP),14788,258
+Santa Bárbara d'Oeste(SP),193475,7422
+Santa Clara d'Oeste(SP),2115,74
+Santa Cruz da Conceição(SP),4503,157
+Santa Cruz da Esperança(SP),2139,22
+Santa Cruz das Palmeiras(SP),34361,1528
+Santa Cruz do Rio Pardo(SP),47673,979
+Santa Ernestina(SP),5599,179
+Santa Fé do Sul(SP),32322,1311
+Santa Gertrudes(SP),26898,1117
+Santa Isabel(SP),57386,1773
+Santa Lúcia(SP),8817,123
+Santa Maria da Serra(SP),6173,132
+Santa Mercedes(SP),2939,14
+Santa Rita d'Oeste(SP),2498,43
+Santa Rita do Passa Quatro(SP),27557,426
+Santa Rosa de Viterbo(SP),26540,501
+Santa Salete(SP),1545,67
+Santana da Ponte Pensa(SP),1487,18
+Santana de Parnaíba(SP),139447,4820
+Santo Anastácio(SP),20878,411
+Santo André(SP),718773,26378
+Santo Antônio da Alegria(SP),6929,158
+Santo Antônio de Posse(SP),23310,822
+Santo Antônio do Aracanguá(SP),8420,179
+Santo Antônio do Jardim(SP),5954,92
+Santo Antônio do Pinhal(SP),6811,121
+Santo Expedito(SP),3111,47
+Santos(SP),433311,31146
+Santópolis do Aguapeí(SP),4777,107
+Sarapuí(SP),10285,35
+Sarutaiá(SP),3638,65
+Sebastianópolis do Sul(SP),3513,81
+Serra Azul(SP),14662,747
+Serra Negra(SP),29229,402
+Serrana(SP),45107,1442
+Sertãozinho(SP),125815,5489
+Sete Barras(SP),12832,628
+Severínia(SP),17496,792
+Silveiras(SP),6302,53
+Socorro(SP),41005,839
+Sorocaba(SP),679378,21625
+Sud Mennucci(SP),7718,291
+Sumaré(SP),282441,7945
+Suzano(SP),297637,7215
+Suzanápolis(SP),3963,151
+São Bento do Sapucaí(SP),10878,116
+São Bernardo do Campo(SP),838936,32901
+São Caetano do Sul(SP),161127,7233
+São Carlos(SP),251983,5224
+São Francisco(SP),2821,80
+São Joaquim da Barra(SP),51888,1456
+São José da Bela Vista(SP),8928,53
+São José do Barreiro(SP),4147,23
+São José do Rio Pardo(SP),54946,920
+São José do Rio Preto(SP),460671,34312
+São José dos Campos(SP),721944,23699
+São João da Boa Vista(SP),91211,1239
+São João das Duas Pontes(SP),2568,82
+São João de Iracema(SP),1922,47
+São João do Pau d'Alho(SP),2105,6
+São Lourenço da Serra(SP),15825,317
+São Luiz do Paraitinga(SP),10687,18
+São Manuel(SP),40954,490
+São Miguel Arcanjo(SP),32931,322
+São Paulo(SP),12252023,382760
+São Pedro(SP),35653,943
+São Pedro do Turvo(SP),7666,166
+São Roque(SP),91016,1557
+São Sebastião(SP),88980,2387
+São Sebastião da Grama(SP),12182,225
+São Simão(SP),15322,229
+São Vicente(SP),365798,9081
+Tabapuã(SP),12407,467
+Tabatinga(SP),16496,437
+Taboão da Serra(SP),289664,9686
+Taciba(SP),6285,125
+Taguaí(SP),13859,526
+Taiaçu(SP),6295,214
+Taiúva(SP),5566,306
+Tambaú(SP),23207,536
+Tanabi(SP),25967,1538
+Tapiratiba(SP),12960,252
+Tapiraí(SP),7807,184
+Taquaral(SP),2811,105
+Taquaritinga(SP),57177,1369
+Taquarituba(SP),23218,550
+Taquarivaí(SP),5852,71
+Tarabai(SP),7468,256
+Tarumã(SP),15000,354
+Tatuí(SP),121766,3677
+Taubaté(SP),314924,7745
+Tejupá(SP),4532,49
+Teodoro Sampaio(SP),23148,593
+Terra Roxa(SP),9370,306
+Tietê(SP),42076,862
+Timburi(SP),2658,27
+Torre de Pedra(SP),2412,25
+Torrinha(SP),10010,208
+Trabiju(SP),1724,33
+Tremembé(SP),47185,591
+Três Fronteiras(SP),5807,279
+Tuiuti(SP),6894,66
+Tupi Paulista(SP),15495,274
+Tupã(SP),65524,1332
+Turiúba(SP),2016,60
+Turmalina(SP),1727,45
+Ubarana(SP),6309,309
+Ubatuba(SP),90799,2424
+Ubirajara(SP),4780,89
+Uchoa(SP),10110,465
+União Paulista(SP),1844,90
+Uru(SP),1165,63
+Urupês(SP),13809,263
+Urânia(SP),9114,474
+Valentim Gentil(SP),13326,881
+Valinhos(SP),129193,3963
+Valparaíso(SP),26480,783
+Vargem(SP),10537,83
+Vargem Grande Paulista(SP),52597,790
+Vargem Grande do Sul(SP),42845,1166
+Vera Cruz(SP),10843,184
+Vinhedo(SP),78728,2717
+Viradouro(SP),18898,590
+Vista Alegre do Alto(SP),8810,237
+Vitória Brasil(SP),1840,39
+Votorantim(SP),122480,3317
+Votuporanga(SP),94547,6445
+Várzea Paulista(SP),121838,2145
+Zacarias(SP),2718,133
+Águas da Prata(SP),8180,85
+Águas de Lindóia(SP),18705,276
+Águas de Santa Bárbara(SP),6075,44
+Águas de São Pedro(SP),3451,76
+Álvares Florence(SP),3679,97
+Álvares Machado(SP),24915,368
+Álvaro de Carvalho(SP),5227,42
+Óleo(SP),2496,6

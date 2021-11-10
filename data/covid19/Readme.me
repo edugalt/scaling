@@ -1,0 +1,67 @@
+This database contains different COVID-19 cases data for NSW state, Brazil, USA and Chile.
+The data corresponds to the cases since the beginning of the pandemic until October 2021.
+
+The city boundary considered on each case is:
+- NSW: Significant Urban Area (SUA). If the postalcode is not associated to any SUA, S2 is used. 
+If no S2 is associated, the Local Government Area (LGA) is used.
+- Brazil: Municipalities
+- USA: Counties
+- Chile: Comunas
+
+Summary of the information used:
+NSW: 
+- File from October 24th contains 73,596 cases by postcode.
+
+Brazil:
+- File from October 22th contains 21,594,660 cases by Municipality.
+
+USA:
+-File from October 13th contains 44,718,686 cases by County.
+
+Chile:
+- File from October 22th contains 2,018,241 cases by Comuna.
+
+The folder downloaded data contains the data obtained from the following sources:
+
+NSW:
+-SA2_SUA_2016_AUST.csv https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.004July%202016?OpenDocument
+-concordance.csv http://52.187.227.242/concorder/
+-postcode_population.csv https://datapacks.censusdata.abs.gov.au/datapacks/
+-SUA_2016_AUST.csv https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.004July%202016?OpenDocument
+-data2021126OctNSW.csv https://data.nsw.gov.au/data/dataset/covid-19-cases-by-location/resource/21304414-1ff1-4243-a5d2-f52778048b29
+
+Chile:
+-Covid-19ChileIncremental092321.csv https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto1
+2021-10-22-CasosConfirmados.csv https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto2
+-Cantidad-de-Personas-por-Sexo-y-Edadmodified.xlsx  
+http://www.censo2017.cl/wp-content/uploads/2017/12/Cantidad-de-Personas-por-Sexo-y-Edad.xlsx
+
+Brazil:
+-cases-brazil-cities.csv https://github.com/wcota/covid19br/blob/master/cases-brazil-cities.csv
+-estimativa_dou_2021edited.csv https://www.ibge.gov.br/en/statistics/social/population/18448-populationestimates.html?=&t=downloads
+-caso_full.csv.gz https://brasil.io/dataset/covid19/files/
+-caso.csv.gz https://brasil.io/dataset/covid19/files/
+
+USA:
+-us-counties.csv https://www.kaggle.com/sudalairajkumar/covid19-in-usa/version/102
+-co-est2020.csv https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
+
+
+The aim of each covid19 notebooks:
+
+in folder scalin/notebooks/_covid19_preprocessing:
+
+-A0_Data_preprocessing.ypynb: take the information the sources listed before, and generate files that 
+account for the information of cases and population.
+
+-A1_Data_preprocessing_with_dated: Uses the information from the sources listed before to generate
+files corresponding to cases at different periods, allowing to calculate the scaling exponent for different
+dates. Only Brazil data is available.
+
+-A2_Create_fitting_file.ipynb: generates a .txt file in the format required for fitting using the 
+Notebook-FittingModels-covid19
+
+in folder scaling/notebooks/_covid19_ZipfsLaw:
+
+-Zipf_Law.ipynb: To plot the population vs population rank according to the city boundary chosen for 
+NSW, Brazil, USA and Chile. 
