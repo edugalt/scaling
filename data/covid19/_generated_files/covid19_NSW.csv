@@ -1,16 +1,17 @@
 cities,population,cases
-Sydney,3581050,43105
+Sydney,3576788,43104
 Sydney (C) (LGA),43058,571
 Penrith (C) (LGA),47150,816
 Canterbury-Bankstown (A) (LGA),68312,2841
 Central Coast,166961,1845
-,15385,30
+Bayside (A) (LGA),27819,256
 Morisset - Cooranbong,33722,194
 Newcastle - Maitland,721483,2941
 Dungog (SA2),17041,77
-Taree Region (SA2),27947,117
+Forster-Tuncurry Region (SA2),20697,141
 Nelson Bay,54760,150
-Williamtown - Medowie - Karuah (SA2),10297,54
+Lemon Tree Passage - Tanilba Bay (SA2),10297,54
+Newcastle (C) (LGA),13005,53
 Scone Region (SA2),11667,86
 Singleton,1668,8
 Muswellbrook,9583,25
@@ -23,27 +24,31 @@ Coonabarabran (SA2),47930,694
 Armidale Region - South (SA2),1423,9
 Glen Innes (SA2),11923,35
 Gunnedah Region (SA2),41290,170
-Bulahdelah - Stroud (SA2),43606,232
+Taree Region (SA2),43606,232
+Bulahdelah - Stroud (SA2),25428,104
 Forster - Tuncurry,23431,97
 Taree,51786,322
 Camden Haven,27385,117
 Kempsey,7589,47
 Kempsey Region (SA2),2132,1
 Port Macquarie,16533,48
-Nambucca Heads Region (SA2),14007,24
+Macksville - Scotts Head (SA2),6092,18
 Nambucca Heads (SA2),2564,2
+Nambucca Heads Region (SA2),7915,6
 Coffs Harbour,51541,116
 Bellingen (SA2),4858,2
-Grafton Region (SA2),3582,1
+Armidale Regional (A) (LGA),25243,11
+Grafton Region (SA2),11179,3
 Maclean - Yamba - Iluka (SA2),22426,7
-Evans Head (SA2),12434,3
-Casino Region (SA2),1144,4
+Casino (SA2),1144,4
+Evans Head (SA2),4837,1
 Kyogle (SA2),10457,16
 Tenterfield (SA2),1174,3
 Ballina Region (SA2),10593,3
 Ballina,3939,3
-Bangalow (SA2),4932,5
+Bangalow (SA2),1904,4
 Lismore,5241,4
+Byron Bay (SA2),3028,1
 Mullumbimby (SA2),4782,17
 Gold Coast - Tweed Heads,73182,166
 Wollongong,236321,243
@@ -52,51 +57,54 @@ Berry - Kangaroo Valley (SA2),7718,3
 Batemans Bay,7619,2
 Moruya - Tuross Head (SA2),295,2
 Ulladulla,4078,6
+Richmond Valley (A) (LGA),15154,15
 Nowra - Bomaderry,3542,1
-Deua - Wadbilliga (SA2),6337,16
-Eurobodalla Hinterland (SA2),811,2
-Merimbula - Tura Beach (SA2),12133,7
-Bega - Tathra (SA2),28675,19
-Douglas Park - Appin (SA2),42689,386
-Illawarra Catchment Reserve (SA2),5025,60
+Deua - Wadbilliga (SA2),35012,35
+Narooma - Bermagui (SA2),811,2
+Bega-Eden Hinterland (SA2),12133,7
+Douglas Park - Appin (SA2),47714,446
 Picton - Tahmoor - Buxton (SA2),16389,151
 Bargo (SA2),10808,23
 Bowral - Mittagong,38468,281
 Southern Highlands (SA2),16774,100
 Goulburn,11429,56
-Yass Region (SA2),41281,284
+Goulburn Region (SA2),38928,373
 Yass (SA2),21017,184
-Goulburn Region (SA2),23501,235
-Young (SA2),31585,175
-Young Region (SA2),15385,30
+Yass Region (SA2),25854,146
+Young Region (SA2),46970,205
 Canberra - Queanbeyan,12848,21
-Queanbeyan Region (SA2),29339,48
-Jindabyne - Berridale (SA2),44452,193
-Cooma Region (SA2),104371,108
-Bombala (SA2),9044,14
+Queanbeyan Region (SA2),17693,42
+Braidwood (SA2),11646,6
+Jindabyne - Berridale (SA2),43395,192
+Cooma Region (SA2),113415,122
+Bombala (SA2),1057,1
 Albury - Wodonga,23555,16
-Albury Region (SA2),36656,726
+Tumbarumba (SA2),2479,26
 Corowa Region (SA2),89103,1624
 Wagga Wagga Region (SA2),11123,114
 Wagga Wagga,299,1
+Albury Region (SA2),34177,700
 Junee (SA2),26332,439
 Temora (SA2),39440,369
 Griffith,1344,10
 Narrandera (SA2),39875,484
 Deniliquin (SA2),11688,63
 Hay (SA2),4402,35
-Tocumwal - Finley - Jerilderie (SA2),24062,100
+Tocumwal - Finley - Jerilderie (SA2),10689,80
 Wentworth-Balranald Region (SA2),15325,55
+Griffith Region (SA2),13373,20
 Mildura - Wentworth,31930,66
 Tumut Region (SA2),2671,2
 Wingecarribee (A) (LGA),3945,4
 Echuca - Moama,29426,96
 Deniliquin Region (SA2),2066,4
 Calga - Kulnura (SA2),4465,2
-Blackheath - Megalong Valley (SA2),13579,19
+Blackheath - Megalong Valley (SA2),10104,18
+Bilpin - Colo - St Albans (SA2),3475,1
 Blue Mountains - South (SA2),2739,6
 Lithgow,2726,5
-Cowra Region (SA2),9134,8
+Cowra Region (SA2),8042,4
+Cowra (SA2),1092,4
 Bathurst,1321,23
 Blayney (SA2),7993,1
 Orange,3234,1
@@ -107,18 +115,18 @@ Nyngan - Warren (SA2),1880,8
 Gilgandra (SA2),16849,185
 Coonamble (SA2),44888,542
 Wollondilly (A) (LGA),4863,41
-Walgett - Lightning Ridge (SA2),85686,1492
+Walgett - Lightning Ridge (SA2),74164,1377
 Cobar (SA2),8597,31
 Far West (SA2),26355,485
 Bourke - Brewarrina (SA2),36294,923
 Lithgow Region (SA2),15971,367
 Mudgee,22720,514
-Orange Region (SA2),40821,340
+Forbes (SA2),30465,284
+Orange Region (SA2),11847,59
 Parkes Region (SA2),5859,16
 Parkes,12743,41
-Forbes (SA2),1491,3
 Broken Hill,1491,3
-Blue Mountains (C) (LGA),39906,91
+Blue Mountains (C) (LGA),53299,134
 Oberon (A) (LGA),4413,34
 Lithgow (C) (LGA),19845,46
 Cowra (A) (LGA),11349,60
