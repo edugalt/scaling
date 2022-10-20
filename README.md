@@ -6,7 +6,8 @@ This repository contains both data and code from the papers:
 
 - Is this scaling non-linear? by
 Jorge C. Leitão, José M. Miotto, Martin Gerlach, and Eduardo G. Altmann, [
-Royal Society Open Science 3, 150649 (2016)](http://rsos.royalsocietypublishing.org/content/3/7/150649)
+Royal Society Open Science 3, 150649 (2016)](https://royalsocietypublishing.org/doi/10.1098/rsos.150649)
+
 
 and also results for COVID-19 data performed by [Jimena Espinoza](https://github.com/jimenaspi)
 
