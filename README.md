@@ -27,7 +27,7 @@ For the application of models based on the attribution of tokens to individuals 
 
 ## Data
 
-The 19 datasets listed below are available for investigation. The column "tag" indicates the key to be used to call this data in our code (e.g., in the [notebook](https://colab.research.google.com/github/edugalt/scaling/blob/master/notebooks/Notebook-FittingModels-Colab.ipynb)). The column "Location?" indicates whether the latitude and logitude is available (Y/N). An example of the analysis of COVID19 cases can be found [here](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-covid19_results.ipynb).
+The 20 datasets listed below are available for investigation. The column "tag" indicates the key to be used to call this data in our code (e.g., in the [notebook](https://colab.research.google.com/github/edugalt/scaling/blob/master/notebooks/Notebook-FittingModels-Colab.ipynb)). The column "Location?" indicates whether the latitude and logitude is available (Y/N). An example of the analysis of COVID19 cases can be found [here](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-covid19_results.ipynb).
 
 | Region: | Tag: | N	| Location? | Year | Description| Source |
 | --------|------|------------------------|--------------------| -------| ------|------|
@@ -48,7 +48,6 @@ The 19 datasets listed below are available for investigation. The column "tag" i
 ||	eurostat_libraries	|597	|N	|2011|Libraries|[Eurostat](https://ec.europa.eu/eurostat/web/cities/data/database)|
 |Germany | 				
 | | germany_gdp |108	| N |	2012 | GDP | [German Statistical Office](https://www.destatis.de/EN/Themes/Countries-Regions/Regional-Statistics/_node.html)|
-
 |OECD|				
 ||	oecd_gdp	|275	|N	|2010|GDP |[OECD](http://dx.doi.org/10.1787/data-00531-en)|
 || oecd_patents	|218	|N	|2008| Patents filed |[OECD](http://dx.doi.org/10.1787/data-00531-en)|

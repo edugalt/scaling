@@ -1,0 +1,12 @@
+GDP for german cities in 2012
+
+Data on gdp, and gdp per capita (from which we can infer the population) is available from the "Volkswirtschaftliche Gesamtrechnungen (VGR)" (= national economic calculations). We get the gdp ("BIP") for each administrative unit, which can be a county ('Landkreis'), a city ('kreisfreie Stadt'), or a city-state ('Stadtstaat', .e.g. Berlin, Hamburg). Note: the administrative disctinction into these three units is not trivial, e.g. http://de.wikipedia.org/wiki/Liste_der_kreisfreien_St%C3%A4dte_in_Deutschland
+
+https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/VGRderLaender/VGR_KreisergebnisseBand1.html
+
+We make two tables:
+- GERcounty: all entities which are NUTS3-regions (Landkreis, kreisfreie Stadt, Stadtstaat)
+- GERcity: all NUTS3-regions which contain at least one of the strings {'Kreisfreie Stadt', 'Stadt', 'Landeshauptstadt'} or are Berlin or Hamburg (these are citystates). Note that the third city-state Bremen is officially divided into two distinct NUTS3-regions, Bremen and Bremerhaven.
+
+
+Original analysis: May 2019 in repository spatial-cities.
