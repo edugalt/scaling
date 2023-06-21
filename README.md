@@ -46,6 +46,9 @@ The 19 datasets listed below are available for investigation. The column "tag" i
 ||	eurostat_museum_visitors	|443|	N|	2011|Visitors to museums|[Eurostat](https://ec.europa.eu/eurostat/web/cities/data/database)|
 ||	eurostat_theaters	|398	|N|	2011|Theaters|[Eurostat](https://ec.europa.eu/eurostat/web/cities/data/database)|
 ||	eurostat_libraries	|597	|N	|2011|Libraries|[Eurostat](https://ec.europa.eu/eurostat/web/cities/data/database)|
+|Germany | 				
+| | germany_gdp |108	| N |	2012 | GDP | [German Statistical Office](https://www.destatis.de/EN/Themes/Countries-Regions/Regional-Statistics/_node.html)|
+
 |OECD|				
 ||	oecd_gdp	|275	|N	|2010|GDP |[OECD](http://dx.doi.org/10.1787/data-00531-en)|
 || oecd_patents	|218	|N	|2008| Patents filed |[OECD](http://dx.doi.org/10.1787/data-00531-en)|
