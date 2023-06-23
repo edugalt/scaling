@@ -8,7 +8,7 @@ Data correspond to the 2021 Census, except the location of the SUA which seems t
 
 
 1. table builder:
- https://tablebuilder.abs.gov.au/
+https://www.abs.gov.au/statistics/microdata-tablebuilder/tablebuilder
 
 Dowloaded 2023-6-22
 - age-by-SUA.csv, can compute total population for 2021

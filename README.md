@@ -34,8 +34,8 @@ The datasets listed below are available for investigation. The column "tag" indi
 |Australia ||||||
 || covid19_NSW |	144 | N | 2021 | COVID19 cases in the state of NSW |[NSW](https://data.nsw.gov.au/data/dataset/covid-19-cases-by-location/resource/21304414-1ff1-4243-a5d2-f52778048b29) |
 || australia_area | 102 | Y | 2021 | Area | [Australian Bureau of Statistics](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/allocation-files) |
-|| australia_education | 102 | Y | 2021 | Top bracket in Eduction | [Census, Australian Bureau of Statistics](https://tablebuilder.abs.gov.au/)|
-|| australia_income | 102 | Y | 2021 | Top bracket in Income | [Census, Australian Bureau of Statistics](https://tablebuilder.abs.gov.au/)|
+|| australia_education | 102 | Y | 2021 | Top bracket in Eduction | [Census, Australian Bureau of Statistics](https://www.abs.gov.au/statistics/microdata-tablebuilder/tablebuilder)|
+|| australia_income | 102 | Y | 2021 | Top bracket in Income | [Census, Australian Bureau of Statistics](https://www.abs.gov.au/statistics/microdata-tablebuilder/tablebuilder)|
 |Brazil | 				
 | | brazil_aids_2010 | 1812	| Y |	2010 | AIDS cases | Brazilian Health Ministry |
 ||	brazil_externalCauses_2010 | 5286 |	Y	| 2010|Death by external causes| Brazilian Health Ministry |
