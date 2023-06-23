@@ -27,12 +27,15 @@ For the application of models based on the attribution of tokens to individuals 
 
 ## Data
 
-The 20 datasets listed below are available for investigation. The column "tag" indicates the key to be used to call this data in our code (e.g., in the [notebook](https://colab.research.google.com/github/edugalt/scaling/blob/master/notebooks/Notebook-FittingModels-Colab.ipynb)). The column "Location?" indicates whether the latitude and logitude is available (Y/N). An example of the analysis of COVID19 cases can be found [here](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-covid19_results.ipynb).
+The datasets listed below are available for investigation. The column "tag" indicates the key to be used to call this data in our code (e.g., in the [notebook](https://colab.research.google.com/github/edugalt/scaling/blob/master/notebooks/Notebook-FittingModels-Colab.ipynb)). The column "Location?" indicates whether the latitude and logitude is available (Y/N). An example of the analysis of COVID19 cases can be found [here](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-covid19_results.ipynb).
 
 | Region: | Tag: | N	| Location? | Year | Description| Source |
 | --------|------|------------------------|--------------------| -------| ------|------|
 |Australia ||||||
 || covid19_NSW |	144 | N | 2021 | COVID19 cases in the state of NSW |[NSW](https://data.nsw.gov.au/data/dataset/covid-19-cases-by-location/resource/21304414-1ff1-4243-a5d2-f52778048b29) |
+|| australia_area | 102 | Y | 2021 | Area | [Australian Bureau of Statistics](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/allocation-files) |
+|| australia_education | 102 | Y | 2021 | Top bracket in Eduction | [Census, Australian Bureau of Statistics](https://tablebuilder.abs.gov.au/)|
+|| australia_income | 102 | Y | 2021 | Top bracket in Income | [Census, Australian Bureau of Statistics](https://tablebuilder.abs.gov.au/)|
 |Brazil | 				
 | | brazil_aids_2010 | 1812	| Y |	2010 | AIDS cases | Brazilian Health Ministry |
 ||	brazil_externalCauses_2010 | 5286 |	Y	| 2010|Death by external causes| Brazilian Health Ministry |
@@ -131,10 +134,11 @@ this requires some environment variables that are documented when you run it.
 
 This repository contains both data and code from the papers:
 
-[2] Spatial Interctions in urban scaling laws, by [Eduardo G. Altmann](https://www.maths.usyd.edu.au/u/ega/), [PLOS ONE 15, e0243390 (2020)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243390]). | [See Notebook](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-SpatialModels.ipynb) | [Open Notebook in Colab](https://colab.research.google.com/github/edugalt/scaling/blob/master/notebooks/Notebook-SpatialModels-Colab.ipynb)
 
 [1] Is this scaling non-linear? by Jorge C. Leitão, José M. Miotto, Martin Gerlach, and [Eduardo G. Altmann](https://www.maths.usyd.edu.au/u/ega/), [Royal Society Open Science 3, 150649 (2016)](https://royalsocietypublishing.org/doi/10.1098/rsos.150649).  | [See Notebook](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-FittingModels.ipynb) | [Open Notebook in Colab](https://colab.research.google.com/github/edugalt/scaling/blob/master/notebooks/Notebook-FittingModels-Colab.ipynb)
 
+[2] Spatial Interctions in urban scaling laws, by [Eduardo G. Altmann](https://www.maths.usyd.edu.au/u/ega/), [PLOS ONE 15, e0243390 (2020)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243390]). | [See Notebook](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-SpatialModels.ipynb) | [Open Notebook in Colab](https://colab.research.google.com/github/edugalt/scaling/blob/master/notebooks/Notebook-SpatialModels-Colab.ipynb)
+
 and also results for COVID-19 data performed by [Jimena Espinoza](https://github.com/jimenaspi) in Semester 2 2021| [See Notebook](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-covid19_results.ipynb) | [Open Notebook in Colab](https://colab.research.google.com/github/edugalt/scaling/blob/master/notebooks/Notebook-covid19-Colab.ipynb). 
 
-Contributions with data and models are welcome. If results of this repository are used, please cite the corresponding publications.
+Contributions with data and models are welcome. If results of this repository are used, please cite the corresponding publications as well.

@@ -6,7 +6,7 @@ import scipy as sp
 
 ## Function to import the data:
 
-import brazil,usa
+import brazil,usa,australia
 
 def getData(country="USA",data="gdp"):
     "Load data from requested country and dataset"
@@ -23,6 +23,13 @@ def getData(country="USA",data="gdp"):
             x,y,l,names=usa.gdplocation(names=True)
         if data=="roads":
             x,y,l,names=usa.mileslocation(names=True)
+    if country == "Australia":
+        if data=="area":
+            x,y,l,names=australia.area(locations=True)
+        if data=="education":
+            x,y,l,names=australia.education(locations=True)
+        if data=="income":
+            x,y,l,names=australia.income(locations=True)
     try:
         return x,y,l,names
     except:

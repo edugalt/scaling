@@ -1,0 +1,31 @@
+Data from the Australian Bureau of Statistics at the level of Significant Urban Areas (SUA). 
+
+Significant Urban Areas (SUAs) represent Urban Centres, or groups of Urban Centres, that contain population of 10,000 persons or more. They are based on Urban Centres and Localities (UCLs) and built from Statistical Areas Level 2 (SA2). This enables a wider variety of statistical data to be available on this geography including non-Census data such as Estimated Resident Population (ERP).o
+https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/significant-urban-areas-urban-centres-and-localities-section-state/significant-urban-areas#sua-design-criteria
+
+
+Data correspond to the 2021 Census, except the location of the SUA which seems to be pre-2011. The matching of the locations to the 2021 data failed in ~10% as the SUAs changed (names and number). The locations seem to be at the boarder of the SUA, typically far from the centroid or core of the population.
+
+
+1. table builder:
+ https://tablebuilder.abs.gov.au/
+
+Dowloaded 2023-6-22
+- age-by-SUA.csv, can compute total population for 2021
+- income-by-SUA.csv, weekly personal income for 2021, brackets
+- education-SUA.csv, education
+
+- top2021.csv, number of individuals at the top bracket in Income and Education, built manually from the two files above
+- 
+
+2. -SUA_2021_AUST.xlsx
+- SUA_association_2016_2021.xlsx 
+Area of Significant urban areas can be extracted
+
+Downloaded 2023-06-22 from
+https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/allocation-files
+
+3. Locations of SUA
+- SUA_LatLong.xlsx
+
+
