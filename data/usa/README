@@ -19,3 +19,41 @@ Data retrived from table "hm71.xls" from:
 http://www.fhwa.dot.gov/policyinformation/statistics/2013/
 
 table "metropolitan-miles.csv" from copy paste of the table above
+
+4) Population csv
+
+Data retrieved from
+https://data.census.gov/table/ACSDT1Y2022.B01003?q=Population%20Total&g=010XX00US$31000M1
+
+It is the (estimated) population for metropolitan areas in the US from 2010-2022.
+
+5) High school graduates
+
+Data retrieved from
+https://data.census.gov/table?q=Education&g=010XX00US$31000M1
+
+It is the (estimated) number of high school graduates for metropolitan areas in the US from 2010 to 2022.
+Summed "High school graduated (includes equivalency)" for population 18 to 24 and "High school graduate or higher" for population 25+
+
+6) Poverty total
+
+Data retrieved from 
+https://data.census.gov/table/ACSST1Y2022.S1701?q=Poverty&g=010XX00US$31000M1
+
+It is the (estimated) total population in poverty for metropolitan areas in the US from 2010 to 2022.
+Poverty thresholds vary by family size. Details provided:
+https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-poverty-thresholds.html
+
+7) Aggregate travel time
+
+Data retrieved from
+https://data.census.gov/table/ACSDT1Y2022.B08013?q=B08013:%20Aggregate%20Travel%20Time%20to%20Work%20(in%20Minutes)%20of%20Workers%20by%20Sex&g=010XX00US$31000M1
+
+It is the (estimated) aggregate travel time for metropolitan areas in the US from 2010 to 2022.
+
+8) Mean and median incomes
+
+Data retrieved from 
+https://data.census.gov/table/ACSST1Y2022.S1902?q=mean%20income&g=010XX00US$31000M1
+
+For each year, estimates for all households are extracted. It is the mean/median income for households for metropolitan areas in the US from 2010 to 2022.
