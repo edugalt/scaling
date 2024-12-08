@@ -36,6 +36,8 @@ The datasets listed below are available for investigation. The column "tag" indi
 || australia_area | 102 | Y | 2021 | Area | [Australian Bureau of Statistics](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/allocation-files) |
 || australia_education | 102 | Y | 2021 | Top bracket in Eduction | [Census, Australian Bureau of Statistics](https://www.abs.gov.au/statistics/microdata-tablebuilder/tablebuilder)|
 || australia_income | 102 | Y | 2021 | Top bracket in Income | [Census, Australian Bureau of Statistics](https://www.abs.gov.au/statistics/microdata-tablebuilder/tablebuilder)|
+|| capital_population | 8 | N | 1901 to 2016 | Population | [Regional population, Australian Bureau of Statistics](https://www.abs.gov.au/articles/50-years-capital-city-population-change)|
+|| australia_population | 111 | N | 2001 to 2022 | Population | [Regional population, Australian Bureau of Statistics](https://www.abs.gov.au/statistics/people/population/regional-population/latest-release#key-statistics)|
 |Brazil | 				
 | | brazil_aids_2010 | 1812	| Y |	2010 | AIDS cases | Brazilian Health Ministry |
 ||	brazil_externalCauses_2010 | 5286 |	Y	| 2010|Death by external causes| Brazilian Health Ministry |
@@ -49,6 +51,24 @@ The datasets listed below are available for investigation. The column "tag" indi
 ||	eurostat_museum_visitors	|443|	N|	2011|Visitors to museums|[Eurostat](https://ec.europa.eu/eurostat/web/cities/data/database)|
 ||	eurostat_theaters	|398	|N|	2011|Theaters|[Eurostat](https://ec.europa.eu/eurostat/web/cities/data/database)|
 ||	eurostat_libraries	|597	|N	|2011|Libraries|[Eurostat](https://ec.europa.eu/eurostat/web/cities/data/database)|
+||	eurostat_population	|296	|N	|1990 to 2023|Population|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
+||	eurostat_landarea	|298	|N	|1990 to 2023|Land Area|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
+||	eurostat_totalarea	|298	|N	|1990 to 2023|Total Area|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
+||	eurostat_trademarks	|273	|N	|1996 to 2016|Trademarks|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
+||	eurostat_gdp	|238	|N	|2000 to 2021|GDP|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
+||	eurostat_gdp_purchasing_power	|238	|N	|2000 to 2021|GDP Purchasing Power Adjusted|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
+||	eurostat_gdp_perperson	|238	|N	|2000 to 2021|GDP Per Person|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
+||	eurostat_gdp_perperson_purchasing_power	|238	|N	|2000 to 2021|GDP Per Person Purchasing Power Adjusted|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
+||	eurostat_patents	|278	|N	|1977 to 2012|Patents|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
+||	eurostat_gva	|255	|N	|1995 to 2021|GVA|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
+||	eurostat_burglaries	|217	|N	|2008 to 2020|Burglaries|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
+||	eurostat_robberies	|217	|N	|2008 to 2020|Robberies|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
+||	eurostat_homicides	|217	|N	|2008 to 2020|Homicides|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
+||	eurostat_motor_theft	|217	|N	|2008 to 2020|Motor Theft|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
+||	eurostat_lower_secondary_education	|286	|N	|2009 to 2022|Lower Secondary Education|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
+||	eurostat_upper_secondary_to_non_tertiary_education	|286	|N	|2009 to 2022|Upper Secondary to Non Tertiary Education|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
+||	eurostat_upper_secondary_to_tertiary_education	|286	|N	|2009 to 2022|Upper Secondary to Tertiary Education|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
+||	eurostat_tertiary_education	|286	|N	|2009 to 2022|Tertiary Education|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
 |Germany | 				
 | | germany_gdp |108	| N |	2012 | GDP | [German Statistical Office](https://www.destatis.de/EN/Themes/Countries-Regions/Regional-Statistics/_node.html)|
 |OECD|				
@@ -62,7 +82,13 @@ The datasets listed below are available for investigation. The column "tag" indi
 ||	usa_gdp	|381|	Y	|2013| GDP | [BEA](www.bea.gov/itable/index_regional.cfm)|
 ||	usa_miles|	459|	Y|	2013 |  Length of roads in miles | [FHWA](www.fhwa.dot.gov/policyinformation/statistics/2013/)|
 ||	covid19_USA|	3131|	N|	2021 | Covid19 cases | [Kaggle](https://www.kaggle.com/sudalairajkumar/covid19-in-usa/version/102)|
-
+||	usa_population|	632|	N|	2010 to 2022 | Population | [US Census Bureau](https://data.census.gov/table?g=010XX00US$31000M1)|
+||	usa_area|	938|	N|	2019 | Area | [US Census Bureau](https://www.census.gov/programs-surveys/metro-micro/about/delineation-files.html)|
+||	usa_travel_time|	632|	N|	2010 to 2022 | Travel Time | [Census](https://data.census.gov/table?g=010XX00US$31000M1)|
+||	usa_poverty|	505|	N|	2010 to 2022 | Poverty | [Census](https://data.census.gov/table?g=010XX00US$31000M1)|
+||	usa_mean_income|	632|	N|	2010 to 2022 | Mean Income | [Census](https://data.census.gov/table?g=010XX00US$31000M1)|
+||	usa_median_income|	632|	N|	2010 to 2022 | Median Income | [Census](https://data.census.gov/table?g=010XX00US$31000M1)|
+||	usa_highschool_education|	433|	N|	2015 to 2022 | High School Education | [Census](https://data.census.gov/table?g=010XX00US$31000M1)|
 
 The data is stored in the folder [data](https://github.com/edugalt/scaling/tree/master/data), where more information about its sources and filtering can be found. It consists of Python packages (e.g. `brazil`). Each package has functions
 that return the data there, defined in the `__init__.py` of the package.
