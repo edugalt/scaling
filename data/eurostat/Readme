@@ -7,3 +7,24 @@ It includes data on european metropolitan areas regarding:
 - 'all companies' (is this the number of companies?)
 
 The tables `EUROSTAT_*` were constructed by merging the different tables.
+
+New Data (for Area and Population models):
+Data sourced from same database (https://ec.europa.eu/eurostat/data/database). It includes data on european metropolitan areas regarding:
+- Population from 1990 - 2023
+- Land area from 1990 - 2023
+- Total area from 1990 - 2023
+- EU trade mark applications per million population 1996 - 2016
+- EU trade mark applications in total 1977 - 2012
+- GDP in million Euros at current market prices 2000 - 2021
+- GDP in million Euros purchasing power adjusted 2000 - 2021
+- GDP per person in Euros at current market prices 2000 - 2021
+- GDP per person in Euros purchasing power adjusted 2000 - 2021
+- GVA in million Euros 1995 - 2021
+- Burglaries 2008 - 2020
+- Homicides 2008 - 2020
+- Motortheft 2008 - 2020
+- Robberies 2008 - 2020
+- Lower secondary education 2009 - 2022
+- Upper secondary to nontertiary education 2009 - 2022
+- Upper secondary to tertiary education 2009 - 2022
+- Teritary education 2009 - 2022
