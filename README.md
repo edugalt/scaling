@@ -27,7 +27,9 @@ For the application of models based on the attribution of tokens to individuals 
 
 ## Data
 
-The datasets listed below are available for investigation. The column "tag" indicates the key to be used to call this data in our code (e.g., in the [notebook](https://colab.research.google.com/github/edugalt/scaling/blob/master/notebooks/Notebook-FittingModels-Colab.ipynb)). The column "Location?" indicates whether the latitude and logitude is available (Y/N).  The area of urban areas is available for data from Australia, Europe, and USA. This data can be used as an alternative measure $x_i$ of city size or in combination with population, an example of the analysis can be found [here](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-AreaPopModels.ipynb).  An example of the analysis of COVID19 cases can be found [here](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-covid19_results.ipynb).
+The datasets listed below are available for investigation. The column "tag" indicates the key to be used to call this data in our code (e.g., in the [notebook](https://colab.research.google.com/github/edugalt/scaling/blob/master/notebooks/Notebook-FittingModels-Colab.ipynb)). The column "Location?" indicates whether the latitude and logitude is available (Y/N).  
+
+The area of urban areas is available for data from Australia, Europe, and USA. This data can be used as an alternative measure $x_i$ of city size or in combination with population, an example of the analysis can be found [here](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-AreaPopModels.ipynb).  An example of the analysis of COVID19 cases can be found [here](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-covid19_results.ipynb).
 
 
 | Region: | Tag: | N	| Location? | Year | Description| Source |
@@ -37,9 +39,8 @@ The datasets listed below are available for investigation. The column "tag" indi
 || australia_area | 102 | Y | 2021 | Area | [Australian Bureau of Statistics](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/allocation-files) |
 || australia_education | 102 | Y | 2021 | Top bracket in Eduction | [Census, Australian Bureau of Statistics](https://www.abs.gov.au/statistics/microdata-tablebuilder/tablebuilder)|
 || australia_income | 102 | Y | 2021 | Top bracket in Income | [Census, Australian Bureau of Statistics](https://www.abs.gov.au/statistics/microdata-tablebuilder/tablebuilder)|
-
 |Brazil | 				
-| | brazil_aids_2010 | 1812	| Y |	2010 | AIDS cases | Brazilian Health Ministry |
+|| brazil_aids_2010 | 1812	| Y |	2010 | AIDS cases | Brazilian Health Ministry |
 ||	brazil_externalCauses_2010 | 5286 |	Y	| 2010|Death by external causes| Brazilian Health Ministry |
 ||	brazil_gdp_2010	| 5565 |	Y |	2010|GDP| Brazilian Health Ministry |
 ||	covid19_brazil	|5570	|N	|2021|COVID19 cases|[Brasil.io](https://brasil.io/dataset/covid19/files/) and [wcota](https://github.com/wcota/covid19br/blob/master/cases-brazil-cities.csv)|
@@ -167,6 +168,6 @@ And also specific projects:
 
 Results for COVID-19 data performed by [Jimena Espinoza](https://github.com/jimenaspi) in Semester 2 2021| [See Notebook](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-covid19_results.ipynb) | [Open Notebook in Colab](https://colab.research.google.com/github/edugalt/scaling/blob/master/notebooks/Notebook-covid19-Colab.ipynb). 
 
-Results considering area and population as measures of city size, performed by[Isaac Riad](https://github.com/isaac-riad/)] in 2024 [See Notebook](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-AreaPopModels.ipynb).
+Results considering area and population as measures of city size, performed by[Isaac Riad](https://github.com/isaac-riad/) in 2024 | [See Notebook](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-AreaPopModels.ipynb).
 
-Contributions with data and models are welcome. If results of this repository are used, please cite it and the corresponding publications.
+Contributions are welcome. If results of this repository are used, please cite it and the corresponding publications.
