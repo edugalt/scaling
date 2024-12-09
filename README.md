@@ -27,7 +27,8 @@ For the application of models based on the attribution of tokens to individuals 
 
 ## Data
 
-The datasets listed below are available for investigation. The column "tag" indicates the key to be used to call this data in our code (e.g., in the [notebook](https://colab.research.google.com/github/edugalt/scaling/blob/master/notebooks/Notebook-FittingModels-Colab.ipynb)). The column "Location?" indicates whether the latitude and logitude is available (Y/N). An example of the analysis of COVID19 cases can be found [here](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-covid19_results.ipynb).
+The datasets listed below are available for investigation. The column "tag" indicates the key to be used to call this data in our code (e.g., in the [notebook](https://colab.research.google.com/github/edugalt/scaling/blob/master/notebooks/Notebook-FittingModels-Colab.ipynb)). The column "Location?" indicates whether the latitude and logitude is available (Y/N).  The area of urban areas is available for data from Australia, Europe, and USA. This data can be used as an alternative measure $x_i$ of city size or in combination with population, an example of the analysis can be found [here](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-AreaPopModels.ipynb).  An example of the analysis of COVID19 cases can be found [here](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-covid19_results.ipynb).
+
 
 | Region: | Tag: | N	| Location? | Year | Description| Source |
 | --------|------|------------------------|--------------------| -------| ------|------|
@@ -36,8 +37,7 @@ The datasets listed below are available for investigation. The column "tag" indi
 || australia_area | 102 | Y | 2021 | Area | [Australian Bureau of Statistics](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/allocation-files) |
 || australia_education | 102 | Y | 2021 | Top bracket in Eduction | [Census, Australian Bureau of Statistics](https://www.abs.gov.au/statistics/microdata-tablebuilder/tablebuilder)|
 || australia_income | 102 | Y | 2021 | Top bracket in Income | [Census, Australian Bureau of Statistics](https://www.abs.gov.au/statistics/microdata-tablebuilder/tablebuilder)|
-|| capital_population | 8 | N | 1901 to 2016 | Population | [Regional population, Australian Bureau of Statistics](https://www.abs.gov.au/articles/50-years-capital-city-population-change)|
-|| australia_population | 111 | N | 2001 to 2022 | Population | [Regional population, Australian Bureau of Statistics](https://www.abs.gov.au/statistics/people/population/regional-population/latest-release#key-statistics)|
+
 |Brazil | 				
 | | brazil_aids_2010 | 1812	| Y |	2010 | AIDS cases | Brazilian Health Ministry |
 ||	brazil_externalCauses_2010 | 5286 |	Y	| 2010|Death by external causes| Brazilian Health Ministry |
@@ -51,7 +51,6 @@ The datasets listed below are available for investigation. The column "tag" indi
 ||	eurostat_museum_visitors	|443|	N|	2011|Visitors to museums|[Eurostat](https://ec.europa.eu/eurostat/web/cities/data/database)|
 ||	eurostat_theaters	|398	|N|	2011|Theaters|[Eurostat](https://ec.europa.eu/eurostat/web/cities/data/database)|
 ||	eurostat_libraries	|597	|N	|2011|Libraries|[Eurostat](https://ec.europa.eu/eurostat/web/cities/data/database)|
-||	eurostat_population	|296	|N	|1990 to 2023|Population|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
 ||	eurostat_landarea	|298	|N	|1990 to 2023|Land Area|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
 ||	eurostat_totalarea	|298	|N	|1990 to 2023|Total Area|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
 ||	eurostat_trademarks	|273	|N	|1996 to 2016|Trademarks|[Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes)|
@@ -82,7 +81,6 @@ The datasets listed below are available for investigation. The column "tag" indi
 ||	usa_gdp	|381|	Y	|2013| GDP | [BEA](www.bea.gov/itable/index_regional.cfm)|
 ||	usa_miles|	459|	Y|	2013 |  Length of roads in miles | [FHWA](www.fhwa.dot.gov/policyinformation/statistics/2013/)|
 ||	covid19_USA|	3131|	N|	2021 | Covid19 cases | [Kaggle](https://www.kaggle.com/sudalairajkumar/covid19-in-usa/version/102)|
-||	usa_population|	632|	N|	2010 to 2022 | Population | [US Census Bureau](https://data.census.gov/table?g=010XX00US$31000M1)|
 ||	usa_area|	938|	N|	2019 | Area | [US Census Bureau](https://www.census.gov/programs-surveys/metro-micro/about/delineation-files.html)|
 ||	usa_travel_time|	632|	N|	2010 to 2022 | Travel Time | [Census](https://data.census.gov/table?g=010XX00US$31000M1)|
 ||	usa_poverty|	505|	N|	2010 to 2022 | Poverty | [Census](https://data.census.gov/table?g=010XX00US$31000M1)|
@@ -160,11 +158,15 @@ this requires some environment variables that are documented when you run it.
 
 This repository contains both data and code from the papers:
 
-
 [1] Is this scaling non-linear? by Jorge C. Leitão, José M. Miotto, Martin Gerlach, and [Eduardo G. Altmann](https://www.maths.usyd.edu.au/u/ega/), [Royal Society Open Science 3, 150649 (2016)](https://royalsocietypublishing.org/doi/10.1098/rsos.150649).  | [See Notebook](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-FittingModels.ipynb) | [Open Notebook in Colab](https://colab.research.google.com/github/edugalt/scaling/blob/master/notebooks/Notebook-FittingModels-Colab.ipynb)
 
 [2] Spatial Interctions in urban scaling laws, by [Eduardo G. Altmann](https://www.maths.usyd.edu.au/u/ega/), [PLOS ONE 15, e0243390 (2020)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243390]). | [See Notebook](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-SpatialModels.ipynb) | [Open Notebook in Colab](https://colab.research.google.com/github/edugalt/scaling/blob/master/notebooks/Notebook-SpatialModels-Colab.ipynb)
 
-and also results for COVID-19 data performed by [Jimena Espinoza](https://github.com/jimenaspi) in Semester 2 2021| [See Notebook](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-covid19_results.ipynb) | [Open Notebook in Colab](https://colab.research.google.com/github/edugalt/scaling/blob/master/notebooks/Notebook-covid19-Colab.ipynb). 
 
-Contributions with data and models are welcome. If results of this repository are used, please cite the corresponding publications as well.
+And also specific projects:
+
+Results for COVID-19 data performed by [Jimena Espinoza](https://github.com/jimenaspi) in Semester 2 2021| [See Notebook](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-covid19_results.ipynb) | [Open Notebook in Colab](https://colab.research.google.com/github/edugalt/scaling/blob/master/notebooks/Notebook-covid19-Colab.ipynb). 
+
+Results considering area and population as measures of city size, performed by[Isaac Riad](https://github.com/isaac-riad/)] in 2024 [See Notebook](https://github.com/edugalt/scaling/blob/master/notebooks/Notebook-AreaPopModels.ipynb).
+
+Contributions with data and models are welcome. If results of this repository are used, please cite it and the corresponding publications.
